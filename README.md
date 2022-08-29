@@ -36,7 +36,7 @@ In Aymara, we had to create dozens of neologisms for terms such as "file" (*waya
 "folder" (*q'ipi*), "document" (*qillqa-wayaqa*), table (*uyu-uyu*), "energy" (ch'ama), 
 "touchpad" (wikuchiri pampa), "package" (*q'ipicha*), "font" (*qillqa kasta*), "privacy" 
 (*sapa jaqinkirina*), "network" (*llika*), "internet" (*llikapura*), etc. Plus, we 
-borrowed dozens of technical words from Spanish, which we rephoneticized in the fro
+borrowed dozens of technical words from Spanish, which we rephoneticized in the 
 Aymara alphabet, such as "aplicación" (*aplikasiyuna*), "ventana" (*wintana*), 
 "computadora" (*kumputarura*), "escritorio" (*iskrituryu*), "teclado" (*tiklaru*), 
 etc. Sometimes it was possible to include the Spanish translation in parentheses
@@ -167,7 +167,7 @@ for its file with this command:
 ## License info ##
 
 The `plurios` script has a GPL 3.0 or later license. The language files have the
-license of their software project. If unsure which project a language file comes from, 
+license of their software projects. If unsure which project a language file comes from, 
 that information can usually be found by opening the `.desktop` files with a plain text editor
 (such as [Geany](https://www.geany.org)) or by examining the `.mo` files with a binary 
 file editor (such as [GHex](https://wiki.gnome.org/Apps/Ghex)).
