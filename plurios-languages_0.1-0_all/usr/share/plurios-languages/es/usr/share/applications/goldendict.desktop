@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Categories=Office;Dictionary;Education;Qt;
+Name=GoldenDict
+GenericName=Multiformat Dictionary
+Comment=Consult electronic dictionaries
+Comment[ay]=Electrónicos aru-pirwanakan thaqham
+Comment[es]=Consulte a diccionarios electrónicos
+Comment[qu]=Electrónicos simi-pirwakunapi mask'ay
+Encoding=UTF-8
+Icon=goldendict
+Exec=goldendict

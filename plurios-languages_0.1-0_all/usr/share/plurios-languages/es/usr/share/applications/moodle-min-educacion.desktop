@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=Plataforma de Gestión de Aprendizaje
+Name[es]=Plataforma de Gestión de Aprendizaje
+Name[ay]=Yatiqawin irpañatak web chiqawja
+Comment=Plataforma Virtual del Ministerio de Educación
+Comment[es]=Plataforma Virtual del Ministerio de Educación
+Comment[ay]=Yatichawi Kamani web chiqawja
+GenericName=Web Browser
+GenericName[es]=Navegador web
+Exec=firefox %u http://aula.minedu.gob.bo
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=applications-education-symbolic
+Categories=PluriOS;GNOME;GTK;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
+Actions=new-window;new-private-window;
+

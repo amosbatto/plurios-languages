@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=draw.io
+Exec=/opt/draw.io/drawio %U
+Terminal=false
+Type=Application
+Icon=drawio
+StartupWMClass=draw.io
+Comment=Escritorio de diagrams.net
+MimeType=application/vnd.jgraph.mxfile;application/vnd.visio;
+Categories=Graphics;

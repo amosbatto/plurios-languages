@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+X-Desktop-File-Install-Version=0.9
+Name=AbiWord Aymara
+Name[es]=AbiWord en Aymara
+Name[ay]=Aymar arun AbiWord
+Name[qu]=Aymara simipi AbiWord
+GenericName=Procesador de textos Aymara
+GenericName[es]=Procesador de textos Aymara
+Comment=Procesador de textos Abiword en aymara
+Comment[es]=Procesador de textos Abiword en aymara
+Comment[ay]=Qillqatanak askichiri AbiWord aymar aruna
+Comment[qu]=Qillqasqakuna p'anqachaq AbiWord aymara simipi
+Exec=bash -c "LANG=ayc_BO abiword"
+Icon=abiword
+Terminal=false
+StartupNotify=true
+Categories=PluriOS;Office;WordProcessor;GNOME;GTK;X-Red-Hat-Base;

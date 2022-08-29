@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Pidgin Internet Messenger
+Name[es]=Mensajería de Internet Pidgin
+Name[ay]=Pidgin llikapuran yatiyiri
+GenericName=Internet Messenger
+Comment=Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, and more
+Comment[es]=Chatea con mensajería instantánea en AIM, Google Talk, Jabber/XMPP y más
+Comment[ay]=Mäki yatiyirimpi aruskipam AIM, Google Talk, Jabber/XMPP, etc. ukana
+Exec=pidgin
+Icon=pidgin
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
+X-MessagingMenu-UsesChatSection=true
+X-Ubuntu-Gettext-Domain=pidgin

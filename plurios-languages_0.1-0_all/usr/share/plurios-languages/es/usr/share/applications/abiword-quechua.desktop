@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+X-Desktop-File-Install-Version=0.9
+Name=AbiWord in Quechua
+Name[es]=AbiWord en quechua
+Name[ay]=AbiWord qhichwa aruna
+Name[qu]=AbiWord runasimipi
+GenericName=Procesador de textos Quechua
+GenericName[es]=Procesador de textos Quechua
+Comment=Procesador de textos Abiword en quechua boliviano
+Comment[es]=Procesador de textos Abiword en quechua boliviano
+Comment[ay]=Qillqatanak askichiri AbiWord qhichwa aruna
+Comment[qu]=Runasimipi qillqasqakunata ukjinayachiq AbiWord
+Exec=bash -c "LANG=quh_BO abiword"
+Icon=abiword
+Terminal=false
+StartupNotify=true
+Categories=PluriOS;Office;WordProcessor;GNOME;GTK;X-Red-Hat-Base;
