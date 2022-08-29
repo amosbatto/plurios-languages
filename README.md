@@ -154,8 +154,10 @@ For example:
 
 If unsure where to place the `.mo` file, install the program's normal package on the
 system and then search for its `.mo` file. For example:  
-```sudo apt install tuxpaint
-sudo find  / -iname tuxpaint.mo```
+```
+sudo apt install tuxpaint
+sudo find  / -iname tuxpaint.mo
+```
 
 If unable to find where a phrase is translated, use the `grep` command to find it. 
 For example, you see the phrase "My cool app" in the interface, then you search
