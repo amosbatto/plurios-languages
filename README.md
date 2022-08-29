@@ -2,19 +2,19 @@
 
 plurios-languages is a project to translate the [PluriOS](https://plurios.openit.dev) Linux distribution 
 into native languages of Bolivia. PluriOS is based on [Ubuntu Cinnamon Remix](https://ubuntucinnamon.org/) 
-20.04 LTS “Focal Fossa”, but we hope that plurios-languages can be packaged, 
-so it can be installed in other distros which offer the Cinnamon interface.  
+20.04 LTS “Focal Fossa”, but we hope that plurios-languages can be packaged for 
+other distros which offer the Cinnamon interface.  
 
 ## The challenge
 To fully localize Linux in another language requires translating over million
-words. LibreOffice alone contains roughly 300,000 words. OpenIT offered us
+words. LibreOffice alone contains roughly 300,000 words. [OpenIT](https://openit.com.bo/) offered us
 a small fund to translate PluriOS's Cinnamon interface and main menu into Aymara, 
 Quechua and Guarani, but that only consists of roughly 11,000 words for each 
 language.
 
 If we switch the system language to Aymara, Quechua or Guarani, we will have a
-problem, because the rest of the software the system won't have a translation, 
-so it will default to English, which is a language which very few speakers of 
+problem, because the rest of the software in the system won't have a translation, 
+so it will default to English, which is a language that very few speakers of 
 Bolivian native languages know. 
 
 Another problem is that these languages often don't have locale files. For example, 
