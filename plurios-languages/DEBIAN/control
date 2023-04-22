@@ -1,0 +1,13 @@
+Package: plurios-languages
+Version: 0.2
+Architecture: all
+Maintainer: Amos Batto <amosbatto@yahoo.com>
+Section: localization
+Priority: optional
+Homepage: https://plurios.openit.dev/
+Depends: python3 (>=3.6), lsb-release, lshw
+Description: Aymara and Spanish files for the Plurios interface
+ The package contains the language files to change the PluriOS menus
+ and Cinnamon to Aymara, official Aymara or Spanish. 
+ The /usr/bin/plurios script can be used
+ to change the language after installing this package.

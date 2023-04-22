@@ -1,0 +1,7648 @@
+#  [ES] ""
+#  [ES] "Project-Id-Version: PACKAGE VERSION\n"
+#  [ES] "Report-Msgid-Bugs-To: \n"
+#  [ES] "POT-Creation-Date: 2020-12-11 18:24-0400\n"
+#  [ES] "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+#  [ES] "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+#  [ES] "Language-Team: LANGUAGE <LL@li.org>\n"
+#  [ES] "MIME-Version: 1.0\n"
+#  [ES] "Content-Type: text/plain; charset=UTF-8\n"
+#  [ES] "Content-Transfer-Encoding: 8bit\n"
+#  [ES] "X-Generator: Translate Toolkit 2.3.1\n"
+msgid ""
+msgstr ""
+"Project-Id-Version: Goldendict 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-11 18:18-0400\n"
+"PO-Revision-Date: 2023-01-30 17:32-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language-Team: ILLA\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#  [ES] "Error de sintaxis XML: %1 en %2,%3"
+#. (obsolete)
+#: %0A++++++++%231
+msgctxt ""
+"\n"
+"        #1\n"
+"        #1\n"
+"        #1"
+msgid "XML parse error: %1 at %2,%3"
+msgstr "XML ukanxa pantjawi utji: %1 ukani %2,%3"
+
+#  [ES] "Acerca de"
+#: About%231
+msgid "About"
+msgstr "Ukaxata"
+
+#  [ES] "Créditos:"
+#: About%232
+msgid "Credits:"
+msgstr "Yanapirinaka:"
+
+#. (obsolete)
+#: About%233
+msgid "GoldenDict dictionary lookup program, version 0.7"
+msgstr "GoldenDict arupirwa electrónico, versión 0.7"
+
+#  [ES] "GoldenDict, programa para consulta de diccionarios, versión "
+#: About%234
+msgid "GoldenDict dictionary lookup program, version "
+msgstr "GoldenDict, programa aru-pirwanakana thaqhañataki, jakhu uñjawi "
+
+#. (obsolete)
+#: About%235
+msgid "#.#"
+msgstr "#.#"
+
+#  [ES] "Licencia GNU GPLv3 o posterior"
+# Debe ser una manera para decir licencia.
+#: About%236
+msgid "Licensed under GNU GPLv3 or later"
+msgstr "Licencia GNU GPLv3 jani ukaxa qhipata"
+
+#  [ES] "[Desconocido]"
+# No estoy seguro
+#: About%237
+msgctxt "About#7"
+msgid "[Unknown]"
+msgstr "[Jani uñt'ata]"
+
+#  [ES] "© 2008-2013 Konstantin Isakov (ikm@goldendict.org)"
+#: About%238
+msgid "(c) 2008-2013 Konstantin Isakov (ikm@goldendict.org)"
+msgstr "(c) 2008-2013 Konstantin Isakov (ikm@users.berlios.de)"
+
+#  [ES] "Basado en Qt %1 (%2, %3 bits)"
+#: About%239
+msgid "Based on Qt %1 (%2, %3 bit)"
+msgstr "Qt %1 (%2, %3 bits) ukampi uñstayata"
+
+#  [ES] "No se ha encontrado ninguna traducción para <b>%1</b> en el grupo <b>%2</b>."
+#: ArticleMaker%231
+msgid "No translation for <b>%1</b> was found in group <b>%2</b>."
+msgstr ""
+"<b>%2</b> qutuna janiwa <b>%1</b> aru utjkiti.<br><br>\n"
+"No se ha encontrado la palabra <b>%1</b> en el grupo <b>%2</b>."
+
+#  [ES] "No se ha encontrado ninguna traducción en el grupo <b>%1</b>."
+#: ArticleMaker%232
+msgid "No translation was found in group <b>%1</b>."
+msgstr ""
+"<b>%1</b> qutuna aru utjkiti.<br><br>\n"
+"No se ha encontrado la palabra en el grupo <b>%1</b>."
+
+#  [ES] "¡Bienvenido!"
+#: ArticleMaker%233
+msgctxt "ArticleMaker#3"
+msgid "Welcome!"
+msgstr "¡Aski jutawi!"
+
+#  [ES] "Utilización de la ventana emergente"
+#: ArticleMaker%234
+msgid "Working with popup"
+msgstr "Uñstiri wintanampi apnaqkasa"
+
+#  [ES] ""
+#  [ES] "<h3 align=\"center\">Utilización de la ventana emergente</h3>Para buscar "
+#  [ES] "palabras desde otras aplicaciones, tiene que activar antes la <i>\"función "
+#  [ES] "de ventana emergente de búsqueda\"</i> en <b>Preferencias</b>, y entonces "
+#  [ES] "activar la ventana en cualquier momento con el icono 'Ventana emergente' "
+#  [ES] "mostrado arriba, o pulsando el icono de la bandeja mostrado abajo con el "
+#  [ES] "botón derecho del ratón y eligiendo la opción en el menú que aparece."
+#: ArticleMaker%235
+msgid ""
+"<h3 align=\"center\">Working with the popup</h3>To look up words from other "
+"active applications, you would need to first activate the <i>\"Scan popup "
+"functionality\"</i> in <b>Preferences</b>, and then enable it at any time "
+"either by triggering the 'Popup' icon above, or by clicking the tray icon "
+"down below with your right mouse button and choosing so in the menu you've "
+"popped. "
+msgstr ""
+"<h3 align=\"center\">Uñstiri wintana apnaqasa</h3>\n"
+"Yaqha aplicaciones ukata arunaka thaqhañatakixa, <i>\"Escaneo apnaqañatakixa "
+"uñstiri wintanana\"</i> <b>Askichaña>Ajlliñanaka</b> ukana naktayañama. "
+"Ukataxa jist'arasmawa klik ukampi salta uñstiri wintanana jani ukjaxa klik "
+"ukampi sistema wak'ana achakuta kupi wutunampi. \n"
+"<h3 align=\"center\">Utilización de la ventana emergente</h3>\n"
+"Para buscar palabras desde otras aplicaciones, tiene que activar \n"
+"antes la <i>\"función de ventana emergente de búsqueda\"</i> en \n"
+"<b>Askichaña>Ajlliñanaka</b>, y entonces activar la ventana en cualquier "
+"momento con el icono 'Ventana emergente' mostrado arriba, o pulsando el icono "
+"de la bandeja mostrado abajo con el botón derecho del ratón y eligiendo la "
+"opción en el menú que aparece. "
+
+#  [ES] ""
+#  [ES] "Entonces puede situar el cursor sobre la palabra que quiere buscar en otra "
+#  [ES] "aplicación, y aparecerá una ventana mostrando los resultados de la búsqueda."
+# ¿ukatja?
+#: ArticleMaker%236
+msgid ""
+"Then just stop the cursor over the word you want to look up in another "
+"application, and a window would pop up which would describe it to you."
+msgstr ""
+"Ukata wikuchiri (cursor) kuna arutixa thaqhaña munta yaqha aplicación ukana "
+"ukxaruwa uchasma, ukatja mä wintanawa uñstanini, thaqhawinaka uñachayañataki."
+
+#  [ES] "Entonces puedes seleccionar cualquier palabra que quieras buscar en otra "
+#  [ES] "aplicación con el ratón (haga doble clic o deslizar sobre la palabra con el botón "
+#  [ES] "del ratón oprimido), y aparecerá una ventana que "
+#  [ES] "mostrará los resultados de la búsqueda."
+#: ArticleMaker%237
+msgid ""
+"Then just select any word you want to look up in another application by your "
+"mouse (double-click it or swipe it with mouse with the button pressed), and a "
+"window would pop up which would describe the word to you."
+msgstr ""
+"<p>Ukata kawkiru aru thaqhaña munta uka ajllismawa yaqha aplicación ukana "
+"ukaxa achakumpi (pä kuti limt'ama jani ukjaxa llust'ayama achakuna wutunapa "
+"limt'asa) ukataxa mä wintana uñstanini, thaqhawi uñachayañataki.\n"
+"<p>Entonces puedes seleccionar cualquier palabra que \n"
+"quieras buscar en otra aplicación con el ratón (haga doble clic o deslizar \n"
+"sobre la palabra con el botón del ratón oprimido), y aparecerá una ventana \n"
+" que mostrará los resultados de la búsqueda."
+
+#  [ES] "(sin título)"
+#: ArticleMaker%238
+msgctxt "ArticleMaker#8"
+msgid "(untitled)"
+msgstr "(jani sutini)"
+
+#  [ES] ""
+#  [ES] "<h3 align=\"center\">¡Bienvenido a <b>GoldenDict</b>!</h3><p>Para empezar a "
+#  [ES] "trabajar con este programa, vaya primero a <b>Editar|Diccionarios</b> para "
+#  [ES] "especificar los directorios para los ficheros de diccionarios, configurar "
+#  [ES] "varios sitios de Wikipedia o de otras fuentes, definir el orden de búsqueda "
+#  [ES] "en los diccionarios o crear grupos de diccionarios.<p>Y con eso, ¡ya está "
+#  [ES] "listo para buscar! Puede hacerlo en esta ventana en el panel a la izquierda "
+#  [ES] "o puede <a href=\"Utilización de la ventana emergente\">buscar palabras "
+#  [ES] "desde otros programas</a>. <p>Para personalizar el programa, eche un vistazo "
+#  [ES] "a las opciones disponibles en <b>Editar|Preferencias</b>. Cada opción tiene "
+#  [ES] "su propia descripción, léalas si tiene cualquier duda.<p>Si necesita  más "
+#  [ES] "ayuda, tiene cualquier duda o sugerencia, o simplemente le interesa la "
+#  [ES] "opinión de los demás, es bienvenido al <a href=\"http://goldendict.berlios."
+#  [ES] "de/forum/\">foro</a> del programa.<p>Consulte el <a href=\"http://goldendict."
+#  [ES] "org/\">sitio web</a> del programa para estar al corriente de las "
+#  [ES] "actualizaciones.<p>© 2008-2013 Konstantin Isakov. Licencia GNU GPLv3 o "
+#  [ES] "posterior."
+# ¿musntaxa?
+#: ArticleMaker%239
+msgid ""
+"<h3 align=\"center\">Welcome to <b>GoldenDict</b>!</h3><p>To start working "
+"with the program, first visit <b>Edit|Dictionaries</b> to add some directory "
+"paths where to search for the dictionary files, set up various Wikipedia "
+"sites or other sources, adjust dictionary order or create dictionary groups."
+"<p>And then you're ready to look up your words! You can do that in this "
+"window by using a pane to the left, or you can <a href=\"Working with popup"
+"\">look up words from other active applications</a>. <p>To customize program, "
+"check out the available preferences at <b>Edit|Preferences</b>. All settings "
+"there have tooltips, be sure to read them if you are in doubt about anything."
+"<p>Should you need further help, have any questions, suggestions or just "
+"wonder what the others think, you are welcome at the program's <a href="
+"\"http://goldendict.org/forum/\">forum</a>.<p>Check program's <a href="
+"\"http://goldendict.org/\">website</a> for the updates. <p>(c) 2008-2013 "
+"Konstantin Isakov. Licensed under GPLv3 or later."
+msgstr ""
+"<h3 align=\"center\">Suma puriwi <b>GoldenDict</b>!</h3>\n"
+"<p>Aka programampi apnaqañatakixa nayraqataxa, <b>Askichaña > Aru-pirwanaka</"
+"b> ukaru sarama, kawkinkisa uka aru-pirwanaka q’ipinakaxa churañataki. "
+"Wikipedia ukhamaraki yaqha jalsunaka uskusmawa, kunjamasa thaqhaña aru-"
+"pirwanakana, jani ukjaxa qutu aru-pirwanaka uñstayaña, ukanaka lurasma.\n"
+"<p>Ukanakampixa aka wintananxa arunaka thaqsnawa, jani ukjaxa <a href="
+"\"Uñstir wintanampi apnaqkasa\">yaqha programanakanxa thaqharakismawa</a>.\n"
+"<p>Programa askichañatakixa, <b>Askichaña > Ajlliñanaka</b> ukaru sarama. "
+"Sapa ajllitaxa qillqataniwa yanapañataki.<p>Juk’ampi yanapa munta ukjaxa, "
+"jani ukjaxa yaqha amuyunitaxa, ukhamaraki yaqhanakampi aruskipt’aña munstaxa, "
+"<a href=\"http://goldendict.org/forum/\">GoldenDict Foro</a> ukaru sarama.\n"
+"<p>Machaqa jakhu uñjawi jikiñatakixa <a href=\"http://goldendict.org/\">Laphi "
+"Web</a> ukaru sarama.\n"
+"<p>(c) 2008-2013 Konstantin Isakov. Licencia GNU GPLv3 jani ukjaxa jutirinaka."
+"<p>\n"
+"<h3 align=\"center\">¡Bienvenido a <b>GoldenDict</b>!</h3>\n"
+"<p>Para empezar a trabajar con este programa, vaya primero a \n"
+"<b>Askichaña>Aru-pirwanaka</b> para especificar los directorios \n"
+"para los archivos de diccionarios, configurar varios sitios de Wikipedia \n"
+"o de otras fuentes, definir el orden de búsqueda en los diccionarios o\n"
+"crear grupos de diccionarios.\n"
+"<p>Y con eso, ¡ya está listo para buscar! Puede hacerlo en esta ventana \n"
+"en el panel a la izquierda o puede <a href=\"Uñstir wintanampi apnaqkasa"
+"\">buscar palabras desde otros programas</a>.\n"
+"<p>Para personalizar el programa, eche un vistazo \n"
+"a las opciones disponibles en <b>Askichaña > Ajlliñanaka</b>. \n"
+"Cada opción tiene su propia descripción, léalas si tiene cualquier \n"
+"duda.\n"
+"<p>Si necesita más ayuda, tiene cualquier duda o sugerencia, o \n"
+"simplemente le interesa la opinión de los demás, es bienvenido al \n"
+"<a href=\"http://goldendict.berlios.de/forum/\">foro</a> del programa.\n"
+"<p>Consulte el <a href=\"http://goldendict.org/\">sitio web</a> del \n"
+"programa para estar al corriente de las actualizaciones.\n"
+"<p>© 2008-2013 Konstantin Isakov. Licencia GNU GPLv3 o posterior."
+
+#  [ES] "(imagen)"
+#: ArticleMaker%2310
+msgid "(picture)"
+msgstr "(jamuqa)"
+
+#  [ES] "Desplegar artículo"
+#: ArticleMaker%2311
+msgctxt "ArticleMaker#11"
+msgid "Expand article"
+msgstr "Qillqata janatataña"
+
+#  [ES] "Plegar artículo"
+#: ArticleMaker%2312
+msgctxt "ArticleMaker#12"
+msgid "Collapse article"
+msgstr "Qillqata suk'aña"
+
+#  [ES] "De"
+#: ArticleRequest%231
+msgid "From "
+msgstr "Ukata "
+
+#. (obsolete)
+#: ArticleRequest%232
+msgid "From %1"
+msgstr "%1 ukata"
+
+#  [ES] "Error de consulta: %1"
+#: ArticleRequest%233
+msgid "Query error: %1"
+msgstr "Thaqhawit pantjata: %1"
+
+#  [ES] "Palabras parecidas: "
+#: ArticleRequest%234
+msgid "Close words: "
+msgstr "Kikpaña arunaka: "
+
+#  [ES] "Expresiones compuestas: "
+#: ArticleRequest%235
+msgid "Compound expressions: "
+msgstr "Lip'katata arunaka: "
+
+#  [ES] "Palabras sueltas: "
+#: ArticleRequest%236
+msgid "Individual words: "
+msgstr "Arunaka sapaki: "
+
+#  [ES] "Desplegar artículo"
+#: ArticleRequest%237
+msgctxt "ArticleRequest#7"
+msgid "Expand article"
+msgstr "Qillqata janatataña"
+
+#  [ES] "Plegar artículo"
+#: ArticleRequest%238
+msgctxt "ArticleRequest#8"
+msgid "Collapse article"
+msgstr "Qillqata suk'aña"
+
+#  [ES] "GoldenDict"
+#. (obsolete)
+#: ArticleView%231
+msgctxt "ArticleView#1"
+msgid "GoldenDict"
+msgstr "GoldenDict"
+
+#  [ES] "El recurso indicado no existe."
+# habría que repensar el término RECURSO  otra manera quizas sería  KUNJAMS LURAÑA
+#: ArticleView%232
+msgid "The referenced resource doesn't exist."
+msgstr "Janiwa yatiyawi jalsuxa (recurso) utjkiti."
+
+#  [ES] "&Abrir Enlace"
+#: ArticleView%233
+msgid "&Open Link"
+msgstr "&Chinuña jist'araña"
+
+#  [ES] "Abrir Enlace en Nueva &Pestaña"
+#: ArticleView%234
+msgid "Open Link in New &Tab"
+msgstr "&Machaqa phichhunaxa chinuña jist'araña"
+
+#  [ES] "Abrir Enlace en Navegador Web &Externo"
+#: ArticleView%235
+msgid "Open Link in &External Browser"
+msgstr "&Web tuyurina chinu uka jist'araña"
+
+#  [ES] "&Buscar \"%1\""
+#: ArticleView%236
+msgid "&Look up \"%1\""
+msgstr "\"%1\" &thaqhaña"
+
+#  [ES] "Buscar \"%1\" en &Nueva Pestaña"
+#: ArticleView%237
+msgid "Look up \"%1\" in &New Tab"
+msgstr "&Machaqa phichhuna \"%1\" thaqhaña"
+
+#  [ES] "Buscar \"%1\" en \"%2\""
+#: ArticleView%238
+msgid "Look up \"%1\" in %2"
+msgstr "%2 ukana \"%1\" thaqhaña"
+
+#  [ES] "Buscar \"%1\" en \"%2\" en Nue&va Pestaña"
+#: ArticleView%239
+msgid "Look up \"%1\" in %2 in &New Tab"
+msgstr "&Machaqa phichhuna %2 ukana \"%1\" thaqhaña"
+
+#  [ES] "Reproduciendo un fichero que no es de tipo WAV"
+#. (obsolete)
+#: ArticleView%2310
+msgid "Playing a non-WAV file"
+msgstr "Jani WAV uka wayaqampi arst'askiwa"
+
+#  [ES] ""
+#  [ES] "Para habilitar la reproducción de ficheros en formatos distintos de WAV, "
+#  [ES] "vaya a Editar|Preferencias, y en la pestaña Audio seleccione \"Reproducir "
+#  [ES] "con DirectShow\"."
+#. (obsolete)
+#: ArticleView%2311
+msgid ""
+"To enable playback of files different than WAV, please go to Edit|"
+"Preferences, choose the Audio tab and select \"Play via DirectShow\" there."
+msgstr ""
+"Arst'ayañatakixa jani WAV wayaqanakaxa, \"Askichaña > Ajlliñanaka\" ukaru "
+"sarama, \"Ist'añataki\" phichhu ajllima, ukhamaraki \"DirectShowmpi arst'ayaña"
+"\" ajllima."
+
+#  [ES] ""
+#  [ES] "No se ha podido ejecutar un reproductor para reproducir el fichero de audio: "
+#  [ES] "%1"
+#. (obsolete)
+#: ArticleView%2312
+msgid "Failed to run a player to play sound file: %1"
+msgstr "Audio ist'ayiri pantjatawa, wayaqimpi: %1"
+
+#  [ES] "No se ha podido crear un fichero temporal."
+#: ArticleView%2313
+msgid "Failed to create temporary file."
+msgstr "Temporal wayaqaxa janiwa uñstayaña atkiti."
+
+#  [ES] ""
+#  [ES] "No se ha podido abrir automáticamente el fichero de recursos, intente "
+#  [ES] "abrirlo manualmente: %1."
+# ¿Jum?
+#: ArticleView%2314
+msgid "Failed to auto-open resource file, try opening manually: %1."
+msgstr "Wayaqa jist'arasinxa pantjiwa. Juma jist'araña yant'ama uka wayaqa: %1."
+
+#  [ES] "No se ha podido descargar el fichero de recursos indicado."
+#: ArticleView%2315
+msgctxt "ArticleView#15"
+msgid "The referenced resource failed to download."
+msgstr "Internet ukata apaqasinxa pantjiwa."
+
+#  [ES] "Formulario"
+#: ArticleView%2316
+msgctxt "ArticleView#16"
+msgid "Form"
+msgstr "Phuqañataki laphi"
+
+#  [ES] "about:blank"
+#  kuna layku: janq'u espacio
+#: ArticleView%2317
+msgid "about:blank"
+msgstr "about:blank"
+
+#  [ES] "x"
+#: ArticleView%2318
+msgid "x"
+msgstr "x"
+
+#  [ES] "Buscar:"
+#: ArticleView%2319
+msgid "Find:"
+msgstr "Thaqhaña:"
+
+#  [ES] "A&nterior"
+#: ArticleView%2320
+msgid "&Previous"
+msgstr "&Nayriri"
+
+#  [ES] "&Siguiente"
+#: ArticleView%2321
+msgid "&Next"
+msgstr "J&utiri"
+
+#  [ES] "Ctrl+G"
+#: ArticleView%2322
+msgid "Ctrl+G"
+msgstr "Ctrl+G"
+
+#  [ES] "&Diferenciar entre mayúsculas y minúsculas"
+#: ArticleView%2323
+msgid "&Case Sensitive"
+msgstr "J&ACH'A / jisk'a qillqanaka mayjt'ayaña"
+
+#  [ES] "&Resaltar todo"
+#: ArticleView%2324
+msgid "Highlight &all"
+msgstr "&Taqpacha qhanstayaña"
+
+#  [ES] "Recurso"
+#: ArticleView%2325
+msgid "Resource"
+msgstr "Yatiyawi jalsu"
+
+#  [ES] "Audio"
+#: ArticleView%2326
+msgctxt "ArticleView#26"
+msgid "Audio"
+msgstr "Ist'awi"
+
+#  [ES] "Foto"
+#: ArticleView%2327
+msgid "Picture"
+msgstr "Jamuqa"
+
+#  [ES] "Definición de diccionario \"%1\": %2"
+#: ArticleView%2328
+msgid "Definition from dictionary \"%1\": %2"
+msgstr "\"%1\" aru-pirwata aru qhanañchaña: %2"
+
+#  [ES] "Definición: %1"
+#: ArticleView%2329
+msgid "Definition: %1"
+msgstr "Aru qhanañchaña: %1"
+
+#  [ES] "El reproductor de audio indicado no existe."
+#: ArticleView%2330
+msgid "The referenced audio program doesn't exist."
+msgstr "Ist'ayiri uka programaxa janiwa utjkiti."
+
+#  [ES] "Enviar \"%1\" a la línea de entrada"
+#: ArticleView%2331
+msgid "Send \"%1\" to input line"
+msgstr "Arunaka thaqhiriru \"%1\" qillqaqaña"
+
+#  [ES] "Aña&dir \"%1\" al historial"
+#: ArticleView%2332
+msgid "&Add \"%1\" to history"
+msgstr "Thaqhata arunakaru \"%1\" yapxataña"
+
+#  [ES] "ATENCIÓN: %1"
+#: ArticleView%2333
+msgctxt "ArticleView#33"
+msgid "WARNING: %1"
+msgstr "UKATARAKI: %1"
+
+#  [ES] "Seleccionar artículo actual"
+#: ArticleView%2334
+msgid "Select Current Article"
+msgstr "Jichha qillqata uka ajlliña"
+
+#  [ES] "ERROR: %1"
+#: ArticleView%2335
+msgctxt "ArticleView#35"
+msgid "ERROR: %1"
+msgstr "PANTJATA: %1"
+
+#  [ES] "Guardar sonido"
+#: ArticleView%2336
+msgid "Save sound"
+msgstr "Ist'awi imaña"
+
+#  [ES] ""
+#  [ES] "Ficheros de sonido (*.wav *.ogg *.mp3 *.mp4 *.aac *.flac *.mid *.wv *.ape);;"
+#  [ES] "Todos los ficheros (*.*)"
+#: ArticleView%2337
+msgid ""
+"Sound files (*.wav *.ogg *.mp3 *.mp4 *.aac *.flac *.mid *.wv *.ape);;All "
+"files (*.*)"
+msgstr ""
+"Ist'awimpi wayaqanaka (*.wav *.ogg *.mp3 *.mp4 *.aac *.flac *.mid *.wv *."
+"ape);;Taqpacha wayaqanaka (*.*)"
+
+#  [ES] "Guardar imagen"
+#: ArticleView%2338
+msgid "Save image"
+msgstr "Jamuqa imaña"
+
+#  [ES] "Ficheros de imagen (*.bmp *.jpg *.png *.tif);;Todos los ficheros (*.*)"
+#: ArticleView%2339
+msgid "Image files (*.bmp *.jpg *.png *.tif);;All files (*.*)"
+msgstr ""
+"Jamuqampi wayaqanaka (*.bmp *.jpg *.png *.tif);;Taqpacha wayaqanaka (*.*)"
+
+#  [ES] "Guardar &imagen..."
+#: ArticleView%2340
+msgid "Save &image..."
+msgstr "J&amuqa imaña..."
+
+#  [ES] "Guardar s&onido..."
+#: ArticleView%2341
+msgid "Save s&ound..."
+msgstr "I&st'awi imaña..."
+
+#  [ES] "Voz de síntesis (TTS)"
+#: ArticleView%2342
+msgid "TTS Voice"
+msgstr "TTS Aru"
+
+#  [ES] "Copiar como texto"
+#: ArticleView%2343
+msgid "Copy as text"
+msgstr "Qillqajama qillqaqaña"
+
+#  [ES] "Inspeccionar"
+#: ArticleView%2344
+msgid "Inspect"
+msgstr "Uñakipaña"
+
+#  [ES] "Vídeo"
+#: ArticleView%2345
+msgid "Video"
+msgstr "Video"
+
+#  [ES] "Vídeo: %1"
+#: ArticleView%2346
+msgid "Video: %1"
+msgstr "Video: %1"
+
+#  [ES] ""
+#: ArticleView%2347
+msgid "Failed to play sound file: %1"
+msgstr "Ist'awimpi wayaqaxa kirkiyaña pantjiwa: %1"
+
+#  [ES] ""
+#: ArticleView%2348
+msgid "WARNING: Audio Player: %1"
+msgstr "UKATARAKI: Ist'awi kirkiyiri: %1"
+
+# [ES] "Transliteración del bielorruso de latino a cirílico (ortografía clásica)"
+#: BelarusianTranslit%231
+msgid "Belarusian transliteration from latin to cyrillic (classic orthography)"
+msgstr "Beloruso latín ukataxa cirílico ukaru mayjt'ayaña (clásico qillqawi)"
+
+#  [ES] ""
+#  [ES] "Transliteración del bielorruso de latino a cirílico (ortografía escolar)"
+#: BelarusianTranslit%232
+msgid "Belarusian transliteration from latin to cyrillic (school orthography)"
+msgstr "Beloruso latín ukataxa cirílico ukaru mayjt'ayaña (yatiñ utat qillqawi)"
+
+#  [ES] ""
+#  [ES] "Transliteración bielorrusa (atenúa la diferencia\n"
+#  [ES] "entre ortografía clásica y escolar en cirílico)"
+#: BelarusianTranslit%233
+msgid ""
+"Belarusian transliteration (smoothes out the difference\n"
+"between classic and school orthography in cyrillic)"
+msgstr ""
+"Beloruso ukata kasta qillqata mayj'tayaña (cirílico entre clásico y escolar)"
+
+#  [ES] ""
+#: ChineseConversion%231
+msgid "Enable conversion between simplified and traditional Chinese characters"
+msgstr "Chino simplificado ukhamaraki chino tradicional uka tukuyawi naktayaña"
+
+#  [ES] ""
+#: ChineseConversion%232
+msgid "Chinese Con&version"
+msgstr "&Chino aru tukuyawi"
+
+#  [ES] ""
+#: ChineseConversion%233
+msgid ""
+"Enable conversion from simplified characters to traditional (Taiwan variant) "
+"characters"
+msgstr ""
+"Chino simplificado ukata chino tradicional (aru Taiwan) ukaru tukuyawi "
+"naktayaña"
+
+#  [ES] ""
+#: ChineseConversion%234
+msgid "SC to TC (Taiwan variant)"
+msgstr "SC ukata TC ukaru (aru Taiwan)"
+
+#  [ES] ""
+#: ChineseConversion%235
+msgid ""
+"Enable conversion from simplified characters to traditional (Hong Kong "
+"variant) characters"
+msgstr ""
+"Chino simplificado ukata chino tradicional (aru Hong Kong) ukaru tukuyawi "
+"naktayaña"
+
+#  [ES] ""
+#: ChineseConversion%236
+msgid "SC to TC (Hong Kong variant)"
+msgstr "SC ukata TC ukaru (aru Hong Kong)"
+
+#  [ES] ""
+#: ChineseConversion%237
+msgid "Enable conversion from traditional characters to simplified characters"
+msgstr "Chino aru tradicional uka chino aru simplificado ukaru tukuyawi"
+
+#  [ES] ""
+#: ChineseConversion%238
+msgid "TC to SC"
+msgstr "TC ukata SC ukaru"
+
+#  [ES] ""
+#: ChineseConversion%239
+msgid "Simplified to traditional Chinese (Taiwan variant) conversion"
+msgstr "Chino simplificado ukata chino tradicional (aru Taiwan) tukuyawi"
+
+#  [ES] ""
+#: ChineseConversion%2310
+msgid "Simplified to traditional Chinese (Hong Kong variant) conversion"
+msgstr "Chino simplificado ukata chino tradicional (aru Hong Kong) tukuyawi"
+
+#  [ES] ""
+#: ChineseConversion%2311
+msgid "Traditional to simplified Chinese conversion"
+msgstr "Chino tradicional ukata chino simplificado tukuyawi"
+
+#  [ES] ""
+#: ChineseConversion%2312
+msgid "Chinese Conversion"
+msgstr "&Chino aru tukuyawi"
+
+#  [ES] ""
+#: Dialog%231
+msgid "Proxy authentication required"
+msgstr "Autenticación de proxy uka munasi"
+
+#  [ES] ""
+#: Dialog%232
+msgid "You need to supply a Username and a Password to access via proxy"
+msgstr ""
+"Jumaxa apnaqirina sutipa ukhamaraki jamasata aru churañamawa proxy ukanajama "
+"mantañataki"
+
+#  [ES] ""
+#: Dialog%233
+msgid "Username:"
+msgstr "Apnaqiri suti:"
+
+#  [ES] "Contraseña:"
+#: Dialog%234
+msgctxt "Dialog#4"
+msgid "Password:"
+msgstr "Jamasata aru:"
+
+#  [ES] "Formulario"
+#: DictGroupWidget%231
+msgctxt "DictGroupWidget#1"
+msgid "Form"
+msgstr "Phuqañataki laphi"
+
+#  [ES] "Icono de grupo:"
+#: DictGroupWidget%232
+msgid "Group icon:"
+msgstr "Qutu ukata salta:"
+
+#  [ES] "Atajo:"
+#: DictGroupWidget%233
+msgid "Shortcut:"
+msgstr "Jank'a tecla mantañataki:"
+
+#  [ES] "Ninguno"
+#: DictGroupWidget%234
+msgctxt "DictGroupWidget#4"
+msgid "None"
+msgstr "Ni maya"
+
+#  [ES] "De fichero..."
+#: DictGroupWidget%235
+msgid "From file..."
+msgstr "Wayaqa ukata..."
+
+#  [ES] "Elija un fichero para utilizar como icono de grupo"
+#: DictGroupWidget%236
+msgid "Choose a file to use as group icon"
+msgstr "Mä wayaqa ajlliña, qutu salta ukajama apnaqañataki"
+
+#  [ES] "Imágenes"
+#: DictGroupWidget%237
+msgid "Images"
+msgstr "Jamuqanaka"
+
+#  [ES] "Todos los ficheros"
+#: DictGroupWidget%238
+msgid "All files"
+msgstr "Taqpacha wayaqanaka"
+
+#  [ES] "Error"
+#: DictGroupWidget%239
+msgctxt "DictGroupWidget#9"
+msgid "Error"
+msgstr "Pantjata"
+
+#  [ES] "No se puede leer el fichero de imagen especificado."
+#: DictGroupWidget%2310
+msgid "Can't read the specified image file."
+msgstr "Jamuqa wayaqa ajllita ukaxa, janiwa ullaña atkiti."
+
+#  [ES] ""
+#: DictGroupWidget%2311
+msgid "Favorites folder:"
+msgstr "Munata arunakampi q'ipi:"
+
+#  [ES] "Confirmación"
+#: DictGroupsWidget%231
+msgid "Confirmation"
+msgstr "Jisa/jani jaysawi"
+
+#  [ES] ""
+#  [ES] "¿Está seguro que quiere generar un conjunto de grupos basado en pares de "
+#  [ES] "idiomas?"
+#: DictGroupsWidget%232
+msgid ""
+"Are you sure you want to generate a set of groups based on language pairs?"
+msgstr ""
+"¿Parisa arunakjama qutunaka uñstayapuni muntati?\n"
+"\n"
+"¿Quiere generar grupos basados en pares de idiomas?"
+
+#  [ES] "Diccionarios:"
+#: DictGroupsWidget%233
+msgid "Dictionaries: "
+msgstr "Aru-pirwanaka: "
+
+#  [ES] "Combinar grupos por lengua de origen a \"%1->\""
+#: DictGroupsWidget%234
+msgid "Combine groups by source language to \"%1->\""
+msgstr "Aru qalltampi \"%1->\" ukarujama qutunaka kisantaña"
+
+#  [ES] "Combinar grupos por lengua destino a \"->%1\""
+#: DictGroupsWidget%235
+msgid "Combine groups by target language to \"->%1\""
+msgstr "Aru tukutampi \"->%1\" ukarujama qutunaka kisantaña"
+
+#  [ES] "Crear grupo de traducción bidireccional \"%1-%2-%1\""
+#: DictGroupsWidget%236
+msgid "Make two-side translate group \"%1-%2-%1\""
+msgstr "Jaqukipayiri qutu uñstayaña purapata \"%1-%2-%1\""
+
+#  [ES] "Combinar grupos con \"%1\""
+#: DictGroupsWidget%237
+msgid "Combine groups with \"%1\""
+msgstr "\"%1\" ukampi qutunaka kisantaña"
+
+#  [ES] "Sin asignar"
+#: DictGroupsWidget%238
+msgid "Unassigned"
+msgstr "Jani churatanaka"
+
+#  [ES] ""
+#: DictHeadwords%231
+msgid "Search mode"
+msgstr "Kunjamasa thaqhaña"
+
+#  [ES] ""
+#: DictHeadwords%232
+msgid "This element determines how filter string will be interpreted"
+msgstr "Kunjamatixa akaxa, aru-pirwanakaxa susuyasini"
+
+#  [ES] ""
+#: DictHeadwords%233
+msgid "If checked on the symbols case will be take in account when filtering"
+msgstr "Thaqhañanxa JACH'A / jisk'a qillqanaka amuyaña"
+
+#  [ES] ""
+#: DictHeadwords%234
+msgctxt "DictHeadwords#4"
+msgid "Match case"
+msgstr "JACH'A / jisk'a qillqa jikhthaptaña"
+
+#  [ES] ""
+#: DictHeadwords%235
+msgid "Exports headwords to file"
+msgstr "Wayaqa ukana p'iqi arunaka imaña"
+
+#  [ES] ""
+#: DictHeadwords%236
+msgctxt "DictHeadwords#6"
+msgid "Export"
+msgstr "&Anqaru apsuña"
+
+#  [ES] ""
+#: DictHeadwords%237
+msgid "OK"
+msgstr "Jisa saña"
+
+#  [ES] ""
+#: DictHeadwords%238
+msgid "Press this button to apply filter to headwords list"
+msgstr "Aka wutuna limt'aña, tanta arunaka susuyañataki"
+
+#  [ES] ""
+#: DictHeadwords%239
+msgid "Apply"
+msgstr "Luraña"
+
+#  [ES] ""
+#: DictHeadwords%2310
+msgid ""
+"If checked any filter changes will we immediately applied to headwords list"
+msgstr "Tanta arunakaruxa jichhapachawa susuyasini"
+
+#  [ES] ""
+#: DictHeadwords%2311
+msgid "Auto apply"
+msgstr "Justupaki lurayaña"
+
+#  [ES] ""
+#: DictHeadwords%2312
+msgid "Filter:"
+msgstr "Susuña:"
+
+#  [ES] ""
+#: DictHeadwords%2313
+msgid "Filter string (fixed string, wildcards or regular expression)"
+msgstr ""
+"Susuña (arsuta ch'akuntata, taqi kunatakisa wakisi (comodines) o expresiones "
+"regulares)"
+
+#  [ES] ""
+#: DictHeadwords%2314
+msgid "Text"
+msgstr "Qillqa"
+
+#  [ES] ""
+# comodines
+#: DictHeadwords%2315
+msgctxt "DictHeadwords#15"
+msgid "Wildcards"
+msgstr "Taqi kunatakisa wakisi (comodines)"
+
+#  [ES] ""
+#: DictHeadwords%2316
+msgctxt "DictHeadwords#16"
+msgid "RegExp"
+msgstr "Expresión regular"
+
+#  [ES] ""
+#: DictHeadwords%2317
+msgid "Unique headwords total: %1, filtered: %2"
+msgstr "Jakhu p'iqi arunaka mayaki: %1, susuyata: %2"
+
+#  [ES] ""
+#: DictHeadwords%2318
+msgid "Save headwords to file"
+msgstr "Wayaqa ukana p'iqi arunaka imaña"
+
+#  [ES] "Ficheros de texto (*.txt);;Todos los ficheros (*.*)"
+#: DictHeadwords%2319
+msgctxt "DictHeadwords#19"
+msgid "Text files (*.txt);;All files (*.*)"
+msgstr "Qillqa wayaqanaka (*.txt);;Taqpacha wayaqanaka (*.*)"
+
+#  [ES] ""
+#: DictHeadwords%2320
+msgid "Export headwords..."
+msgstr "P'iqi arunaka anqaru apsuña..."
+
+#  [ES] "Cancelar"
+#: DictHeadwords%2321
+msgctxt "DictHeadwords#21"
+msgid "Cancel"
+msgstr "Jani saña"
+
+#  [ES] ""
+#: DictHeadwords%2322
+msgctxt "DictHeadwords#22"
+msgid "Help"
+msgstr "Yanapa"
+
+#  [ES] "Número de artículos:"
+#: DictInfo%231
+msgctxt "DictInfo#1"
+msgid "Total articles:"
+msgstr "Qillqatanaka jakhuña:"
+
+#  [ES] "Idioma origen:"
+#: DictInfo%232
+msgctxt "DictInfo#2"
+msgid "Translates from:"
+msgstr "Jaqukipaña akata:"
+
+#  [ES] "Número de palabras:"
+#: DictInfo%233
+msgctxt "DictInfo#3"
+msgid "Total words:"
+msgstr "Arunaka jakhuña:"
+
+#  [ES] "Idioma destino:"
+#: DictInfo%234
+msgctxt "DictInfo#4"
+msgid "Translates to:"
+msgstr "Jaqukipaña akaru:"
+
+#  [ES] "Ficheros que componen este diccionario:"
+#: DictInfo%235
+msgctxt "DictInfo#5"
+msgid "Files comprising this dictionary:"
+msgstr "Apkata wayaqanaka, aka aru-pirwana:"
+
+#  [ES] "Descripción:"
+#: DictInfo%236
+msgctxt "DictInfo#6"
+msgid "Description:"
+msgstr "Qillqataxa kunjamasa:"
+
+#  [ES] "Abrir directorio"
+#: DictInfo%237
+msgid "Open folder"
+msgstr "Q'ipi jist'araña"
+
+#  [ES] "Editar diccionario"
+#: DictInfo%238
+msgctxt "DictInfo#8"
+msgid "Edit dictionary"
+msgstr "Aru-pirwa askichaña"
+
+#  [ES] ""
+#  [ES] "Editar el diccionario mediante comando:\n"
+#  [ES] "%1"
+#: DictInfo%239
+msgid ""
+"Edit the dictionary via command:\n"
+"%1"
+msgstr ""
+"Aru-pirwa askichaña lurayaña ukampi:\n"
+"%1"
+
+#  [ES] ""
+#: DictInfo%2310
+msgid "Show all unique dictionary headwords"
+msgstr "Taqpacha p'iqi arunaka uñachayaña jani payachata"
+
+#  [ES] ""
+#: DictInfo%2311
+msgid "Headwords"
+msgstr "P'iqi arunaka"
+
+#  [ES] "%1 entradas"
+#: DictListModel%231
+msgid "%1 entries"
+msgstr "%1 mantañanaka"
+
+#  [ES] ""
+#: DictServer%231
+msgid "Url: "
+msgstr "URL: "
+
+#  [ES] ""
+#: DictServer%232
+msgid "Databases: "
+msgstr "Yatiya base: "
+
+#  [ES] ""
+#: DictServer%233
+msgid "Search strategies: "
+msgstr "Kunjamasa thaqhaña: "
+
+#  [ES] ""
+#: DictServer%234
+msgid "Server databases"
+msgstr "Yatiyawinaka lakiriri"
+
+#  [ES] "Activado"
+#: DictServersModel%231
+msgctxt "DictServersModel#1DictServersModel#1DictServersModel#1"
+msgid "Enabled"
+msgstr "Naktata"
+
+#  [ES] "Nombre"
+#: DictServersModel%232
+msgctxt "DictServersModel#2"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Dirección"
+#: DictServersModel%233
+msgctxt "DictServersModel#3DictServersModel#3"
+msgid "Address"
+msgstr "Web utjawi"
+
+#  [ES] ""
+#: DictServersModel%234
+msgid "Databases"
+msgstr "Yatiya base"
+
+#  [ES] "Icono"
+#: DictServersModel%235
+msgctxt "DictServersModel#5"
+msgid "Icon"
+msgstr "Salta"
+
+#  [ES] ""
+#: DictServersModel%236
+msgid ""
+"Comma-delimited list of databases\n"
+"(empty string or \"*\" matches all databases)"
+msgstr ""
+"Yatiyawinaka lakiriri coma uka qillqampi t'aqxata\n"
+"(ch'usa jani ukaxa \"*\" taqpacha uñach'ayaña)"
+
+#  [ES] ""
+#: DictServersModel%237
+msgid "Strategies"
+msgstr "Kunjamasa luraña"
+
+#  [ES] ""
+#: DictServersModel%238
+msgid ""
+"Comma-delimited list of search strategies\n"
+"(empty string mean \"prefix\" strategy)"
+msgstr ""
+"Kunjamasa thaqhaña coma uka qillqampi t'aqxata\n"
+"(vacio significa estrategia de \"prefijo\")"
+
+#  [ES] "Barra de diccionarios"
+#. (obsolete)
+#: DictionaryBar%231
+msgid "Dictionary Bar"
+msgstr "Aru-pirwa wak'a"
+
+#  [ES] "Editar este grupo"
+#: DictionaryBar%232
+msgid "Edit this group"
+msgstr "Aka qutu askichaña"
+
+#  [ES] "Información del diccionario"
+#: DictionaryBar%233
+msgctxt "DictionaryBar#3"
+msgid "Dictionary info"
+msgstr "Aru-pirwa yatiyawi"
+
+#  [ES] "Editar diccionario"
+#: DictionaryBar%234
+msgctxt "DictionaryBar#4"
+msgid "Edit dictionary"
+msgstr "Aru-pirwa askichaña"
+
+#  [ES] "Barra de &Diccionarios"
+#: DictionaryBar%235
+msgid "&Dictionary Bar"
+msgstr "&Aru-pirwa wak'a"
+
+#  [ES] "Abrir directorio de diccionario"
+#: DictionaryBar%236
+msgctxt "DictionaryBar#6"
+msgid "Open dictionary folder"
+msgstr "Aru-pirwa ukata q'ipi jist'araña"
+
+#  [ES] "Menú ampliado con todos los diccionarios..."
+#: DictionaryBar%237
+msgid "Extended menu with all dictionaries..."
+msgstr "Menú taqpacha aru-pirwanakampi..."
+
+#  [ES] ""
+#: DictionaryBar%238
+msgctxt "DictionaryBar#8"
+msgid "Dictionary headwords"
+msgstr "Aru-pirwata p'iqi arunaka"
+
+#  [ES] "&Fuentes"
+#: EditDictionaries%231
+msgid "&Sources"
+msgstr "&Yatiyawi jalsunaka"
+
+#  [ES] "&Diccionarios"
+#: EditDictionaries%232
+msgid "&Dictionaries"
+msgstr "&Aru-pirwanaka"
+
+#  [ES] "&Grupos"
+#: EditDictionaries%233
+msgid "&Groups"
+msgstr "&Qutunaka"
+
+#  [ES] "Fuentes modificadas"
+#: EditDictionaries%234
+msgid "Sources changed"
+msgstr "Mayjt'ayata yatiyaw jalsunaka"
+
+#  [ES] "Se han modificado algunas fuentes. ¿Quiere aceptar las modificaciones?"
+#: EditDictionaries%235
+msgid "Some sources were changed. Would you like to accept the changes?"
+msgstr ""
+"Yaqhipa yatiyawi jalsunakaxa mayjt'ayatawa.\n"
+"Uka majt'ayatanakaxa, jisa saña muntati?\n"
+"\n"
+"Se han modificado algunas fuentes.\n"
+"¿Quiere aceptar las modificaciones?"
+
+#  [ES] "Aceptar"
+#: EditDictionaries%236
+msgid "Accept"
+msgstr "Jisa saña"
+
+#  [ES] "Cancelar"
+#: EditDictionaries%237
+msgctxt "EditDictionaries#7"
+msgid "Cancel"
+msgstr "Jani saña"
+
+#  [ES] "Diccionarios"
+#: EditDictionaries%238
+msgid "Dictionaries"
+msgstr "Aru-pirwanaka"
+
+#  [ES] "no se ha proporcionado el nombre del programa visualizador"
+#: ExternalViewer%231
+msgid "the viewer program name is empty"
+msgstr "programana sutipaxa ch'usawa"
+
+#  [ES] "Ninguno"
+#. (obsolete)
+#: FTS::FtsIndexing%231
+msgctxt "FTS::FtsIndexing#1"
+msgid "None"
+msgstr "Ni maya"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%231
+msgctxt "FTS::FullTextSearchDialog#1"
+msgid "Full-text search"
+msgstr "Taqpacha qillqana thaqhaña"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%232
+msgid "Whole words"
+msgstr "Ukch'pacha arunaka"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%233
+msgid "Plain text"
+msgstr "Q'ala qillqa"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%234
+msgctxt "FTS::FullTextSearchDialog#4"
+msgid "Wildcards"
+msgstr "Taqi kunatakisa wakisi"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%235
+msgctxt "FTS::FullTextSearchDialog#5"
+msgid "RegExp"
+msgstr "Expresión regular"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%236
+msgid "Max distance between words (%1-%2):"
+msgstr "Qawqha mayjasa arupurakama (%1-%2):"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%237
+msgid "Max articles per dictionary (%1-%2):"
+msgstr "Qawqha qillqatanakasa sapa aru-pirwana (%1-%2):"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%238
+msgid "Articles found: "
+msgstr "Qillqatanaka jikita: "
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%239
+msgid "Now indexing: "
+msgstr "Jichhaxa ullaskiwa: "
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%2310
+msgid "The search line must contains at least one word containing "
+msgstr "Thaqhañatakixa utjañapapuniwa mä aru ukampi "
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%2311
+msgid " or more symbols"
+msgstr " jani ukaxa juk'ampi chimpunakampi"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%2312
+msgid "No dictionaries for full-text search"
+msgstr "Taqpacha qillqana thaqhañataki janiwa aru-pirwanakaxa utjkiti"
+
+#  [ES] ""
+#: FTS::FullTextSearchDialog%2313
+msgid ""
+"CJK symbols in search string are not compatible with search modes \"Whole "
+"words\" and \"Plain text\""
+msgstr ""
+"CJK uka chimpunakaxa janiwa lurkiti \"q'ala qillqa\" \"ukch'apacha arunaka\" "
+"uka thaqhawinakampi."
+
+#  [ES] "Ninguno"
+#: FTS::FullTextSearchDialog%2314
+msgctxt "FTS::FullTextSearchDialog#14"
+msgid "None"
+msgstr "Ni maya"
+
+#  [ES] "Ninguno"
+#. (obsolete)
+#: FTS::Indexing%231
+msgctxt "FTS::Indexing#1"
+msgid "None"
+msgstr "Ni maya"
+
+#  [ES] ""
+#: FavoritesModel%231
+msgid "Error in favorities file"
+msgstr "Wayaqa munata arunakana pantjasiwa"
+
+#  [ES] "&Borrar Seleccionado"
+#: FavoritesPaneWidget%231
+msgctxt "FavoritesPaneWidget#1"
+msgid "&Delete Selected"
+msgstr "&Ajllitanaka chhaqtayaña"
+
+#  [ES] "Copiar Seleccionado"
+#: FavoritesPaneWidget%232
+msgctxt "FavoritesPaneWidget#2"
+msgid "Copy Selected"
+msgstr "Ajllita uka qillaqaña"
+
+#  [ES] ""
+#: FavoritesPaneWidget%233
+msgid "Add folder"
+msgstr "Q'ipi yapaña"
+
+#  [ES] ""
+#: FavoritesPaneWidget%234
+msgid "Favorites:"
+msgstr "Munata arunaka:"
+
+#  [ES] ""
+#: FavoritesPaneWidget%235
+msgid "All selected items will be deleted. Continue?"
+msgstr ""
+"Ajllita mantañakaxa chhaqtayataniwa. ¿Saraskakiña muntati?\n"
+"\n"
+"Todos los items seleccionados serán borrados. ¿Quiere continuar?"
+
+#  [ES] "Error de sintaxis XML: %1 en %2,%3"
+#: Forvo::ForvoArticleRequest%231
+msgctxt "Forvo::ForvoArticleRequest#1"
+msgid "XML parse error: %1 at %2,%3"
+msgstr "Ullasinxa XML pantja : %1 ukana %2,%3"
+
+#  [ES] "%1 Añadido"
+#: Forvo::ForvoArticleRequest%232
+msgid "Added %1"
+msgstr "%1 yapata"
+
+#  [ES] "por"
+#: Forvo::ForvoArticleRequest%233
+msgid "by"
+msgstr "khitisa"
+
+#  [ES] "Masculino"
+#: Forvo::ForvoArticleRequest%234
+msgid "Male"
+msgstr "Chacha"
+
+#  [ES] "Femenino"
+#: Forvo::ForvoArticleRequest%235
+msgid "Female"
+msgstr "Warmi"
+
+#  [ES] "de"
+#: Forvo::ForvoArticleRequest%236
+msgid "from"
+msgstr "ukata"
+
+#  [ES] ""
+#  [ES] "Vaya a Editar|Diccionarios|Fuentes|Forvo y solicite su propia clave de la "
+#  [ES] "API para que este error desaparezca."
+#: Forvo::ForvoArticleRequest%237
+msgid ""
+"Go to Edit|Dictionaries|Sources|Forvo and apply for our own API key to make "
+"this error disappear."
+msgstr ""
+"Askichaña>Aru-pirwanaka>Yatiyawi jalsunaka>Forvo ukaru sarama,\n"
+"ukata API chimpuma churama, aka pantjawi chhaqtayañataki.\n"
+"\n"
+"Vaya a Askichaña>Aru-pirwanaka>Yatiyawi jalsunaka>Forvo y solicite\n"
+"su propia clave de la API para que este error desaparezca."
+
+#  [ES] ""
+#: FullTextSearchDialog%231
+msgctxt "FullTextSearchDialog#1"
+msgid "Search"
+msgstr "Thaqhaña"
+
+#  [ES] ""
+#: FullTextSearchDialog%232
+msgctxt "FullTextSearchDialog#2"
+msgid "Match case"
+msgstr "JACH'A / jisk'a qillqa jikhthaptaña"
+
+#  [ES] ""
+#: FullTextSearchDialog%233
+msgid "Mode:"
+msgstr "Kunjamasa:"
+
+#  [ES] ""
+#: FullTextSearchDialog%234
+msgid "Articles found:"
+msgstr "Qillqatanaka jikita:"
+
+#  [ES] ""
+#: FullTextSearchDialog%235
+msgid "Available dictionaries in group:"
+msgstr "Qututaki aru-pirwanaka wakichata:"
+
+#  [ES] ""
+#: FullTextSearchDialog%236
+msgid "Wait for indexing:"
+msgstr "Tanta utjirinaka uka layku suyt'aña:"
+
+#  [ES] ""
+#: FullTextSearchDialog%237
+msgid "Total:"
+msgstr "Taqpacha:"
+
+#  [ES] ""
+#: FullTextSearchDialog%238
+msgid "Indexed:"
+msgstr "Tanta utjirinaka tukuyata:"
+
+#  [ES] ""
+#: FullTextSearchDialog%239
+msgid "Now indexing: None"
+msgstr "Ni maya"
+
+#  [ES] "Cancelar"
+#: FullTextSearchDialog%2310
+msgctxt "FullTextSearchDialog#10"
+msgid "Cancel"
+msgstr "Jani saña"
+
+#  [ES] ""
+#: FullTextSearchDialog%2311
+msgctxt "FullTextSearchDialog#11"
+msgid "Help"
+msgstr "Yanapa"
+
+#  [ES] ""
+#: FullTextSearchDialog%2312
+msgid "Ignore words order"
+msgstr "Qillqa siqinaka jani yäqaña"
+
+#  [ES] ""
+#: FullTextSearchDialog%2313
+msgid "Ignore diacritics"
+msgstr "Qillqata chimpunaka (´`¨˜¯) jani yäqaña"
+
+#  [ES] "Transliteración del alemán"
+#: GermanTranslit%231
+msgid "German Transliteration"
+msgstr "Alemana aruta qillqantata"
+
+#  [ES] "Transliteración del griego"
+#: GreekTranslit%231
+msgid "Greek Transliteration"
+msgstr "Griego aruta qillqantata"
+
+#  [ES] "Elegir un grupo (Alt+G)"
+#: GroupComboBox%231
+msgid "Choose a Group (Alt+G)"
+msgstr ""
+"Mä qutu ajlliña (Alt+G)\n"
+"\n"
+"Elegir un grupo (Alt+G)"
+
+#  [ES] "Formulario"
+#. (obsolete)
+#: GroupSelectorWidget%231
+msgctxt "GroupSelectorWidget#1"
+msgid "Form"
+msgstr "Phuqañataki laphi"
+
+#  [ES] "Buscar en"
+#. (obsolete)
+#: GroupSelectorWidget%232
+msgid "Look in"
+msgstr "Ukana thaqhaña"
+
+#  [ES] "Añadir grupo"
+#: Groups%231
+msgid "Add group"
+msgstr "Qutu yapaña"
+
+#  [ES] "Introduzca un nombre para el nuevo grupo:"
+#: Groups%232
+msgid "Give a name for the new group:"
+msgstr "Machaqa quturu suti qillqama:"
+
+#  [ES] "Renombrar grupo"
+#: Groups%233
+msgid "Rename group"
+msgstr "Mayampi quturu suticht'aña"
+
+#  [ES] "Introduzca un nuevo nombre para el grupo:"
+#: Groups%234
+msgid "Give a new name for the group:"
+msgstr "Machaqa suti quturu ucham:"
+
+#  [ES] "Eliminar grupo"
+#: Groups%235
+msgid "Remove group"
+msgstr "Qutu chhaqtayaña"
+
+#  [ES] "¿Esta seguro de que quiere eliminar el grupo <b>%1</b>?"
+#: Groups%236
+msgid "Are you sure you want to remove the group <b>%1</b>?"
+msgstr ""
+"Chiqpacha <b>%1</b> qutu chhaqtayaña muntati?<br><br>\n"
+"¿Esta seguro de que quiere eliminar el grupo <b>%1</b>?"
+
+#  [ES] "Eliminar todos los grupos"
+#: Groups%237
+msgid "Remove all groups"
+msgstr "Taqi qutunaka chhaqtayaña"
+
+#  [ES] "¿Esta seguro que quiere eliminar todos los grupos?"
+#: Groups%238
+msgid "Are you sure you want to remove all the groups?"
+msgstr ""
+"Chiqpacha taqpacha qutunaka chhaqtayaña muntati?\n"
+"\n"
+"¿Esta seguro que quiere eliminar todos los grupos?"
+
+#. (obsolete)
+#: Groups%239
+msgid "Groups"
+msgstr "Qutunaka"
+
+#  [ES] "Diccionarios disponibles:"
+#: Groups%2310
+msgid "Dictionaries available:"
+msgstr "Aru-pirwanaka apnaqañataki:"
+
+#  [ES] "Añadir los diccionarios seleccionados al grupo (Ins)"
+#: Groups%2311
+msgid "Add selected dictionaries to group (Ins)"
+msgstr ""
+"Ajllita aru-pirwanaka qutu ukaru yapaña (INS)\n"
+"\n"
+"Añadir los diccionarios seleccionados al grupo (INS)"
+
+#  [ES] ">"
+#: Groups%2312
+msgid ">"
+msgstr ">"
+
+#  [ES] "Ins"
+#: Groups%2313
+msgid "Ins"
+msgstr "INS"
+
+#  [ES] "Eliminar los diccionarios seleccionados del grupo (Supr)"
+#: Groups%2314
+msgid "Remove selected dictionaries from group (Del)"
+msgstr ""
+"Qutu ukata ajllit aru-pirwanaka chhaqtayaña (SUPR)\n"
+"\n"
+"Eliminar los diccionarios seleccionados del grupo (SUPR)"
+
+#  [ES] "<"
+#: Groups%2315
+msgid "<"
+msgstr "<"
+
+#  [ES] "Supr"
+#: Groups%2316
+msgid "Del"
+msgstr "SUPR"
+
+#  [ES] "Grupos:"
+#: Groups%2317
+msgid "Groups:"
+msgstr "Qutunaka:"
+
+#  [ES] "Pestaña 2"
+#: Groups%2318
+msgctxt "Groups#18"
+msgid "Tab 2"
+msgstr "Phichhu 2"
+
+#  [ES] "Crear un nuevo grupo de diccionarios"
+#: Groups%2319
+msgid "Create new dictionary group"
+msgstr ""
+"Machaqa qutu aru-pirwanaka uñstayaña\n"
+"\n"
+"Crear un nuevo grupo de diccionarios"
+
+#  [ES] "Añad&ir grupo"
+#: Groups%2320
+msgid "&Add group"
+msgstr "Qutu &yapaña"
+
+#  [ES] "Crear grupos de diccionarios según los idiomas"
+#: Groups%2321
+msgid "Create language-based groups"
+msgstr ""
+"Parisa arunakataki qutunaka uñstayaña\n"
+"\n"
+"Crear grupos de diccionarios para pares de idiomas"
+
+#  [ES] "Agrupación automática"
+#: Groups%2322
+msgid "Auto groups"
+msgstr "Justupaki qutunakana uñstaña"
+
+#  [ES] "Renombrar el grupo de diccionarios actual"
+#: Groups%2323
+msgid "Rename current dictionary group"
+msgstr ""
+"Jichha qutu aru-pirwanaka mayampi suticht'aña\n"
+"\n"
+"Renombrar el grupo de diccionarios actual"
+
+#  [ES] "Re&nombrar grupo"
+#: Groups%2324
+msgid "Re&name group"
+msgstr "&Mayampi quturu suticht'aña"
+
+#  [ES] "Eliminar el grupo de diccionarios actual"
+#: Groups%2325
+msgid "Remove current dictionary group"
+msgstr ""
+"Jichha qutu aru-pirwanaka chhaqtayaña\n"
+"\n"
+"Eliminar el grupo actual de diccionarios"
+
+#  [ES] "&Eliminar grupo"
+#: Groups%2326
+msgid "&Remove group"
+msgstr "Qutu &chhaqtayaña"
+
+#  [ES] "Eliminar todos los grupos de diccionarios"
+#: Groups%2327
+msgid "Remove all dictionary groups"
+msgstr ""
+"Taqpacha qutu aru-pirwanaka chhaqtayaña\n"
+"\n"
+"Eliminar todos los grupos de diccionarios"
+
+#  [ES] ""
+#  [ES] "Arrastre y suelte con el ratón para pasar diccionarios de un grupo a otro, "
+#  [ES] "para moverlos dentro de un grupo o para ordenar los grupos."
+#: Groups%2328
+msgid ""
+"Drag&drop dictionaries to and from the groups, move them inside the groups, "
+"reorder the groups using your mouse."
+msgstr ""
+"Qutunakana aru-pirwanaka qatatima ukhamaraki uskuma achakumpi. Aru-"
+"pirwanakaxa unuqiyasmawa ukaxa wakichañataki.\n"
+"Arrastre y suelte con el ratón para pasar diccionarios de un grupo a otro, "
+"para moverlos dentro de un grupo o para ordenar los grupos."
+
+#  [ES] ""
+#: Groups%2329
+msgid "Group tabs"
+msgstr "Qutu phichhunaka"
+
+#  [ES] ""
+#: Groups%2330
+msgid "Open groups list"
+msgstr ""
+"Tanta qutunaka jist'araña\n"
+"\n"
+"Abrir una lista de grupos"
+
+#  [ES] ""
+#: Help::HelpWindow%231
+msgid "GoldenDict help"
+msgstr "GoldenDict yatichawi"
+
+#  [ES] ""
+#: Help::HelpWindow%232
+msgid "Home"
+msgstr ""
+"Qallta\n"
+"\n"
+"Inicio"
+
+#  [ES] "Atrás"
+#: Help::HelpWindow%233
+msgctxt "Help::HelpWindow#3"
+msgid "Back"
+msgstr ""
+"Nayriri\n"
+"\n"
+"Anterior"
+
+#  [ES] "Adelante"
+#: Help::HelpWindow%234
+msgctxt "Help::HelpWindow#4"
+msgid "Forward"
+msgstr ""
+"Jutiri\n"
+"\n"
+"Posterior"
+
+#  [ES] "Acercar"
+#: Help::HelpWindow%235
+msgctxt "Help::HelpWindow#5"
+msgid "Zoom In"
+msgstr ""
+"Jach'aptayaña\n"
+"\n"
+"Agrandar"
+
+#  [ES] "Alejar"
+#: Help::HelpWindow%236
+msgctxt "Help::HelpWindow#6"
+msgid "Zoom Out"
+msgstr ""
+"Jisk'aptayaña\n"
+"\n"
+"Achicar"
+
+#  [ES] "Tamaño normal"
+#: Help::HelpWindow%237
+msgctxt "Help::HelpWindow#7"
+msgid "Normal Size"
+msgstr ""
+"Qawqhch'akansa ukhama\n"
+"\n"
+"Tamaño normal"
+
+#  [ES] ""
+#: Help::HelpWindow%238
+msgid "Content"
+msgstr "Utjirinaka"
+
+#  [ES] ""
+#: Help::HelpWindow%239
+msgid "Index"
+msgstr "Tanta utjirinaka"
+
+#  [ES] "&Borrar Seleccionado"
+#: HistoryPaneWidget%231
+msgctxt "HistoryPaneWidget#1"
+msgid "&Delete Selected"
+msgstr "&Ajllitanaka chhaqtayaña"
+
+#  [ES] "Copiar Seleccionado"
+#: HistoryPaneWidget%232
+msgctxt "HistoryPaneWidget#2"
+msgid "Copy Selected"
+msgstr "Ajllitanaka qillqaqaña"
+
+#  [ES] "Historial:"
+#: HistoryPaneWidget%233
+msgid "History:"
+msgstr "Thaqhata arunaka:"
+
+#  [ES] "%1/%2"
+#: HistoryPaneWidget%234
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#  [ES] "Tamaño del historial: %1 entradas de un máximo de %2"
+#: HistoryPaneWidget%235
+msgid "History size: %1 entries out of maximum %2"
+msgstr "Qawqhasa aru thaqhatanakaxa: %1 arunaka %2 ukhaki"
+
+#  [ES] "Sugerencias ortográficas: "
+#: Hunspell%231
+msgid "Spelling suggestions: "
+msgstr "Arunaka amuyt'awinaka: "
+
+#  [ES] "Afar"
+#. (obsolete)
+#: Hunspell%232
+msgctxt "Hunspell#2"
+msgid "Afar"
+msgstr "Afar"
+
+#  [ES] "Abjasio"
+#. (obsolete)
+#: Hunspell%233
+msgctxt "Hunspell#3"
+msgid "Abkhazian"
+msgstr "Abjasio"
+
+#  [ES] "Avestán"
+#. (obsolete)
+#: Hunspell%234
+msgctxt "Hunspell#4"
+msgid "Avestan"
+msgstr "Avéstico"
+
+#  [ES] "Afrikaans"
+#. (obsolete)
+#: Hunspell%235
+msgctxt "Hunspell#5"
+msgid "Afrikaans"
+msgstr "Afrikáans"
+
+#  [ES] "Acano"
+#. (obsolete)
+#: Hunspell%236
+msgctxt "Hunspell#6"
+msgid "Akan"
+msgstr "Acano"
+
+#  [ES] "Amárico"
+#. (obsolete)
+#: Hunspell%237
+msgctxt "Hunspell#7"
+msgid "Amharic"
+msgstr "Amárico"
+
+#  [ES] "Aragonés"
+#. (obsolete)
+#: Hunspell%238
+msgctxt "Hunspell#8"
+msgid "Aragonese"
+msgstr "Aragonés"
+
+#  [ES] "Árabe"
+#. (obsolete)
+#: Hunspell%239
+msgctxt "Hunspell#9"
+msgid "Arabic"
+msgstr "Árabe"
+
+#  [ES] "Asamés"
+#. (obsolete)
+#: Hunspell%2310
+msgctxt "Hunspell#10"
+msgid "Assamese"
+msgstr "Asamés"
+
+#  [ES] "Ávaro"
+#. (obsolete)
+#: Hunspell%2311
+msgctxt "Hunspell#11"
+msgid "Avaric"
+msgstr "Ávaro"
+
+#  [ES] "Aimará"
+#. (obsolete)
+#: Hunspell%2312
+msgctxt "Hunspell#12"
+msgid "Aymara"
+msgstr "Aymara"
+
+#  [ES] "Azerí"
+#. (obsolete)
+#: Hunspell%2313
+msgctxt "Hunspell#13"
+msgid "Azerbaijani"
+msgstr "Azerí"
+
+#  [ES] "Bashkir"
+#. (obsolete)
+#: Hunspell%2314
+msgctxt "Hunspell#14"
+msgid "Bashkir"
+msgstr "Bashkir"
+
+#  [ES] "Bielorruso"
+#. (obsolete)
+#: Hunspell%2315
+msgctxt "Hunspell#15"
+msgid "Belarusian"
+msgstr "Bielorruso"
+
+#  [ES] "Búlgaro"
+#. (obsolete)
+#: Hunspell%2316
+msgctxt "Hunspell#16"
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#  [ES] "Bihari"
+#. (obsolete)
+#: Hunspell%2317
+msgctxt "Hunspell#17"
+msgid "Bihari"
+msgstr "Bihari"
+
+#  [ES] "Bislama"
+#. (obsolete)
+#: Hunspell%2318
+msgctxt "Hunspell#18"
+msgid "Bislama"
+msgstr "Bislama"
+
+#  [ES] "Bambara"
+#. (obsolete)
+#: Hunspell%2319
+msgctxt "Hunspell#19"
+msgid "Bambara"
+msgstr "Bambara"
+
+#  [ES] "Bengalí"
+#. (obsolete)
+#: Hunspell%2320
+msgctxt "Hunspell#20"
+msgid "Bengali"
+msgstr "Bengalí"
+
+#  [ES] "Tibetano"
+#. (obsolete)
+#: Hunspell%2321
+msgctxt "Hunspell#21"
+msgid "Tibetan"
+msgstr "Tibetano"
+
+#  [ES] "Bretón"
+#. (obsolete)
+#: Hunspell%2322
+msgctxt "Hunspell#22"
+msgid "Breton"
+msgstr "Bretón"
+
+#  [ES] "Bosnio"
+#. (obsolete)
+#: Hunspell%2323
+msgctxt "Hunspell#23"
+msgid "Bosnian"
+msgstr "Bosnio"
+
+#  [ES] "Catalán"
+#. (obsolete)
+#: Hunspell%2324
+msgctxt "Hunspell#24"
+msgid "Catalan"
+msgstr "Catalán"
+
+#  [ES] "Checheno"
+#. (obsolete)
+#: Hunspell%2325
+msgctxt "Hunspell#25"
+msgid "Chechen"
+msgstr "Chechén"
+
+#  [ES] "Chamorro"
+#. (obsolete)
+#: Hunspell%2326
+msgctxt "Hunspell#26"
+msgid "Chamorro"
+msgstr "Chamorro"
+
+#  [ES] "Corso"
+#. (obsolete)
+#: Hunspell%2327
+msgctxt "Hunspell#27"
+msgid "Corsican"
+msgstr "Corso"
+
+#  [ES] "Cree"
+#. (obsolete)
+#: Hunspell%2328
+msgctxt "Hunspell#28"
+msgid "Cree"
+msgstr "Cree"
+
+#  [ES] "Checo"
+#. (obsolete)
+#: Hunspell%2329
+msgctxt "Hunspell#29"
+msgid "Czech"
+msgstr "Checo"
+
+#  [ES] "Eslavo eclesiástico"
+#. (obsolete)
+#: Hunspell%2330
+msgctxt "Hunspell#30"
+msgid "Church Slavic"
+msgstr "Eslavo eclesiástico"
+
+#  [ES] "Chuvash"
+#. (obsolete)
+#: Hunspell%2331
+msgctxt "Hunspell#31"
+msgid "Chuvash"
+msgstr "Chuvasio"
+
+#  [ES] "Galés"
+#. (obsolete)
+#: Hunspell%2332
+msgctxt "Hunspell#32"
+msgid "Welsh"
+msgstr "Galés"
+
+#  [ES] "Danés"
+#. (obsolete)
+#: Hunspell%2333
+msgctxt "Hunspell#33"
+msgid "Danish"
+msgstr "Danés"
+
+#  [ES] "Alemán"
+#. (obsolete)
+#: Hunspell%2334
+msgctxt "Hunspell#34"
+msgid "German"
+msgstr "Alemán"
+
+#  [ES] "Divehi"
+#. (obsolete)
+#: Hunspell%2335
+msgctxt "Hunspell#35"
+msgid "Divehi"
+msgstr "Divehi"
+
+#  [ES] "Dzongkha"
+#. (obsolete)
+#: Hunspell%2336
+msgctxt "Hunspell#36"
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+#  [ES] "Ewé"
+#. (obsolete)
+#: Hunspell%2337
+msgctxt "Hunspell#37"
+msgid "Ewe"
+msgstr "Ewé"
+
+#  [ES] "Griego"
+#. (obsolete)
+#: Hunspell%2338
+msgctxt "Hunspell#38"
+msgid "Greek"
+msgstr "Griego"
+
+#  [ES] "Inglés"
+#. (obsolete)
+#: Hunspell%2339
+msgctxt "Hunspell#39Hunspell#39"
+msgid "English"
+msgstr "Inglisa"
+
+#  [ES] "Esperanto"
+#. (obsolete)
+#: Hunspell%2340
+msgctxt "Hunspell#40"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#  [ES] "Español"
+#. (obsolete)
+#: Hunspell%2341
+msgctxt "Hunspell#41"
+msgid "Spanish"
+msgstr "Español"
+
+#  [ES] "Estonio"
+#. (obsolete)
+#: Hunspell%2342
+msgctxt "Hunspell#42"
+msgid "Estonian"
+msgstr "Estonio"
+
+#  [ES] "Vasco"
+#. (obsolete)
+#: Hunspell%2343
+msgctxt "Hunspell#43"
+msgid "Basque"
+msgstr "Vasco (Euskara)"
+
+#  [ES] "Farsí"
+#. (obsolete)
+#: Hunspell%2344
+msgctxt "Hunspell#44"
+msgid "Persian"
+msgstr "Farsí"
+
+#  [ES] "Fula"
+#. (obsolete)
+#: Hunspell%2345
+msgctxt "Hunspell#45"
+msgid "Fulah"
+msgstr "Fula"
+
+#  [ES] "Finlandés"
+#. (obsolete)
+#: Hunspell%2346
+msgctxt "Hunspell#46"
+msgid "Finnish"
+msgstr "Finlandés"
+
+#  [ES] "Fiyiano"
+#. (obsolete)
+#: Hunspell%2347
+msgctxt "Hunspell#47"
+msgid "Fijian"
+msgstr "Fiyiano"
+
+#  [ES] "Feroés"
+#. (obsolete)
+#: Hunspell%2348
+msgctxt "Hunspell#48"
+msgid "Faroese"
+msgstr "Feroés"
+
+#  [ES] "Francés"
+#. (obsolete)
+#: Hunspell%2349
+msgctxt "Hunspell#49"
+msgid "French"
+msgstr "Francés"
+
+#  [ES] "Frisio occidental"
+#. (obsolete)
+#: Hunspell%2350
+msgctxt "Hunspell#50"
+msgid "Western Frisian"
+msgstr "Frisio occidental"
+
+#  [ES] "Irlandés"
+#. (obsolete)
+#: Hunspell%2351
+msgctxt "Hunspell#51"
+msgid "Irish"
+msgstr "Irlandés"
+
+#  [ES] "Gaélico escocés"
+#. (obsolete)
+#: Hunspell%2352
+msgctxt "Hunspell#52"
+msgid "Scottish Gaelic"
+msgstr "Gaélico escocés"
+
+#  [ES] "Gallego"
+#. (obsolete)
+#: Hunspell%2353
+msgctxt "Hunspell#53"
+msgid "Galician"
+msgstr "Gallego"
+
+#  [ES] "Guaraní"
+#. (obsolete)
+#: Hunspell%2354
+msgctxt "Hunspell#54"
+msgid "Guarani"
+msgstr "Guaraní"
+
+#  [ES] "Gujarati"
+#. (obsolete)
+#: Hunspell%2355
+msgctxt "Hunspell#55"
+msgid "Gujarati"
+msgstr "Guyaratí"
+
+#  [ES] "Manés"
+#. (obsolete)
+#: Hunspell%2356
+msgctxt "Hunspell#56"
+msgid "Manx"
+msgstr "Manés"
+
+#  [ES] "Hausa"
+#. (obsolete)
+#: Hunspell%2357
+msgctxt "Hunspell#57"
+msgid "Hausa"
+msgstr "Hausa"
+
+#  [ES] "Hebreo"
+#. (obsolete)
+#: Hunspell%2358
+msgctxt "Hunspell#58"
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#  [ES] "Hindi"
+#. (obsolete)
+#: Hunspell%2359
+msgctxt "Hunspell#59"
+msgid "Hindi"
+msgstr "Hindi"
+
+#  [ES] "Hiri Motu"
+#. (obsolete)
+#: Hunspell%2360
+msgctxt "Hunspell#60"
+msgid "Hiri Motu"
+msgstr "Hiri Motu"
+
+#  [ES] "Croata"
+#. (obsolete)
+#: Hunspell%2361
+msgctxt "Hunspell#61"
+msgid "Croatian"
+msgstr "Croato"
+
+#  [ES] "Haitiano"
+#. (obsolete)
+#: Hunspell%2362
+msgctxt "Hunspell#62"
+msgid "Haitian"
+msgstr "Criollo haitiano"
+
+#  [ES] "Húngaro"
+#. (obsolete)
+#: Hunspell%2363
+msgctxt "Hunspell#63"
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#  [ES] "Armenio"
+#. (obsolete)
+#: Hunspell%2364
+msgctxt "Hunspell#64"
+msgid "Armenian"
+msgstr "Armenio"
+
+#  [ES] "Herero"
+#. (obsolete)
+#: Hunspell%2365
+msgctxt "Hunspell#65"
+msgid "Herero"
+msgstr "Herero"
+
+#  [ES] "Interlingua"
+#. (obsolete)
+#: Hunspell%2366
+msgctxt "Hunspell#66"
+msgid "Interlingua"
+msgstr "Interlingua"
+
+#  [ES] "Indonesio"
+#. (obsolete)
+#: Hunspell%2367
+msgctxt "Hunspell#67"
+msgid "Indonesian"
+msgstr "Indonés"
+
+#  [ES] "Interlingua"
+#. (obsolete)
+#: Hunspell%2368
+msgctxt "Hunspell#68"
+msgid "Interlingue"
+msgstr "Interlingue"
+
+#  [ES] "Igbo"
+#. (obsolete)
+#: Hunspell%2369
+msgctxt "Hunspell#69"
+msgid "Igbo"
+msgstr "Igbo"
+
+#  [ES] "Sichuan Yi"
+#. (obsolete)
+#: Hunspell%2370
+msgctxt "Hunspell#70"
+msgid "Sichuan Yi"
+msgstr "Sichuan Yi"
+
+#  [ES] "Iñupiaq"
+#. (obsolete)
+#: Hunspell%2371
+msgctxt "Hunspell#71"
+msgid "Inupiaq"
+msgstr "Iñupiaq"
+
+#  [ES] "Ido"
+#. (obsolete)
+#: Hunspell%2372
+msgctxt "Hunspell#72"
+msgid "Ido"
+msgstr "Ido"
+
+#  [ES] "Islandés"
+#. (obsolete)
+#: Hunspell%2373
+msgctxt "Hunspell#73"
+msgid "Icelandic"
+msgstr "Islandés"
+
+#  [ES] "Italiano"
+#. (obsolete)
+#: Hunspell%2374
+msgctxt "Hunspell#74"
+msgid "Italian"
+msgstr "Italiano"
+
+#  [ES] "Inuktitut"
+#. (obsolete)
+#: Hunspell%2375
+msgctxt "Hunspell#75"
+msgid "Inuktitut"
+msgstr "Inuktitut"
+
+#  [ES] "Japonés"
+#. (obsolete)
+#: Hunspell%2376
+msgctxt "Hunspell#76"
+msgid "Japanese"
+msgstr "Japonés"
+
+#  [ES] "Javanés"
+#. (obsolete)
+#: Hunspell%2377
+msgctxt "Hunspell#77"
+msgid "Javanese"
+msgstr "Javanés"
+
+#  [ES] "Georgiano"
+#. (obsolete)
+#: Hunspell%2378
+msgctxt "Hunspell#78"
+msgid "Georgian"
+msgstr "Georgiano"
+
+#  [ES] "Kongo"
+#. (obsolete)
+#: Hunspell%2379
+msgctxt "Hunspell#79"
+msgid "Kongo"
+msgstr "Kongo"
+
+#  [ES] "Kikuyu"
+#. (obsolete)
+#: Hunspell%2380
+msgctxt "Hunspell#80"
+msgid "Kikuyu"
+msgstr "Kikuyu"
+
+#  [ES] "Kuanyama"
+#. (obsolete)
+#: Hunspell%2381
+msgctxt "Hunspell#81"
+msgid "Kwanyama"
+msgstr "Kwanyama"
+
+#  [ES] "kazajo"
+#. (obsolete)
+#: Hunspell%2382
+msgctxt "Hunspell#82"
+msgid "Kazakh"
+msgstr "Cazajo"
+
+#  [ES] "Groenlandés"
+#. (obsolete)
+#: Hunspell%2383
+msgctxt "Hunspell#83"
+msgid "Kalaallisut"
+msgstr "Groenlandés (kalaallisut)"
+
+#  [ES] "Khmer"
+#. (obsolete)
+#: Hunspell%2384
+msgctxt "Hunspell#84"
+msgid "Khmer"
+msgstr "Camboyano"
+
+#  [ES] "Kannada"
+#. (obsolete)
+#: Hunspell%2385
+msgctxt "Hunspell#85"
+msgid "Kannada"
+msgstr "Kannada"
+
+#  [ES] "Coreano"
+#. (obsolete)
+#: Hunspell%2386
+msgctxt "Hunspell#86"
+msgid "Korean"
+msgstr "Coreano"
+
+#  [ES] "Kanuri"
+#. (obsolete)
+#: Hunspell%2387
+msgctxt "Hunspell#87"
+msgid "Kanuri"
+msgstr "Kanuri"
+
+#  [ES] "Cachemir"
+#. (obsolete)
+#: Hunspell%2388
+msgctxt "Hunspell#88"
+msgid "Kashmiri"
+msgstr "Cachemir"
+
+#  [ES] "Kurdo"
+#. (obsolete)
+#: Hunspell%2389
+msgctxt "Hunspell#89"
+msgid "Kurdish"
+msgstr "Kurdo"
+
+#  [ES] "Komi"
+#. (obsolete)
+#: Hunspell%2390
+msgctxt "Hunspell#90"
+msgid "Komi"
+msgstr "Komi"
+
+#  [ES] "Córnico"
+#. (obsolete)
+#: Hunspell%2391
+msgctxt "Hunspell#91"
+msgid "Cornish"
+msgstr "Córnico"
+
+#  [ES] "Kirguís"
+#. (obsolete)
+#: Hunspell%2392
+msgctxt "Hunspell#92"
+msgid "Kirghiz"
+msgstr "Kirghiz"
+
+#  [ES] "Latín"
+#. (obsolete)
+#: Hunspell%2393
+msgctxt "Hunspell#93"
+msgid "Latin"
+msgstr "Latín"
+
+#  [ES] "Luxemburgués"
+#. (obsolete)
+#: Hunspell%2394
+msgctxt "Hunspell#94"
+msgid "Luxembourgish"
+msgstr "Luxemburgués"
+
+#  [ES] "Luganda"
+#. (obsolete)
+#: Hunspell%2395
+msgctxt "Hunspell#95"
+msgid "Ganda"
+msgstr "Ganda"
+
+#  [ES] "Limburgués"
+#. (obsolete)
+#: Hunspell%2396
+msgctxt "Hunspell#96"
+msgid "Limburgish"
+msgstr "Limburgés"
+
+#  [ES] "Lingala"
+#. (obsolete)
+#: Hunspell%2397
+msgctxt "Hunspell#97"
+msgid "Lingala"
+msgstr "Lingala"
+
+#  [ES] "Laosiano"
+#. (obsolete)
+#: Hunspell%2398
+msgctxt "Hunspell#98"
+msgid "Lao"
+msgstr "Laosiano"
+
+#  [ES] "Lituano"
+#. (obsolete)
+#: Hunspell%2399
+msgctxt "Hunspell#99"
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#  [ES] "Luba-Katanga"
+#. (obsolete)
+#: Hunspell%23100
+msgctxt "Hunspell#100"
+msgid "Luba-Katanga"
+msgstr "Luba-Katanga"
+
+#  [ES] "Letón"
+#. (obsolete)
+#: Hunspell%23101
+msgctxt "Hunspell#101"
+msgid "Latvian"
+msgstr "Latvian"
+
+#  [ES] "Malgache"
+#. (obsolete)
+#: Hunspell%23102
+msgctxt "Hunspell#102"
+msgid "Malagasy"
+msgstr "Malagasy"
+
+#  [ES] "Marshalés"
+#. (obsolete)
+#: Hunspell%23103
+msgctxt "Hunspell#103"
+msgid "Marshallese"
+msgstr "Marshalés"
+
+#  [ES] "Maorí"
+#. (obsolete)
+#: Hunspell%23104
+msgctxt "Hunspell#104"
+msgid "Maori"
+msgstr "Maori"
+
+#  [ES] "Macedonio"
+#. (obsolete)
+#: Hunspell%23105
+msgctxt "Hunspell#105"
+msgid "Macedonian"
+msgstr "Macedonio"
+
+#  [ES] "Malayalam"
+#. (obsolete)
+#: Hunspell%23106
+msgctxt "Hunspell#106"
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#  [ES] "Mongol"
+#. (obsolete)
+#: Hunspell%23107
+msgctxt "Hunspell#107"
+msgid "Mongolian"
+msgstr "Mongol"
+
+#  [ES] "Marathi"
+#. (obsolete)
+#: Hunspell%23108
+msgctxt "Hunspell#108"
+msgid "Marathi"
+msgstr "Marathi"
+
+#  [ES] "Malayo"
+#. (obsolete)
+#: Hunspell%23109
+msgctxt "Hunspell#109"
+msgid "Malay"
+msgstr "Malayo"
+
+#  [ES] "Maltés"
+#. (obsolete)
+#: Hunspell%23110
+msgctxt "Hunspell#110"
+msgid "Maltese"
+msgstr "Maltés"
+
+#  [ES] "Birmano"
+#. (obsolete)
+#: Hunspell%23111
+msgctxt "Hunspell#111"
+msgid "Burmese"
+msgstr "Birmano"
+
+#  [ES] "Nauru"
+#. (obsolete)
+#: Hunspell%23112
+msgctxt "Hunspell#112"
+msgid "Nauru"
+msgstr "Nauru"
+
+#  [ES] "Bokmål noruego"
+#. (obsolete)
+#: Hunspell%23113
+msgctxt "Hunspell#113"
+msgid "Norwegian Bokmal"
+msgstr "Noruego bokmål"
+
+#  [ES] "Sindebele"
+#. (obsolete)
+#: Hunspell%23114
+msgctxt "Hunspell#114"
+msgid "North Ndebele"
+msgstr "Ndebele norteño"
+
+#  [ES] "Nepalí"
+#. (obsolete)
+#: Hunspell%23115
+msgctxt "Hunspell#115"
+msgid "Nepali"
+msgstr "Nepali"
+
+#  [ES] "Ndonga"
+#. (obsolete)
+#: Hunspell%23116
+msgctxt "Hunspell#116"
+msgid "Ndonga"
+msgstr "Ndonga"
+
+#  [ES] "Holandés"
+#. (obsolete)
+#: Hunspell%23117
+msgctxt "Hunspell#117"
+msgid "Dutch"
+msgstr "Dutch"
+
+#  [ES] "Nynorsk noruego"
+#. (obsolete)
+#: Hunspell%23118
+msgctxt "Hunspell#118"
+msgid "Norwegian Nynorsk"
+msgstr "Noruego Nynorsk"
+
+#  [ES] "Noruego"
+#. (obsolete)
+#: Hunspell%23119
+msgctxt "Hunspell#119"
+msgid "Norwegian"
+msgstr "Noruego"
+
+#  [ES] "Nrebele"
+#. (obsolete)
+#: Hunspell%23120
+msgctxt "Hunspell#120"
+msgid "South Ndebele"
+msgstr "Sur Ndebele"
+
+#  [ES] "Navajo"
+#. (obsolete)
+#: Hunspell%23121
+msgctxt "Hunspell#121"
+msgid "Navajo"
+msgstr "Navajo"
+
+#  [ES] "Chichewa"
+#. (obsolete)
+#: Hunspell%23122
+msgctxt "Hunspell#122"
+msgid "Chichewa"
+msgstr "Chichewa"
+
+#  [ES] "Occitano"
+#. (obsolete)
+#: Hunspell%23123
+msgctxt "Hunspell#123"
+msgid "Occitan"
+msgstr "Occitano"
+
+#  [ES] "Ojibwa"
+#. (obsolete)
+#: Hunspell%23124
+msgctxt "Hunspell#124"
+msgid "Ojibwa"
+msgstr "Ojibwa"
+
+#  [ES] "Oromo"
+#. (obsolete)
+#: Hunspell%23125
+msgctxt "Hunspell#125"
+msgid "Oromo"
+msgstr "Oromo"
+
+#  [ES] "Oriya"
+#. (obsolete)
+#: Hunspell%23126
+msgctxt "Hunspell#126"
+msgid "Oriya"
+msgstr "Oriya"
+
+#  [ES] "Osetio"
+#. (obsolete)
+#: Hunspell%23127
+msgctxt "Hunspell#127"
+msgid "Ossetian"
+msgstr "Ossetian"
+
+#  [ES] "Punjabí"
+#. (obsolete)
+#: Hunspell%23128
+msgctxt "Hunspell#128"
+msgid "Panjabi"
+msgstr "Panjabi"
+
+#  [ES] "Pali"
+#. (obsolete)
+#: Hunspell%23129
+msgctxt "Hunspell#129"
+msgid "Pali"
+msgstr "Pali"
+
+#  [ES] "Polaco"
+#. (obsolete)
+#: Hunspell%23130
+msgctxt "Hunspell#130"
+msgid "Polish"
+msgstr "Polaco"
+
+#  [ES] "Pashto"
+#. (obsolete)
+#: Hunspell%23131
+msgctxt "Hunspell#131"
+msgid "Pashto"
+msgstr "Pastún"
+
+#  [ES] "Portugués"
+#. (obsolete)
+#: Hunspell%23132
+msgctxt "Hunspell#132"
+msgid "Portuguese"
+msgstr "Portugués"
+
+#  [ES] "Quechua"
+#. (obsolete)
+#: Hunspell%23133
+msgctxt "Hunspell#133"
+msgid "Quechua"
+msgstr "Quechua"
+
+#  [ES] "Retorrománica"
+#. (obsolete)
+#: Hunspell%23134
+msgctxt "Hunspell#134"
+msgid "Raeto-Romance"
+msgstr "Retorrománico"
+
+#  [ES] "Kirundi"
+#. (obsolete)
+#: Hunspell%23135
+msgctxt "Hunspell#135"
+msgid "Kirundi"
+msgstr "Kirundi"
+
+#  [ES] "Rumano"
+#. (obsolete)
+#: Hunspell%23136
+msgctxt "Hunspell#136"
+msgid "Romanian"
+msgstr "Rumano"
+
+#  [ES] "Ruso"
+#. (obsolete)
+#: Hunspell%23137
+msgctxt "Hunspell#137Hunspell#137"
+msgid "Russian"
+msgstr "Ruso"
+
+#  [ES] "Quiñaruanda"
+#. (obsolete)
+#: Hunspell%23138
+msgctxt "Hunspell#138"
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#  [ES] "Sánscrito"
+#. (obsolete)
+#: Hunspell%23139
+msgctxt "Hunspell#139"
+msgid "Sanskrit"
+msgstr "Sanscrito"
+
+#  [ES] "Sardo"
+#. (obsolete)
+#: Hunspell%23140
+msgctxt "Hunspell#140"
+msgid "Sardinian"
+msgstr "Sardo"
+
+#  [ES] "Sindhi"
+#. (obsolete)
+#: Hunspell%23141
+msgctxt "Hunspell#141"
+msgid "Sindhi"
+msgstr "Sindhi"
+
+#  [ES] "Sami septentrional"
+#. (obsolete)
+#: Hunspell%23142
+msgctxt "Hunspell#142"
+msgid "Northern Sami"
+msgstr "Sami norteño"
+
+#  [ES] "Sango"
+#. (obsolete)
+#: Hunspell%23143
+msgctxt "Hunspell#143"
+msgid "Sango"
+msgstr "Sango"
+
+#  [ES] "Serbocroata"
+#. (obsolete)
+#: Hunspell%23144
+msgctxt "Hunspell#144"
+msgid "Serbo-Croatian"
+msgstr "Serbo-Croato"
+
+#  [ES] "Cingalés"
+#. (obsolete)
+#: Hunspell%23145
+msgctxt "Hunspell#145"
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#  [ES] "Eslovaco"
+#. (obsolete)
+#: Hunspell%23146
+msgctxt "Hunspell#146"
+msgid "Slovak"
+msgstr "Slovaco"
+
+#  [ES] "Esloveno"
+#. (obsolete)
+#: Hunspell%23147
+msgctxt "Hunspell#147"
+msgid "Slovenian"
+msgstr "Sloveno"
+
+#  [ES] "Samoano"
+#. (obsolete)
+#: Hunspell%23148
+msgctxt "Hunspell#148"
+msgid "Samoan"
+msgstr "Samoano"
+
+#  [ES] "Shona"
+#. (obsolete)
+#: Hunspell%23149
+msgctxt "Hunspell#149"
+msgid "Shona"
+msgstr "Shona"
+
+#  [ES] "Somalí"
+#. (obsolete)
+#: Hunspell%23150
+msgctxt "Hunspell#150"
+msgid "Somali"
+msgstr "Somalí"
+
+#  [ES] "Albanés"
+#. (obsolete)
+#: Hunspell%23151
+msgctxt "Hunspell#151"
+msgid "Albanian"
+msgstr "Albanés"
+
+#  [ES] "Serbio"
+#. (obsolete)
+#: Hunspell%23152
+msgctxt "Hunspell#152"
+msgid "Serbian"
+msgstr "Serbio"
+
+#  [ES] "Suazi"
+#. (obsolete)
+#: Hunspell%23153
+msgctxt "Hunspell#153"
+msgid "Swati"
+msgstr "Swati"
+
+#  [ES] "Sesotho"
+#. (obsolete)
+#: Hunspell%23154
+msgctxt "Hunspell#154"
+msgid "Southern Sotho"
+msgstr "Sotho sureño"
+
+#  [ES] "Sudanés"
+#. (obsolete)
+#: Hunspell%23155
+msgctxt "Hunspell#155"
+msgid "Sundanese"
+msgstr "Sudanés"
+
+#  [ES] "Sueco"
+#. (obsolete)
+#: Hunspell%23156
+msgctxt "Hunspell#156"
+msgid "Swedish"
+msgstr "Sueco"
+
+#  [ES] "Suahili"
+#. (obsolete)
+#: Hunspell%23157
+msgctxt "Hunspell#157"
+msgid "Swahili"
+msgstr "Suajili"
+
+#  [ES] "Tamil"
+#. (obsolete)
+#: Hunspell%23158
+msgctxt "Hunspell#158"
+msgid "Tamil"
+msgstr "Tamil"
+
+#  [ES] "Telugu"
+#. (obsolete)
+#: Hunspell%23159
+msgctxt "Hunspell#159"
+msgid "Telugu"
+msgstr "Telugu"
+
+#  [ES] "Tayiko"
+#. (obsolete)
+#: Hunspell%23160
+msgctxt "Hunspell#160"
+msgid "Tajik"
+msgstr "Tayiko"
+
+#  [ES] "Tailandés"
+#. (obsolete)
+#: Hunspell%23161
+msgctxt "Hunspell#161"
+msgid "Thai"
+msgstr "Tailandés"
+
+#  [ES] "Tigriña"
+#. (obsolete)
+#: Hunspell%23162
+msgctxt "Hunspell#162"
+msgid "Tigrinya"
+msgstr "Tigriña"
+
+#  [ES] "Turcomano"
+#. (obsolete)
+#: Hunspell%23163
+msgctxt "Hunspell#163"
+msgid "Turkmen"
+msgstr "Turcomano"
+
+#  [ES] "Tagalo"
+#. (obsolete)
+#: Hunspell%23164
+msgctxt "Hunspell#164"
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#  [ES] "Setsuana"
+#. (obsolete)
+#: Hunspell%23165
+msgctxt "Hunspell#165"
+msgid "Tswana"
+msgstr "Tswana"
+
+#  [ES] "Tonga"
+#. (obsolete)
+#: Hunspell%23166
+msgctxt "Hunspell#166"
+msgid "Tonga"
+msgstr "Tonga"
+
+#  [ES] "Turco"
+#. (obsolete)
+#: Hunspell%23167
+msgctxt "Hunspell#167"
+msgid "Turkish"
+msgstr "Turco"
+
+#  [ES] "Tsonga"
+#. (obsolete)
+#: Hunspell%23168
+msgctxt "Hunspell#168"
+msgid "Tsonga"
+msgstr "Tsonga"
+
+#  [ES] "Tártaro"
+#. (obsolete)
+#: Hunspell%23169
+msgctxt "Hunspell#169"
+msgid "Tatar"
+msgstr "Tártaro"
+
+#  [ES] "Twi"
+#. (obsolete)
+#: Hunspell%23170
+msgctxt "Hunspell#170"
+msgid "Twi"
+msgstr "Twi"
+
+#  [ES] "Tahitiano"
+#. (obsolete)
+#: Hunspell%23171
+msgctxt "Hunspell#171"
+msgid "Tahitian"
+msgstr "Tahitiano"
+
+#  [ES] "Uigur"
+#. (obsolete)
+#: Hunspell%23172
+msgctxt "Hunspell#172"
+msgid "Uighur"
+msgstr "Uigur"
+
+#  [ES] "Ucraniano"
+#. (obsolete)
+#: Hunspell%23173
+msgctxt "Hunspell#173"
+msgid "Ukrainian"
+msgstr "Ucranio"
+
+#  [ES] "Urdú"
+#. (obsolete)
+#: Hunspell%23174
+msgctxt "Hunspell#174"
+msgid "Urdu"
+msgstr "Urdu"
+
+#  [ES] "Uzbeco"
+#. (obsolete)
+#: Hunspell%23175
+msgctxt "Hunspell#175"
+msgid "Uzbek"
+msgstr "Uzbeco"
+
+#  [ES] "Venda"
+#. (obsolete)
+#: Hunspell%23176
+msgctxt "Hunspell#176"
+msgid "Venda"
+msgstr "Venda"
+
+#  [ES] "Vietnamita"
+#. (obsolete)
+#: Hunspell%23177
+msgctxt "Hunspell#177"
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#  [ES] "Volapük"
+#. (obsolete)
+#: Hunspell%23178
+msgctxt "Hunspell#178"
+msgid "Volapuk"
+msgstr "Volapuk"
+
+#  [ES] "Valón"
+#. (obsolete)
+#: Hunspell%23179
+msgctxt "Hunspell#179"
+msgid "Walloon"
+msgstr "Valón"
+
+#  [ES] "Wolof"
+#. (obsolete)
+#: Hunspell%23180
+msgctxt "Hunspell#180"
+msgid "Wolof"
+msgstr "Wólof"
+
+#  [ES] "Xhosa"
+#. (obsolete)
+#: Hunspell%23181
+msgctxt "Hunspell#181"
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#  [ES] "Yiddish"
+#. (obsolete)
+#: Hunspell%23182
+msgctxt "Hunspell#182"
+msgid "Yiddish"
+msgstr "Yidis"
+
+#  [ES] "Yoruba"
+#. (obsolete)
+#: Hunspell%23183
+msgctxt "Hunspell#183"
+msgid "Yoruba"
+msgstr "Yoruba"
+
+#  [ES] "Chuan"
+#. (obsolete)
+#: Hunspell%23184
+msgctxt "Hunspell#184"
+msgid "Zhuang"
+msgstr "Zhuang"
+
+#  [ES] "Chino"
+#. (obsolete)
+#: Hunspell%23185
+msgctxt "Hunspell#185"
+msgid "Chinese"
+msgstr "Chino"
+
+#  [ES] "Zulú"
+#. (obsolete)
+#: Hunspell%23186
+msgctxt "Hunspell#186"
+msgid "Zulu"
+msgstr "Zulu"
+
+#  [ES] "Morfología del %1"
+#: Hunspell%23187
+msgid "%1 Morphology"
+msgstr "Arunakata t'aqa %1"
+
+#  [ES] "Activado"
+#: HunspellDictsModel%231
+msgctxt "HunspellDictsModel#1"
+msgid "Enabled"
+msgstr "Apnaqañataki"
+
+#  [ES] "Nombre"
+#: HunspellDictsModel%232
+msgctxt "HunspellDictsModel#2"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Espere por favor..."
+#: Initializing%231
+msgid "Please wait..."
+msgstr "Ampi suma suyt'ama..."
+
+#  [ES] "Espere mientras se indexa el diccionario, por favor"
+#: Initializing%232
+msgid "Please wait while indexing dictionary"
+msgstr "Ampi suma suyt'ama aru pirwanaka uñjañataki"
+
+#  [ES] "GoldenDict - Inicializando"
+#: Initializing%233
+msgid "GoldenDict - Initializing"
+msgstr "GoldenDict - qalltaskiwa"
+
+#  [ES] "Nombre del diccionario"
+#: Initializing%234
+msgid "Dictionary Name"
+msgstr "Aru-pirwa suti"
+
+#  [ES] "Afar"
+#: Language%231
+msgctxt "Language#1"
+msgid "Afar"
+msgstr "Afar"
+
+#  [ES] "Abjasio"
+#: Language%232
+msgctxt "Language#2"
+msgid "Abkhazian"
+msgstr "Abjasio"
+
+#  [ES] "Avestán"
+#: Language%233
+msgctxt "Language#3"
+msgid "Avestan"
+msgstr "Avéstico"
+
+#  [ES] "Afrikaans"
+#: Language%234
+msgctxt "Language#4"
+msgid "Afrikaans"
+msgstr "Africanos"
+
+#  [ES] "Acano"
+#: Language%235
+msgctxt "Language#5"
+msgid "Akan"
+msgstr "Acano"
+
+#  [ES] "Amárico"
+#: Language%236
+msgctxt "Language#6"
+msgid "Amharic"
+msgstr "Amárico"
+
+#  [ES] "Aragonés"
+#: Language%237
+msgctxt "Language#7"
+msgid "Aragonese"
+msgstr "Aragonés"
+
+#  [ES] "Árabe"
+#: Language%238
+msgctxt "Language#8"
+msgid "Arabic"
+msgstr "Arabé"
+
+#  [ES] "Asamés"
+#: Language%239
+msgctxt "Language#9"
+msgid "Assamese"
+msgstr "Asamés"
+
+#  [ES] "Ávaro"
+#: Language%2310
+msgctxt "Language#10"
+msgid "Avaric"
+msgstr "Ávaro"
+
+#  [ES] "Aimará"
+#: Language%2311
+msgctxt "Language#11"
+msgid "Aymara"
+msgstr "Aymara"
+
+#  [ES] "Azerí"
+#: Language%2312
+msgctxt "Language#12"
+msgid "Azerbaijani"
+msgstr "Azerí"
+
+#  [ES] "Bashkir"
+#: Language%2313
+msgctxt "Language#13"
+msgid "Bashkir"
+msgstr "Bashkir"
+
+#  [ES] "Bielorruso"
+#: Language%2314
+msgctxt "Language#14"
+msgid "Belarusian"
+msgstr "Bielorruso"
+
+#  [ES] "Búlgaro"
+#: Language%2315
+msgctxt "Language#15"
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#  [ES] "Bihari"
+#: Language%2316
+msgctxt "Language#16"
+msgid "Bihari"
+msgstr "Bihari"
+
+#  [ES] "Bislama"
+#: Language%2317
+msgctxt "Language#17"
+msgid "Bislama"
+msgstr "Bislama"
+
+#  [ES] "Bambara"
+#: Language%2318
+msgctxt "Language#18"
+msgid "Bambara"
+msgstr "Bambara"
+
+#  [ES] "Bengalí"
+#: Language%2319
+msgctxt "Language#19"
+msgid "Bengali"
+msgstr "Bengalí"
+
+#  [ES] "Tibetano"
+#: Language%2320
+msgctxt "Language#20"
+msgid "Tibetan"
+msgstr "Tibetano"
+
+#  [ES] "Bretón"
+#: Language%2321
+msgctxt "Language#21"
+msgid "Breton"
+msgstr "Bretón"
+
+#  [ES] "Bosnio"
+#: Language%2322
+msgctxt "Language#22"
+msgid "Bosnian"
+msgstr "Bosnio"
+
+#  [ES] "Catalán"
+#: Language%2323
+msgctxt "Language#23"
+msgid "Catalan"
+msgstr "Catalán"
+
+#  [ES] "Checheno"
+#: Language%2324
+msgctxt "Language#24"
+msgid "Chechen"
+msgstr "Chechén"
+
+#  [ES] "Chamorro"
+#: Language%2325
+msgctxt "Language#25"
+msgid "Chamorro"
+msgstr "Chamorro"
+
+#  [ES] "Corso"
+#: Language%2326
+msgctxt "Language#26"
+msgid "Corsican"
+msgstr "Corso"
+
+#  [ES] "Cree"
+#: Language%2327
+msgctxt "Language#27"
+msgid "Cree"
+msgstr "Cree"
+
+#  [ES] "Checo"
+#: Language%2328
+msgctxt "Language#28"
+msgid "Czech"
+msgstr "Checo"
+
+#  [ES] "Eslavo eclesiástico"
+#: Language%2329
+msgctxt "Language#29"
+msgid "Church Slavic"
+msgstr "Eslavo eclesiástico"
+
+#  [ES] "Chuvash"
+#: Language%2330
+msgctxt "Language#30"
+msgid "Chuvash"
+msgstr "Chuvasio"
+
+#  [ES] "Galés"
+#: Language%2331
+msgctxt "Language#31"
+msgid "Welsh"
+msgstr "Galés"
+
+#  [ES] "Danés"
+#: Language%2332
+msgctxt "Language#32"
+msgid "Danish"
+msgstr "Danés"
+
+#  [ES] "Alemán"
+#: Language%2333
+msgctxt "Language#33"
+msgid "German"
+msgstr "Alemán"
+
+#  [ES] "Divehi"
+#: Language%2334
+msgctxt "Language#34"
+msgid "Divehi"
+msgstr "Divehi"
+
+#  [ES] "Dzongkha"
+#: Language%2335
+msgctxt "Language#35"
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+#  [ES] "Ewé"
+#: Language%2336
+msgctxt "Language#36"
+msgid "Ewe"
+msgstr "Ewe"
+
+#  [ES] "Griego"
+#: Language%2337
+msgctxt "Language#37"
+msgid "Greek"
+msgstr "Griego"
+
+#  [ES] "Inglés"
+#: Language%2338
+msgctxt "Language#38"
+msgid "English"
+msgstr "Inglés"
+
+#  [ES] "Esperanto"
+#: Language%2339
+msgctxt "Language#39"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#  [ES] "Español"
+#: Language%2340
+msgctxt "Language#40"
+msgid "Spanish"
+msgstr "Español"
+
+#  [ES] "Estonio"
+#: Language%2341
+msgctxt "Language#41"
+msgid "Estonian"
+msgstr "Estonio"
+
+#  [ES] "Vasco"
+#: Language%2342
+msgctxt "Language#42"
+msgid "Basque"
+msgstr "Vasco (Euskara)"
+
+#  [ES] "Farsí"
+#: Language%2343
+msgctxt "Language#43"
+msgid "Persian"
+msgstr "Farsí"
+
+#  [ES] "Fula"
+#: Language%2344
+msgctxt "Language#44"
+msgid "Fulah"
+msgstr "Fula"
+
+#  [ES] "Finlandés"
+#: Language%2345
+msgctxt "Language#45"
+msgid "Finnish"
+msgstr "Finlandés"
+
+#  [ES] "Fiyiano"
+#: Language%2346
+msgctxt "Language#46"
+msgid "Fijian"
+msgstr "Fiyiano"
+
+#  [ES] "Feroés"
+#: Language%2347
+msgctxt "Language#47"
+msgid "Faroese"
+msgstr "Feroés"
+
+#  [ES] "Francés"
+#: Language%2348
+msgctxt "Language#48"
+msgid "French"
+msgstr "Francés"
+
+#  [ES] "Frisio occidental"
+#: Language%2349
+msgctxt "Language#49"
+msgid "Western Frisian"
+msgstr "Frisón occidental"
+
+#  [ES] "Irlandés"
+#: Language%2350
+msgctxt "Language#50"
+msgid "Irish"
+msgstr "Irlandés"
+
+#  [ES] "Gaélico escocés"
+#: Language%2351
+msgctxt "Language#51"
+msgid "Scottish Gaelic"
+msgstr "Gaélico escocés"
+
+#  [ES] "Gallego"
+#: Language%2352
+msgctxt "Language#52"
+msgid "Galician"
+msgstr "Gallego"
+
+#  [ES] "Guaraní"
+#: Language%2353
+msgctxt "Language#53"
+msgid "Guarani"
+msgstr "Guaraní"
+
+#  [ES] "Gujarati"
+#: Language%2354
+msgctxt "Language#54"
+msgid "Gujarati"
+msgstr "Guyaratí"
+
+#  [ES] "Manés"
+#: Language%2355
+msgctxt "Language#55"
+msgid "Manx"
+msgstr "Manés"
+
+#  [ES] "Hausa"
+#: Language%2356
+msgctxt "Language#56"
+msgid "Hausa"
+msgstr "Hausa"
+
+#  [ES] "Hebreo"
+#: Language%2357
+msgctxt "Language#57"
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#  [ES] "Hindi"
+#: Language%2358
+msgctxt "Language#58"
+msgid "Hindi"
+msgstr "Hindi"
+
+#  [ES] "Hiri Motu"
+#: Language%2359
+msgctxt "Language#59"
+msgid "Hiri Motu"
+msgstr "Hiri Motu"
+
+#  [ES] "Croata"
+#: Language%2360
+msgctxt "Language#60"
+msgid "Croatian"
+msgstr "Croato"
+
+#  [ES] "Haitiano"
+#: Language%2361
+msgctxt "Language#61"
+msgid "Haitian"
+msgstr "Criollo haitiano"
+
+#  [ES] "Húngaro"
+#: Language%2362
+msgctxt "Language#62"
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#  [ES] "Armenio"
+#: Language%2363
+msgctxt "Language#63"
+msgid "Armenian"
+msgstr "Armenio"
+
+#  [ES] "Herero"
+#: Language%2364
+msgctxt "Language#64"
+msgid "Herero"
+msgstr "Herero"
+
+#  [ES] "Interlingua"
+#: Language%2365
+msgctxt "Language#65"
+msgid "Interlingua"
+msgstr "Interlingua"
+
+#  [ES] "Indonesio"
+#: Language%2366
+msgctxt "Language#66"
+msgid "Indonesian"
+msgstr "Indonés"
+
+#  [ES] "Interlingua"
+#: Language%2367
+msgctxt "Language#67"
+msgid "Interlingue"
+msgstr "Interlingua"
+
+#  [ES] "Igbo"
+#: Language%2368
+msgctxt "Language#68"
+msgid "Igbo"
+msgstr "Igbo"
+
+#  [ES] "Sichuan Yi"
+#: Language%2369
+msgctxt "Language#69"
+msgid "Sichuan Yi"
+msgstr "Sichuan Yi"
+
+#  [ES] "Iñupiaq"
+#: Language%2370
+msgctxt "Language#70"
+msgid "Inupiaq"
+msgstr "Inupiaq"
+
+#  [ES] "Ido"
+#: Language%2371
+msgctxt "Language#71"
+msgid "Ido"
+msgstr "Ido"
+
+#  [ES] "Islandés"
+#: Language%2372
+msgctxt "Language#72"
+msgid "Icelandic"
+msgstr "Islandés"
+
+#  [ES] "Italiano"
+#: Language%2373
+msgctxt "Language#73"
+msgid "Italian"
+msgstr "Italiano"
+
+#  [ES] "Inuktitut"
+#: Language%2374
+msgctxt "Language#74"
+msgid "Inuktitut"
+msgstr "Inuktitut"
+
+#  [ES] "Japonés"
+#: Language%2375
+msgctxt "Language#75"
+msgid "Japanese"
+msgstr "Japonés"
+
+#  [ES] "Javanés"
+#: Language%2376
+msgctxt "Language#76"
+msgid "Javanese"
+msgstr "Javanés"
+
+#  [ES] "Georgiano"
+#: Language%2377
+msgctxt "Language#77"
+msgid "Georgian"
+msgstr "Georgiano"
+
+#  [ES] "Kongo"
+#: Language%2378
+msgctxt "Language#78"
+msgid "Kongo"
+msgstr "Kikongo"
+
+#  [ES] "Kikuyu"
+#: Language%2379
+msgctxt "Language#79"
+msgid "Kikuyu"
+msgstr "Kikuyu"
+
+#  [ES] "Kuanyama"
+#: Language%2380
+msgctxt "Language#80"
+msgid "Kwanyama"
+msgstr "Kwanyama"
+
+#  [ES] "kazajo"
+#: Language%2381
+msgctxt "Language#81"
+msgid "Kazakh"
+msgstr "Cazaco"
+
+#  [ES] "Groenlandés"
+#: Language%2382
+msgctxt "Language#82"
+msgid "Kalaallisut"
+msgstr "Groenlandés"
+
+#  [ES] "Khmer"
+#: Language%2383
+msgctxt "Language#83"
+msgid "Khmer"
+msgstr "Camboyano"
+
+#  [ES] "Kannada"
+#: Language%2384
+msgctxt "Language#84"
+msgid "Kannada"
+msgstr "Kannada"
+
+#  [ES] "Coreano"
+#: Language%2385
+msgctxt "Language#85"
+msgid "Korean"
+msgstr "Coreano"
+
+#  [ES] "Kanuri"
+#: Language%2386
+msgctxt "Language#86"
+msgid "Kanuri"
+msgstr "Kanuri"
+
+#  [ES] "Cachemir"
+#: Language%2387
+msgctxt "Language#87"
+msgid "Kashmiri"
+msgstr "Cachemir"
+
+#  [ES] "Kurdo"
+#: Language%2388
+msgctxt "Language#88"
+msgid "Kurdish"
+msgstr "Kurdo"
+
+#  [ES] "Komi"
+#: Language%2389
+msgctxt "Language#89"
+msgid "Komi"
+msgstr "Komi"
+
+#  [ES] "Córnico"
+#: Language%2390
+msgctxt "Language#90"
+msgid "Cornish"
+msgstr "Córnico"
+
+#  [ES] "Kirguís"
+#: Language%2391
+msgctxt "Language#91"
+msgid "Kirghiz"
+msgstr "Kirguís"
+
+#  [ES] "Latín"
+#: Language%2392
+msgctxt "Language#92"
+msgid "Latin"
+msgstr "Latín"
+
+#  [ES] "Luxemburgués"
+#: Language%2393
+msgctxt "Language#93"
+msgid "Luxembourgish"
+msgstr "Luxemburgués"
+
+#  [ES] "Luganda"
+#: Language%2394
+msgctxt "Language#94"
+msgid "Ganda"
+msgstr "Ganda"
+
+#  [ES] "Limburgués"
+#: Language%2395
+msgctxt "Language#95"
+msgid "Limburgish"
+msgstr "Limburgés"
+
+#  [ES] "Lingala"
+#: Language%2396
+msgctxt "Language#96"
+msgid "Lingala"
+msgstr "Lingala"
+
+#  [ES] "Laosiano"
+#: Language%2397
+msgctxt "Language#97"
+msgid "Lao"
+msgstr "Laosiano"
+
+#  [ES] "Lituano"
+#: Language%2398
+msgctxt "Language#98"
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#  [ES] "Luba-Katanga"
+#: Language%2399
+msgctxt "Language#99"
+msgid "Luba-Katanga"
+msgstr "Luba-Katanga"
+
+#  [ES] "Letón"
+#: Language%23100
+msgctxt "Language#100"
+msgid "Latvian"
+msgstr "Letón"
+
+#  [ES] "Malgache"
+#: Language%23101
+msgctxt "Language#101"
+msgid "Malagasy"
+msgstr "Malgache"
+
+#  [ES] "Marshalés"
+#: Language%23102
+msgctxt "Language#102"
+msgid "Marshallese"
+msgstr "Marshalés"
+
+#  [ES] "Maorí"
+#: Language%23103
+msgctxt "Language#103"
+msgid "Maori"
+msgstr "Maori"
+
+#  [ES] "Macedonio"
+#: Language%23104
+msgctxt "Language#104"
+msgid "Macedonian"
+msgstr "Macedonio"
+
+#  [ES] "Malayalam"
+#: Language%23105
+msgctxt "Language#105"
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#  [ES] "Mongol"
+#: Language%23106
+msgctxt "Language#106"
+msgid "Mongolian"
+msgstr "Mongol"
+
+#  [ES] "Marathi"
+#: Language%23107
+msgctxt "Language#107"
+msgid "Marathi"
+msgstr "Marathi"
+
+#  [ES] "Malayo"
+#: Language%23108
+msgctxt "Language#108"
+msgid "Malay"
+msgstr "Malayo"
+
+#  [ES] "Maltés"
+#: Language%23109
+msgctxt "Language#109"
+msgid "Maltese"
+msgstr "Maltés"
+
+#  [ES] "Birmano"
+#: Language%23110
+msgctxt "Language#110"
+msgid "Burmese"
+msgstr "Birmano"
+
+#  [ES] "Nauru"
+#: Language%23111
+msgctxt "Language#111"
+msgid "Nauru"
+msgstr "Nauruano"
+
+#  [ES] "Bokmål noruego"
+#: Language%23112
+msgctxt "Language#112"
+msgid "Norwegian Bokmal"
+msgstr "Noruego bokmål"
+
+#  [ES] "Sindebele"
+#: Language%23113
+msgctxt "Language#113"
+msgid "North Ndebele"
+msgstr "Ndebele norteño"
+
+#  [ES] "Nepalí"
+#: Language%23114
+msgctxt "Language#114"
+msgid "Nepali"
+msgstr "Nepalés"
+
+#  [ES] "Ndonga"
+#: Language%23115
+msgctxt "Language#115"
+msgid "Ndonga"
+msgstr "Ndonga"
+
+#  [ES] "Holandés"
+#: Language%23116
+msgctxt "Language#116"
+msgid "Dutch"
+msgstr "Neerlandés"
+
+#  [ES] "Nynorsk noruego"
+#: Language%23117
+msgctxt "Language#117"
+msgid "Norwegian Nynorsk"
+msgstr "Noruego Nynorsk"
+
+#  [ES] "Noruego"
+#: Language%23118
+msgctxt "Language#118"
+msgid "Norwegian"
+msgstr "Noruego"
+
+#  [ES] "Nrebele"
+#: Language%23119
+msgctxt "Language#119"
+msgid "South Ndebele"
+msgstr "Ndebele sureño"
+
+#  [ES] "Navajo"
+#: Language%23120
+msgctxt "Language#120"
+msgid "Navajo"
+msgstr "Navajo"
+
+#  [ES] "Chichewa"
+#: Language%23121
+msgctxt "Language#121"
+msgid "Chichewa"
+msgstr "Chichewa"
+
+#  [ES] "Occitano"
+#: Language%23122
+msgctxt "Language#122"
+msgid "Occitan"
+msgstr "Occitano"
+
+#  [ES] "Ojibwa"
+#: Language%23123
+msgctxt "Language#123"
+msgid "Ojibwa"
+msgstr "Ojibwa"
+
+#  [ES] "Oromo"
+#: Language%23124
+msgctxt "Language#124"
+msgid "Oromo"
+msgstr "Oromo"
+
+#  [ES] "Oriya"
+#: Language%23125
+msgctxt "Language#125"
+msgid "Oriya"
+msgstr "Oriya"
+
+#  [ES] "Osetio"
+#: Language%23126
+msgctxt "Language#126"
+msgid "Ossetian"
+msgstr "Osseto"
+
+#  [ES] "Punjabí"
+#: Language%23127
+msgctxt "Language#127"
+msgid "Panjabi"
+msgstr "Panjabi"
+
+#  [ES] "Pali"
+#: Language%23128
+msgctxt "Language#128"
+msgid "Pali"
+msgstr "Pali"
+
+#  [ES] "Polaco"
+#: Language%23129
+msgctxt "Language#129"
+msgid "Polish"
+msgstr "Polaco"
+
+#  [ES] "Pashto"
+#: Language%23130
+msgctxt "Language#130"
+msgid "Pashto"
+msgstr "Pastún"
+
+#  [ES] "Portugués"
+#: Language%23131
+msgctxt "Language#131"
+msgid "Portuguese"
+msgstr "Portugués"
+
+#  [ES] "Quechua"
+#: Language%23132
+msgctxt "Language#132"
+msgid "Quechua"
+msgstr "Quechua"
+
+#  [ES] "Retorrománica"
+#: Language%23133
+msgctxt "Language#133"
+msgid "Raeto-Romance"
+msgstr "Retorrománico"
+
+#  [ES] "Kirundi"
+#: Language%23134
+msgctxt "Language#134"
+msgid "Kirundi"
+msgstr "Kirundi"
+
+#  [ES] "Rumano"
+#: Language%23135
+msgctxt "Language#135"
+msgid "Romanian"
+msgstr "Rumano"
+
+#  [ES] "Ruso"
+#: Language%23136
+msgctxt "Language#136"
+msgid "Russian"
+msgstr "Ruso"
+
+#  [ES] "Quiñaruanda"
+#: Language%23137
+msgctxt "Language#137"
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#  [ES] "Sánscrito"
+#: Language%23138
+msgctxt "Language#138"
+msgid "Sanskrit"
+msgstr "Sanscrito"
+
+#  [ES] "Sardo"
+#: Language%23139
+msgctxt "Language#139"
+msgid "Sardinian"
+msgstr "Sardo"
+
+#  [ES] "Sindhi"
+#: Language%23140
+msgctxt "Language#140"
+msgid "Sindhi"
+msgstr "Sindhi"
+
+#  [ES] "Sami septentrional"
+#: Language%23141
+msgctxt "Language#141"
+msgid "Northern Sami"
+msgstr "Sami norteño"
+
+#  [ES] "Sango"
+#: Language%23142
+msgctxt "Language#142"
+msgid "Sango"
+msgstr "Sango"
+
+#  [ES] "Serbocroata"
+#: Language%23143
+msgctxt "Language#143"
+msgid "Serbo-Croatian"
+msgstr "Serbo-Croato"
+
+#  [ES] "Cingalés"
+#: Language%23144
+msgctxt "Language#144"
+msgid "Sinhala"
+msgstr "Cingalés"
+
+#  [ES] "Eslovaco"
+#: Language%23145
+msgctxt "Language#145"
+msgid "Slovak"
+msgstr "Slovaco"
+
+#  [ES] "Esloveno"
+#: Language%23146
+msgctxt "Language#146"
+msgid "Slovenian"
+msgstr "Sloveno"
+
+#  [ES] "Samoano"
+#: Language%23147
+msgctxt "Language#147"
+msgid "Samoan"
+msgstr "Samoano"
+
+#  [ES] "Shona"
+#: Language%23148
+msgctxt "Language#148"
+msgid "Shona"
+msgstr "Shona"
+
+#  [ES] "Somalí"
+#: Language%23149
+msgctxt "Language#149"
+msgid "Somali"
+msgstr "Somalí"
+
+#  [ES] "Albanés"
+#: Language%23150
+msgctxt "Language#150"
+msgid "Albanian"
+msgstr "Albanés"
+
+#  [ES] "Serbio"
+#: Language%23151
+msgctxt "Language#151"
+msgid "Serbian"
+msgstr "Serbio"
+
+#  [ES] "Suazi"
+#: Language%23152
+msgctxt "Language#152"
+msgid "Swati"
+msgstr "Swati"
+
+#  [ES] "Sesotho"
+#: Language%23153
+msgctxt "Language#153"
+msgid "Southern Sotho"
+msgstr "Sotho sureño"
+
+#  [ES] "Sudanés"
+#: Language%23154
+msgctxt "Language#154"
+msgid "Sundanese"
+msgstr "Sudanés"
+
+#  [ES] "Sueco"
+#: Language%23155
+msgctxt "Language#155"
+msgid "Swedish"
+msgstr "Sueco"
+
+#  [ES] "Suahili"
+#: Language%23156
+msgctxt "Language#156"
+msgid "Swahili"
+msgstr "Suajili"
+
+#  [ES] "Tamil"
+#: Language%23157
+msgctxt "Language#157"
+msgid "Tamil"
+msgstr "Tamil"
+
+#  [ES] "Telugu"
+#: Language%23158
+msgctxt "Language#158"
+msgid "Telugu"
+msgstr "Telugu"
+
+#  [ES] "Tayiko"
+#: Language%23159
+msgctxt "Language#159"
+msgid "Tajik"
+msgstr "Tayiko"
+
+#  [ES] "Tailandés"
+#: Language%23160
+msgctxt "Language#160"
+msgid "Thai"
+msgstr "Tailandés"
+
+#  [ES] "Tigriña"
+#: Language%23161
+msgctxt "Language#161"
+msgid "Tigrinya"
+msgstr "Tigriña"
+
+#  [ES] "Turcomano"
+#: Language%23162
+msgctxt "Language#162"
+msgid "Turkmen"
+msgstr "Turcomano"
+
+#  [ES] "Tagalo"
+#: Language%23163
+msgctxt "Language#163"
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#  [ES] "Setsuana"
+#: Language%23164
+msgctxt "Language#164"
+msgid "Tswana"
+msgstr "Tswana"
+
+#  [ES] "Tonga"
+#: Language%23165
+msgctxt "Language#165"
+msgid "Tonga"
+msgstr "Tonga"
+
+#  [ES] "Turco"
+#: Language%23166
+msgctxt "Language#166"
+msgid "Turkish"
+msgstr "Turco"
+
+#  [ES] "Tsonga"
+#: Language%23167
+msgctxt "Language#167"
+msgid "Tsonga"
+msgstr "Tsonga"
+
+#  [ES] "Tártaro"
+#: Language%23168
+msgctxt "Language#168"
+msgid "Tatar"
+msgstr "Tártaro"
+
+#  [ES] "Twi"
+#: Language%23169
+msgctxt "Language#169"
+msgid "Twi"
+msgstr "Twi"
+
+#  [ES] "Tahitiano"
+#: Language%23170
+msgctxt "Language#170"
+msgid "Tahitian"
+msgstr "Tahitiano"
+
+#  [ES] "Uigur"
+#: Language%23171
+msgctxt "Language#171"
+msgid "Uighur"
+msgstr "Uigur"
+
+#  [ES] "Ucraniano"
+#: Language%23172
+msgctxt "Language#172"
+msgid "Ukrainian"
+msgstr "Ucranio"
+
+#  [ES] "Urdú"
+#: Language%23173
+msgctxt "Language#173"
+msgid "Urdu"
+msgstr "Urdu"
+
+#  [ES] "Uzbeco"
+#: Language%23174
+msgctxt "Language#174"
+msgid "Uzbek"
+msgstr "Uzbeco"
+
+#  [ES] "Venda"
+#: Language%23175
+msgctxt "Language#175"
+msgid "Venda"
+msgstr "Venda"
+
+#  [ES] "Vietnamita"
+#: Language%23176
+msgctxt "Language#176"
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#  [ES] "Volapük"
+#: Language%23177
+msgctxt "Language#177"
+msgid "Volapuk"
+msgstr "Volapuk"
+
+#  [ES] "Valón"
+#: Language%23178
+msgctxt "Language#178"
+msgid "Walloon"
+msgstr "Valón"
+
+#  [ES] "Wolof"
+#: Language%23179
+msgctxt "Language#179"
+msgid "Wolof"
+msgstr "Wólof"
+
+#  [ES] "Xhosa"
+#: Language%23180
+msgctxt "Language#180"
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#  [ES] "Yiddish"
+#: Language%23181
+msgctxt "Language#181"
+msgid "Yiddish"
+msgstr "Yidis"
+
+#  [ES] "Yoruba"
+#: Language%23182
+msgctxt "Language#182"
+msgid "Yoruba"
+msgstr "Yoruba"
+
+#  [ES] "Chuan"
+#: Language%23183
+msgctxt "Language#183"
+msgid "Zhuang"
+msgstr "Zhuang"
+
+#  [ES] "Chino"
+#: Language%23184
+msgctxt "Language#184"
+msgid "Chinese"
+msgstr "Chino"
+
+#  [ES] "Zulú"
+#: Language%23185
+msgctxt "Language#185"
+msgid "Zulu"
+msgstr "Zulu"
+
+#  [ES] "Chino Tradicional"
+#: Language%23186
+msgid "Traditional Chinese"
+msgstr "Chino tradicional"
+
+#  [ES] "Chino Simplificado"
+#: Language%23187
+msgid "Simplified Chinese"
+msgstr "Chino simplificado"
+
+#  [ES] "Otro"
+#: Language%23188
+msgid "Other"
+msgstr "Yaqha"
+
+#  [ES] "Otros dialectos del Chino Simplificado"
+#: Language%23189
+msgid "Other Simplified Chinese dialects"
+msgstr "Yaqha chino simplificado arunaka"
+
+#  [ES] "Otros dialectos del Chino Tradicional"
+#: Language%23190
+msgid "Other Traditional Chinese dialects"
+msgstr "Yaqha chino tradicional arunaka"
+
+#  [ES] "Otras lenguas del Este de Europa"
+#: Language%23191
+msgid "Other Eastern-European languages"
+msgstr "Europeos orientales yaqha arunaka"
+
+#  [ES] "Otras lenguas del Oeste de Europa"
+#: Language%23192
+msgid "Other Western-European languages"
+msgstr "Europeos occidentales yaqha arunaka"
+
+#  [ES] "Otras lenguas rusas"
+#: Language%23193
+msgid "Other Russian languages"
+msgstr "Yaqha ruso arunaka"
+
+#  [ES] "Otras lenguas japonesas"
+#: Language%23194
+msgid "Other Japanese languages"
+msgstr "Yaqha japonés arunaka"
+
+#  [ES] "Otras lenguas bálticas"
+#: Language%23195
+msgid "Other Baltic languages"
+msgstr "Yaqha baltico arunaka"
+
+#  [ES] "Otras lenguas griegas"
+#: Language%23196
+msgid "Other Greek languages"
+msgstr "Yaqha griego arunaka"
+
+#  [ES] "Otros dialectos coreanos"
+#: Language%23197
+msgid "Other Korean dialects"
+msgstr "Yaqha coreano arunaka"
+
+#  [ES] "Otros dialectos turcos"
+#: Language%23198
+msgid "Other Turkish dialects"
+msgstr "Yaqha turco arunaka"
+
+#  [ES] "Otros dialectos tailandeses"
+#: Language%23199
+msgid "Other Thai dialects"
+msgstr "Yaqha tailandés arunaka"
+
+#  [ES] "Bereber"
+#: Language%23200
+msgid "Tamazight"
+msgstr "Tamazight"
+
+#  [ES] "Lojban"
+#: Language%23201
+msgid "Lojban"
+msgstr "Lojban"
+
+#  [ES] "Error al cargar diccionarios"
+#: LoadDictionaries%231
+msgctxt "LoadDictionaries#1"
+msgid "Error loading dictionaries"
+msgstr "Aru-pirwanaka ullasinxa pantjiwa"
+
+# [ES] "Error en el fichero de configuración.¿Continuar con la configuración por defecto?"
+#: Main%231
+msgid "Error in configuration file. Continue with default settings?"
+msgstr ""
+"Mayjachata wayaqaxa pantjiwa. Qallta mayjachata apnaqaña muntati?\n"
+"\n"
+"Error en el archivo de configuración. ¿Continuar con la configuración por "
+"defecto?"
+
+#  [ES] "Navegación"
+#. (obsolete)
+#: MainWindow%231
+msgid "Navigation"
+msgstr "Thaqhawi"
+
+#  [ES] "Atrás"
+#  Qhipa ???
+#: MainWindow%232
+msgctxt "MainWindow#2"
+msgid "Back"
+msgstr ""
+"Nayriri\n"
+"\n"
+"Anterior"
+
+#  [ES] "Adelante"
+#  Arkiri ???
+#: MainWindow%233
+msgctxt "MainWindow#3"
+msgid "Forward"
+msgstr ""
+"Jutiri\n"
+"\n"
+"Posterior"
+
+#  [ES] "Ventana emergente de búsqueda"
+#  Escanear en ventana &emergente
+#: MainWindow%234
+msgid "Scan Popup"
+msgstr "Uñstiri wintana"
+
+#. (obsolete)
+#: MainWindow%235
+msgctxt "MainWindow#5"
+msgid "Pronounce word"
+msgstr "Aru arsuña"
+
+#  [ES] "&Mostrar Ventana Principal"
+#: MainWindow%236
+msgid "Show &Main Window"
+msgstr "&Nayrankiri wintana uñachayaña"
+
+#  [ES] "&Salir"
+#: MainWindow%237
+msgid "&Quit"
+msgstr "&Mistuña"
+
+#  [ES] "Cargando..."
+#: MainWindow%238
+msgid "Loading..."
+msgstr "Ullaskiwa..."
+
+#  [ES] "Saltarse esta versión"
+#: MainWindow%239
+msgid "Skip This Release"
+msgstr "Aka jakhu uñjawi (versión) thuqukipaña"
+
+#  [ES] "[Desconocido]"
+#. (obsolete)
+#: MainWindow%2310
+msgctxt "MainWindow#10"
+msgid "[Unknown]"
+msgstr "[Jani uñt'ata]"
+
+#  [ES] "Configuración de Página"
+#: MainWindow%2311
+msgid "Page Setup"
+msgstr "Laphi mayjachaña"
+
+#  [ES] "No hay ninguna impresora disponible. Por favor instale una primero."
+#: MainWindow%2312
+msgid "No printer is available. Please install one first."
+msgstr ""
+"Janiwa liq'suri utjkiti. Ampi suma mayampi uchama.\n"
+"\n"
+"No hay ninguna impresora disponible. Por favor\n"
+"instale una primero."
+
+#  [ES] "Imprimir Artículo"
+#: MainWindow%2313
+msgid "Print Article"
+msgstr "Laphina qillqata liq'suña"
+
+#  [ES] "Guardar Artículo Como"
+#: MainWindow%2314
+msgid "Save Article As"
+msgstr "Kunjama qillqata imaña"
+
+#  [ES] "Ficheros Html (*.html *.htm)"
+#. (obsolete)
+#: MainWindow%2315
+msgid "Html files (*.html *.htm)"
+msgstr "HTML wayaqanaka (*.html *.htm)"
+
+#  [ES] "Error"
+#: MainWindow%2316
+msgctxt "MainWindow#16"
+msgid "Error"
+msgstr "Pantjata"
+
+#  [ES] "No se puede guardar el artículo: %1"
+#: MainWindow%2317
+msgid "Can't save article: %1"
+msgstr "Janiwa qillqa imaña atkiti: %1"
+
+#  [ES] "Error al cargar diccionarios"
+#. (obsolete)
+#: MainWindow%2318
+msgctxt "MainWindow#18"
+msgid "Error loading dictionaries"
+msgstr "Aru-pirwanaka ullasinxa pantjiwa"
+
+#  [ES] "%1 diccionarios, %2 artículos, %3 palabras"
+#: MainWindow%2319
+msgid "%1 dictionaries, %2 articles, %3 words"
+msgstr "%1 aru-pirwanaka, %2 qillqatanaka, %3 arunaka"
+
+#  [ES] ""
+#  [ES] "Se se ha podido iniciar la monitorización de teclas de acceso rápido.<br>"
+#  [ES] "Asegúrese de que su servidor X tiene activada la extensión RECORD."
+#: MainWindow%2320
+msgid ""
+"Failed to initialize hotkeys monitoring mechanism.<br>Make sure your XServer "
+"has RECORD extension turned on."
+msgstr ""
+"Jank'aki teclas uñjañataki pantjiwa.<br>Servidorama X RECORD ukani uñjapunima."
+"<br>\n"
+"No se ha podido iniciar la monitorización de teclas de acceso rápido.<br>\n"
+"Asegúrese de que su servidor X tiene activada la extensión RECORD."
+
+#  [ES] "Nueva Versión Disponible"
+#: MainWindow%2321
+msgid "New Release Available"
+msgstr "GoldenDict machaqa jakhuwi apnaqasmawa"
+
+#  [ES] ""
+#  [ES] "La versión <b>%1</b> de GoldenDict está disponible para su descarga.<br>"
+#  [ES] "Pulse en <b>Descargar</b> para ir a la página de descarga."
+# ¿utjxiwa?
+#: MainWindow%2322
+msgid ""
+"Version <b>%1</b> of GoldenDict is now available for download.<br>Click "
+"<b>Download</b> to get to the download page."
+msgstr ""
+"Machaqa jakhuwi <b>%1</b> GoldenDict ukata utjxiwa.<br>\n"
+"<b>Apaqaña</b> ukjar klik luram apaqañataki.<br><br>\n"
+"La nueva versión <b>%1</b> de GoldenDict está disponible.<br>\n"
+"Pulse en <b>Apaqaña</b> para ir a la página de descarga."
+
+#  [ES] "Descargar"
+#: MainWindow%2323
+msgid "Download"
+msgstr "Apaqaña"
+
+#  [ES] "Buscar en:"
+#: MainWindow%2324
+msgid "Look up in:"
+msgstr "Kawkinasa thaqhaña:"
+
+#  [ES] "Mostrar nombres en la barra de diccionarios"
+#. (obsolete)
+#: MainWindow%2325
+msgid "Show Names in Dictionary Bar"
+msgstr "Aru-pirwa wak'anaxa sutinaka uñachayaña"
+
+#  [ES] "Pronunciar palabra (Alt+S)"
+#: MainWindow%2326
+msgctxt "MainWindow#26"
+msgid "Pronounce Word (Alt+S)"
+msgstr ""
+"Aru arst'aña (Alt+S)\n"
+"\n"
+"Pronunciar palabra (Alt+S)"
+
+#  [ES] "Acercar"
+#: MainWindow%2327
+msgctxt "MainWindow#27"
+msgid "Zoom In"
+msgstr "Jach'aptayaña"
+
+#  [ES] "Alejar"
+#: MainWindow%2328
+msgctxt "MainWindow#28"
+msgid "Zoom Out"
+msgstr "Jisk'aptayaña"
+
+#  [ES] "Tamaño normal"
+#: MainWindow%2329
+msgctxt "MainWindow#29"
+msgid "Normal Size"
+msgstr "Qawqhch'akansa ukhama"
+
+#  [ES] "Aumentar tamaño de palabras"
+#: MainWindow%2330
+msgid "Words Zoom In"
+msgstr "Arunaka jach'aptaña"
+
+#  [ES] "Reducir tamaño de palabras"
+#: MainWindow%2331
+msgid "Words Zoom Out"
+msgstr "Arunaka jisk'aptaña"
+
+#  [ES] "Tamaño normal de palabras"
+#: MainWindow%2332
+msgid "Words Normal Size"
+msgstr "Arunaka qawqhch'akansa ukhamaraki"
+
+#  [ES] "Cerrrar la pestaña actual"
+#: MainWindow%2333
+msgid "Close current tab"
+msgstr "Jichha phichhu jist'antaña"
+
+#  [ES] "Cerrar todas las pestañas"
+#  Check if space. If not jist'aña
+#: MainWindow%2334
+msgid "Close all tabs"
+msgstr "Taqi phichhu jist'antaña"
+
+#  [ES] "Cerrar todas las pestañas excepto la actual"
+#: MainWindow%2335
+msgid "Close all tabs except current"
+msgstr "Taqi phichhu jist'antaña, jichhakisa ukaxa janiwa"
+
+#  [ES] "Buscar:"
+#: MainWindow%2336
+msgid "Look up:"
+msgstr "Thaqhama:"
+
+#  [ES] "Todo"
+#: MainWindow%2337
+msgid "All"
+msgstr "Taqpacha"
+
+#  [ES] "Pestañas abiertas"
+#: MainWindow%2338
+msgid "Opened tabs"
+msgstr "Phichhunaka jist'arata"
+
+#  [ES] "(sin título)"
+#: MainWindow%2339
+msgctxt "MainWindow#39"
+msgid "(untitled)"
+msgstr "(jani sutini)"
+
+#  [ES] "AVISO: %1"
+#. (obsolete)
+#: MainWindow%2340
+msgctxt "MainWindow#40"
+msgid "WARNING: %1"
+msgstr "UKATARAKI: %1"
+
+#  [ES] "GoldenDict"
+#. (obsolete)
+#: MainWindow%2341
+msgctxt "MainWindow#41"
+msgid "GoldenDict"
+msgstr "GoldenDict"
+
+#. (obsolete)
+#: MainWindow%2342
+msgid "Tab 1"
+msgstr "Phichhu 1"
+
+#  [ES] "Pestaña 2"
+#. (obsolete)
+#: MainWindow%2343
+msgctxt "MainWindow#43"
+msgid "Tab 2"
+msgstr "Phichhu 2"
+
+#  [ES] "¡Bienvenido!"
+#: MainWindow%2344
+msgctxt "MainWindow#44"
+msgid "Welcome!"
+msgstr "¡Suma puriwi!"
+
+#  [ES] "&Fichero"
+#: MainWindow%2345
+msgid "&File"
+msgstr "&Wayaqa"
+
+#  [ES] "&Editar"
+#: MainWindow%2346
+msgid "&Edit"
+msgstr "&Askichaña"
+
+#  [ES] "&Ayuda"
+#: MainWindow%2347
+msgid "&Help"
+msgstr "&Yanapa"
+
+#  [ES] "&Preferencias..."
+#: MainWindow%2348
+msgid "&Preferences..."
+msgstr "Ajlliña&naka..."
+
+#. (obsolete)
+#: MainWindow%2349
+msgid "&Sources..."
+msgstr "&Yatiyawi jalsunaka..."
+
+#  [ES] "F2"
+#: MainWindow%2350
+msgid "F2"
+msgstr "F2"
+
+#. (obsolete)
+#: MainWindow%2351
+msgid "&Groups..."
+msgstr "&Qutunaka..."
+
+#  [ES] "&Ver"
+#: MainWindow%2352
+msgid "&View"
+msgstr "&Uñjaña"
+
+#  [ES] "&Ampliación"
+#: MainWindow%2353
+msgid "&Zoom"
+msgstr "Ja&ch'a/Jisk'aptayaña"
+
+#  [ES] "&Historial"
+#: MainWindow%2354
+msgid "H&istory"
+msgstr "&Nayra arunaka"
+
+#  [ES] "&Diccionarios..."
+#: MainWindow%2355
+msgid "&Dictionaries..."
+msgstr "&Aru-pirwanaka..."
+
+#  [ES] "F3"
+#: MainWindow%2356
+msgid "F3"
+msgstr "F3"
+
+#  [ES] "F4"
+#: MainWindow%2357
+msgid "F4"
+msgstr "F4"
+
+#  [ES] "&Sitio web"
+#: MainWindow%2358
+msgid "&Homepage"
+msgstr "GoldenDict &web laphi"
+
+#  [ES] "&Acerca de"
+#: MainWindow%2359
+msgid "&About"
+msgstr "&GoldenDict ukaxata"
+
+#  [ES] "Acerca de GoldenDict"
+#: MainWindow%2360
+msgid "About GoldenDict"
+msgstr "GoldenDict ukaxata"
+
+#  [ES] "F1"
+#: MainWindow%2361
+msgid "F1"
+msgstr "F1"
+
+#  [ES] "Salir del programa"
+#: MainWindow%2362
+msgid "Quit from application"
+msgstr "Programata mistuña"
+
+#  [ES] "Ctrl+Q"
+#: MainWindow%2363
+msgid "Ctrl+Q"
+msgstr "Ctrl+Q"
+
+#  [ES] "&Foro"
+#: MainWindow%2364
+msgid "&Forum"
+msgstr "G&oldenDict ukaxata parlakipañataki"
+
+#  [ES] "&Сerrar en la Bandeja del Sistema"
+#: MainWindow%2365
+msgid "&Close To Tray"
+msgstr "&Wak'a ukana imantaña"
+
+#  [ES] "Minimiza la ventana en la bandeja del sistema"
+#: MainWindow%2366
+msgid "Minimizes the window to tray"
+msgstr "Wintana jisk'aptama wak'a ukana"
+
+#  [ES] "Ctrl+F4"
+#: MainWindow%2367
+msgid "Ctrl+F4"
+msgstr "Ctrl+F4"
+
+#  [ES] "&Guardar artículo"
+#: MainWindow%2368
+msgid "&Save Article"
+msgstr "&Qillqata imaña"
+
+#  [ES] "Guardar artículo"
+#: MainWindow%2369
+msgid "Save Article"
+msgstr ""
+"Qillqata imaña\n"
+"\n"
+"Guardar artículo"
+
+#  [ES] "&Imprimir"
+#: MainWindow%2370
+msgid "&Print"
+msgstr "&Laphi liq'suña"
+
+#  [ES] "Ctrl+P"
+#: MainWindow%2371
+msgid "Ctrl+P"
+msgstr "Ctrl+P"
+
+#  [ES] "Config&uración de Página"
+#: MainWindow%2372
+msgid "Page Set&up"
+msgstr "L&aphi mayjachaña"
+
+#  [ES] "Vista preliminar"
+#. (obsolete)
+#: MainWindow%2373
+msgid "Print Preview"
+msgstr "Laphi liq'suñataki uñjaña"
+
+#  [ES] "Reescanear ficheros"
+#. (obsolete)
+#: MainWindow%2374
+msgid "Rescan Files"
+msgstr "Wasitampi wayaqanaka ullaña"
+
+#  [ES] "Ctrl+F5"
+#: MainWindow%2375
+msgid "Ctrl+F5"
+msgstr "Ctrl+F5"
+
+#  [ES] "&Borrar"
+#: MainWindow%2376
+msgid "&Clear"
+msgstr "&Chhaqtayaña"
+
+#  [ES] "Panel de Búsqueda"
+#. (obsolete)
+#: MainWindow%2377
+msgid "Search Pane"
+msgstr "Thaqhañataki kaja"
+
+#. (obsolete)
+#: MainWindow%2378
+msgid "Ctrl+F11"
+msgstr "Ctrl+F11"
+
+#  [ES] "Nueva Pestaña"
+#: MainWindow%2379
+msgid "New Tab"
+msgstr ""
+"Machaqa phichhu\n"
+"\n"
+"Pestaña nueva"
+
+#  [ES] "Ctrl+T"
+#: MainWindow%2380
+msgid "Ctrl+T"
+msgstr "Ctrl+T"
+
+#  [ES] "&Carpeta de configuración"
+#: MainWindow%2381
+msgid "&Configuration Folder"
+msgstr "&Mayjachañataki q'ipi"
+
+#  [ES] "Mo&strar"
+#: MainWindow%2382
+msgid "&Show"
+msgstr "&Uñachayaña"
+
+#  [ES] "Ctrl+H"
+#: MainWindow%2383
+msgid "Ctrl+H"
+msgstr "Ctrl+H"
+
+#  [ES] "&Exportar"
+#: MainWindow%2384
+msgid "&Export"
+msgstr "&Anqaru apsuña"
+
+#  [ES] "&Importar"
+#: MainWindow%2385
+msgid "&Import"
+msgstr "A&nqaxata apaniña"
+
+#  [ES] "Barra de &menús"
+#: MainWindow%2386
+msgid "&Menubar"
+msgstr "&Menú uka wak'a"
+
+#  [ES] "Encontrado en los Diccionarios:"
+#: MainWindow%2387
+msgid "Found in Dictionaries:"
+msgstr "Aka aru-pirwanakana jikita:"
+
+#  [ES] "Abrir lista de pestañas"
+#: MainWindow%2388
+msgid "Open Tabs List"
+msgstr ""
+"Tanta phichhunaka jist'araña\n"
+"\n"
+"Abrir lista de pestañas"
+
+#  [ES] "%1 - %2"
+#: MainWindow%2389
+msgctxt "MainWindow#89"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#  [ES] ""
+#  [ES] "Ha elegido ocultar una barra de menú. Utilice %1 para volver a mostrarla."
+#: MainWindow%2390
+msgid "You have chosen to hide a menubar. Use %1 to show it back."
+msgstr "Menú wak'axa imantasiwa. Limt'ama %1 wasitampi uñachayañataki."
+
+#  [ES] "Ctrl+M"
+#: MainWindow%2391
+msgid "Ctrl+M"
+msgstr "Ctrl+M"
+
+#  [ES] "&Ocultar"
+#: MainWindow%2392
+msgid "&Hide"
+msgstr "I&mantaña"
+
+#  [ES] "Exportar historial a fichero"
+#: MainWindow%2393
+msgid "Export history to file"
+msgstr "Thaqhata arunaka wayaqaru imaña"
+
+#  [ES] "Ficheros de texto (*.txt);;Todos los ficheros (*.*)"
+#: MainWindow%2394
+msgctxt "MainWindow#94"
+msgid "Text files (*.txt);;All files (*.*)"
+msgstr "Qillqa wayaqanaka (*.txt);;Taqpacha wayaqanaka (*.*)"
+
+#  [ES] "Exportación del historial completa"
+#: MainWindow%2395
+msgid "History export complete"
+msgstr "Wayaqana imantañaxa tukuyataxiwa"
+
+#  [ES] "Error de exportación:"
+#: MainWindow%2396
+msgid "Export error: "
+msgstr "Imaña ukjaxa pantjasiwa: "
+
+#  [ES] "Importar historial de fichero"
+#: MainWindow%2397
+msgid "Import history from file"
+msgstr "Thaqhata arunaka wayaqata apaniña"
+
+#  [ES] "Error de importación: datos incorrectos en el fichero"
+#: MainWindow%2398
+msgid "Import error: invalid data in file"
+msgstr ""
+"Anqata apanisinxa pantjasiwa: wayaqata jani wali yatiyawinaka\n"
+"\n"
+"Error de importación: datos incorrectos en el fichero"
+
+#  [ES] "Importación del historial completa"
+#: MainWindow%2399
+msgid "History import complete"
+msgstr "Anqata apanitaxa tukuyataxiwa"
+
+#  [ES] "Import error:"
+#: MainWindow%23100
+msgid "Import error: "
+msgstr "Anqata apanisinxa pantjasiwa: "
+
+#  [ES] "Información del diccionario"
+#: MainWindow%23101
+msgctxt "MainWindow#101"
+msgid "Dictionary info"
+msgstr "Aru-pirwata yatiyawi"
+
+#  [ES] "Editar diccionario"
+#: MainWindow%23102
+msgctxt "MainWindow#102"
+msgid "Edit dictionary"
+msgstr "Aru-pirwa askichaña"
+
+#  [ES] "Panel de &búsqueda"
+#: MainWindow%23103
+msgid "&Search Pane"
+msgstr "&Thaqhañataki kaja"
+
+#  [ES] "Panel de &resultados de navegación"
+#: MainWindow%23104
+msgid "&Results Navigation Pane"
+msgstr "Ji&kitanaka kaja"
+
+#  [ES] "Vista Pre&via"
+#: MainWindow%23105
+msgid "Print Pre&view"
+msgstr "Laphi liq'suñataki &uñjaña"
+
+#  [ES] "Ree&scanear ahora"
+#: MainWindow%23106
+msgid "&Rescan Files"
+msgstr "&Wasitampi wayaqanaka ullaña"
+
+#  [ES] "&Nueva Pestaña"
+#: MainWindow%23107
+msgid "&New Tab"
+msgstr "Ma&chaqa phichhu"
+
+#  [ES] "&Siempre en primer plano"
+#: MainWindow%23108
+msgid "&Always on Top"
+msgstr "&Uñjkayapuni"
+
+#  [ES] "Siempre en primer plano"
+#: MainWindow%23109
+msgid "Always on Top"
+msgstr "Uñjkayapuni"
+
+#  [ES] "Ctrl+O"
+#: MainWindow%23110
+msgid "Ctrl+O"
+msgstr "Ctrl+O"
+
+#  [ES] "Botón de Menú"
+#: MainWindow%23111
+msgid "Menu Button"
+msgstr "Menu ukana wutuna"
+
+#  [ES] "Mostrar N&ombres en Barra de Diccionarios"
+#: MainWindow%23112
+msgid "Show Names in Dictionary &Bar"
+msgstr "Aru-pirwanaka wak'ana &sutinaka uñachayaña"
+
+#  [ES] "Mostrar &Iconos Pequeños en Barras de Herramientas"
+#: MainWindow%23113
+msgid "Show Small Icons in &Toolbars"
+msgstr "Irnaqañataki &wak'ana jisk'a saltanaka uñachayaña"
+
+#  [ES] "&Navegación"
+#: MainWindow%23114
+msgid "&Navigation"
+msgstr "Tuyu&wi"
+
+#  [ES] ""
+#  [ES] "La ventana principal está configurada para estar siempre en primer plano."
+#: MainWindow%23115
+msgid "The main window is set to be always on top."
+msgstr "Nayrankiri wintanaxa uñjkayapuniñapawa."
+
+#  [ES] "Panel de &historial"
+#: MainWindow%23116
+msgid "&History Pane"
+msgstr "T&haqhata arunaka kaja"
+
+#  [ES] "La API de accesibilidad no está activada"
+#: MainWindow%23117
+msgid "Accessibility API is not enabled"
+msgstr "API jaqiwisanakataki janiwa naktatakiti"
+
+#  [ES] "Artículo, Completo (*.html)"
+#: MainWindow%23118
+msgid "Article, Complete (*.html)"
+msgstr "Qillqata, Taqi kunaniwa (*.hmtl)"
+
+#  [ES] "Artículo, sólo HTML (*.html)"
+#: MainWindow%23119
+msgid "Article, HTML Only (*.html)"
+msgstr "Qillqata, HTML ukampiki (*.html)"
+
+#  [ES] "Guardando articulo..."
+#: MainWindow%23120
+msgid "Saving article..."
+msgstr "Qillqataxa imasiskiwa..."
+
+#  [ES] "Abrir directorio de diccionario"
+#: MainWindow%23121
+msgctxt "MainWindow#121"
+msgid "Open dictionary folder"
+msgstr "Aru-pirwa ukata q'ipi jist'araña"
+
+#  [ES] ""
+#: MainWindow%23122
+msgctxt "MainWindow#122"
+msgid "Dictionary headwords"
+msgstr "Aru-pirwata p'iqi arunaka"
+
+#  [ES] ""
+#: MainWindow%23123
+msgid ""
+"String to search in dictionaries. The wildcards '*', '?' and sets of symbols "
+"'[...]' are allowed.\n"
+"To find '*', '?', '[', ']' symbols use '\\*', '\\?', '\\[', '\\]' respectively"
+msgstr ""
+"Aru-pirwanakana qillqata thaqhañataki. Comodines '*', '?' ukhamaraki "
+"chimpunaka\n"
+"'[...]' apnaqasmawa. '*', '?', '[', ']' jikiñataki, '\\*', '\\?', '\\[' o "
+"'\\]' apnaqama\n"
+"\n"
+"Buscar texto en los diccionarios. Puede utilizar los comodines '*' y '?' y \n"
+"los símbolos '[...]'. Para encontrar '*', '?', '[' y ']', utilice '\\*', "
+"'\\?', '\\[' o '\\]'"
+
+#  [ES] ""
+#: MainWindow%23124
+msgctxt "MainWindow#124"
+msgid "Search"
+msgstr "&Thaqhaña"
+
+#  [ES] ""
+#: MainWindow%23125
+msgid "Search in page"
+msgstr "&Laphi ukana thaqhaña"
+
+#  [ES] ""
+#: MainWindow%23126
+msgid "Ctrl+F"
+msgstr "Ctrl+F"
+
+#  [ES] ""
+#: MainWindow%23127
+msgctxt "MainWindow#127"
+msgid "Full-text search"
+msgstr "&Taqpacha qillqana thaqhaña"
+
+#  [ES] ""
+#: MainWindow%23128
+msgid "Ctrl+Shift+F"
+msgstr "Ctrl+Shift+F"
+
+#  [ES] ""
+#: MainWindow%23129
+msgid "GoldenDict reference"
+msgstr "GoldenDict y&atichawi"
+
+#  [ES] ""
+#: MainWindow%23130
+msgid "Now indexing for full-text search: "
+msgstr "Taqpacha qillqata thaqhawixa ullasiskiwa: "
+
+#  [ES] ""
+#: MainWindow%23131
+msgid "Favor&ites Pane"
+msgstr "Mu&nata arunaka kaja"
+
+#  [ES] ""
+#: MainWindow%23132
+msgid "Show"
+msgstr "Uñachayaña"
+
+#  [ES] ""
+#: MainWindow%23133
+msgctxt "MainWindow#133"
+msgid "Export"
+msgstr "&Anqaru apsuña"
+
+#  [ES] ""
+#: MainWindow%23134
+msgid "Import"
+msgstr "A&nqaxata apaniña"
+
+#  [ES] ""
+#: MainWindow%23135
+msgid "Add"
+msgstr "&Yapaña"
+
+#  [ES] ""
+#: MainWindow%23136
+msgid "Add current tab to Favorites"
+msgstr ""
+"Jichha phichhu ukaxa munata arunakaru yapaña\n"
+"\n"
+"Añadir la pestaña actual a favoritos"
+
+#  [ES] ""
+#: MainWindow%23137
+msgid "Export to list"
+msgstr "&Tanta arunaka anqaru apsuña"
+
+#  [ES] ""
+#: MainWindow%23138
+msgid "Export Favorites to file"
+msgstr "Munata arunaka wayaqaru apsuña"
+
+#  [ES] ""
+#: MainWindow%23139
+msgid "XML files (*.xml);;All files (*.*)"
+msgstr "XML wayaqanaka (*.txt);;Taqpacha wayaqanaka (*.*)"
+
+#  [ES] ""
+#: MainWindow%23140
+msgid "Favorites export complete"
+msgstr "Munata arunaka imañxa tukuyatawa"
+
+#  [ES] ""
+#: MainWindow%23141
+msgid "Export Favorites to file as plain list"
+msgstr "Munata arunaka wayaqaru apsuña, ukja q'ala qillqjama"
+
+#  [ES] ""
+#: MainWindow%23142
+msgid "Import Favorites from file"
+msgstr "Munata arunaka wayaqata apaniña"
+
+#  [ES] ""
+#: MainWindow%23143
+msgid "Favorites import complete"
+msgstr "Munata arunaka apaniñaxa tukuyatawa"
+
+#  [ES] ""
+#: MainWindow%23144
+msgid "Data parsing error"
+msgstr "Yatiyawinaka ullasiñaxa pantjasiwa"
+
+#  [ES] ""
+#: MainWindow%23145
+msgid "Favo&rites"
+msgstr "&Munata arunaka"
+
+#  [ES] ""
+#: MainWindow%23146
+msgid "Ctrl+E"
+msgstr "Ctrl+E"
+
+#  [ES] ""
+#: MainWindow%23147
+msgid "Add all tabs to Favorites"
+msgstr "Munata arunakaru taqpacha phichhunaka yapaña"
+
+#  [ES] ""
+#: MainWindow%23148
+msgid "Remove current tab from Favorites"
+msgstr ""
+"Munata arunakata jichha phichhu chhaqtayaña\n"
+"\n"
+"Eliminar la pestaña actual de favoritos"
+
+#  [ES] ""
+#: MainWindow%23149
+msgid "Remove headword \"%1\" from Favorites?"
+msgstr ""
+"Munata arunakataxa \"%1\" chhaqtayaña muntati?\n"
+"\n"
+"¿Eliminar la palabra \"%1\" de favoritos?"
+
+#  [ES] "Fichero de diccionario alterado o corrupto"
+#: Mdx::MdxArticleRequest%231
+msgid "Dictionary file was tampered or corrupted"
+msgstr "Wayaqa aru-pirwa pantjatawa"
+
+#  [ES] "Fallo al cargar artículo de %1, motivo: %2"
+#: Mdx::MdxArticleRequest%232
+msgid "Failed loading article from %1, reason: %2"
+msgstr "Qillqata ullasinxa pantjiwa akata %1, ukalayku: %2"
+
+#  [ES] "Error de sintaxis XML: %1 en %2,%3"
+#: MediaWiki::MediaWikiArticleRequest%231
+msgctxt "MediaWiki::MediaWikiArticleRequest#1"
+msgid "XML parse error: %1 at %2,%3"
+msgstr "XML uyllaña pantja: %1 en %2,%3"
+
+#  [ES] "Error de sintaxis XML: %1 en %2,%3"
+#: MediaWiki::MediaWikiWordSearchRequest%231
+msgctxt "MediaWiki::MediaWikiWordSearchRequest#1"
+msgid "XML parse error: %1 at %2,%3"
+msgstr "XML uyllaña pantja: %1 en %2,%3"
+
+#  [ES] "Activado"
+#: MediaWikisModel%231
+msgctxt "MediaWikisModel#1"
+msgid "Enabled"
+msgstr "Naktata"
+
+#  [ES] "Nombre"
+#: MediaWikisModel%232
+msgctxt "MediaWikisModel#2"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Dirección"
+#: MediaWikisModel%233
+msgctxt "MediaWikisModel#3"
+msgid "Address"
+msgstr "Web utjäwi"
+
+#  [ES] "Icono"
+#: MediaWikisModel%234
+msgctxt "MediaWikisModel#4"
+msgid "Icon"
+msgstr "Salta"
+
+#  [ES] ""
+#: MultimediaAudioPlayer%231
+msgid "Couldn't open audio buffer for reading."
+msgstr "Arunaka arsunatakixa búfer de audio janiwa jist'araña atkiti."
+
+#  [ES] "Formulario"
+#: OrderAndProps%231
+msgctxt "OrderAndProps#1"
+msgid "Form"
+msgstr "Phuqhaña laphi"
+
+#  [ES] "Orden de los diccionarios:"
+# Aru-pirwa pirqantata:
+#: OrderAndProps%232
+msgid "Dictionary order:"
+msgstr "Nayraqata aka aru-pirwanakana thaqham:"
+
+#  [ES] "..."
+#. (obsolete)
+#: OrderAndProps%233
+msgctxt "OrderAndProps#3"
+msgid "..."
+msgstr "..."
+
+#  [ES] "Diccionarios no activos (deshabilitados):"
+#: OrderAndProps%234
+msgid "Inactive (disabled) dictionaries:"
+msgstr "Aru-pirwanaka jani apnaqata:"
+
+#  [ES] "Información de diccionarios"
+#: OrderAndProps%235
+msgid "Dictionary information"
+msgstr "Aru-pirwana yatiyawi"
+
+#  [ES] "Nombre:"
+#: OrderAndProps%236
+msgid "Name:"
+msgstr "Suti:"
+
+#  [ES] "Número de artículos:"
+#: OrderAndProps%237
+msgctxt "OrderAndProps#7"
+msgid "Total articles:"
+msgstr "Qillqatanaka jakhuña:"
+
+#  [ES] "Número de palabras:"
+#: OrderAndProps%238
+msgctxt "OrderAndProps#8"
+msgid "Total words:"
+msgstr "Arunaka jakhuña:"
+
+#  [ES] "Idioma origen:"
+#: OrderAndProps%239
+msgctxt "OrderAndProps#9"
+msgid "Translates from:"
+msgstr "Jaqukipaña akata:"
+
+#  [ES] "Idioma destino:"
+#: OrderAndProps%2310
+msgctxt "OrderAndProps#10"
+msgid "Translates to:"
+msgstr "Jaqukipaña ukaru:"
+
+#  [ES] "Ficheros que componen este diccionario:"
+#: OrderAndProps%2311
+msgctxt "OrderAndProps#11"
+msgid "Files comprising this dictionary:"
+msgstr "Aka aru-pirwata wayaqanaka:"
+
+#  [ES] ""
+#  [ES] "Ajuste el orden arrastrando y soltando diccionarios. Arrastre diccionarios "
+#  [ES] "al grupo de no activos para deshabilitar su uso."
+#: OrderAndProps%2312
+msgid ""
+"Adjust the order by dragging and dropping items in it. Drop dictionaries to "
+"the inactive group to disable their use."
+msgstr ""
+"Qatatiyama ukata aru-pirwanaka uskuña, kunjamasa jumaxa siqi siqi sarayaña "
+"munta. Jiwt'ayañatakixa, aru-pirwanaka jiwt'ata qutunakana ukana uskuña."
+
+#  [ES] "Descripción:"
+#: OrderAndProps%2313
+msgctxt "OrderAndProps#13"
+msgid "Description:"
+msgstr "Qillqataxa kunjamasa:"
+
+#  [ES] "Ordenar por nombre"
+#: OrderAndProps%2314
+msgid "Sort by name"
+msgstr "Suti sutitajama siqichaña"
+
+#  [ES] "Ordenar por lenguas"
+#: OrderAndProps%2315
+msgid "Sort by languages"
+msgstr "Arunakjamata siqichaña"
+
+#  [ES] ""
+#: OrderAndProps%2316
+msgctxt "OrderAndProps#16"
+msgid "Dictionary headwords"
+msgstr "Aru-pirwata p'iqi arunaka"
+
+#  [ES] ""
+#: OrderAndProps%2317
+msgid "Dictionaries active: %1, inactive: %2"
+msgstr "Aru-pirwanaka naktata: %1, jiwayata: %2"
+
+#  [ES] "Ruta"
+#: PathsModel%231
+msgctxt "PathsModel#1"
+msgid "Path"
+msgstr "Thakhi"
+
+#  [ES] "Recursiva"
+#: PathsModel%232
+msgid "Recursive"
+msgstr "Muytañataki"
+
+#  [ES] "Preferencias"
+#: Preferences%231
+msgctxt "Preferences#1"
+msgid "Preferences"
+msgstr "Ajlliñanaka"
+
+#  [ES] "&Interfaz"
+#: Preferences%232
+msgid "&Interface"
+msgstr "&Programa ajanu"
+
+#  [ES] "Navegación con pestañas"
+#: Preferences%233
+msgid "Tabbed browsing"
+msgstr "Phichhutajama phichhutajama tuyuri"
+
+#  [ES] ""
+#  [ES] "Normalmente, al abrir una nueva pestaña se pasa a ella inmediatamente.\n"
+#  [ES] "Con esta opción activada, en cambio, las nuevas pestañas se abrirán sin que "
+#  [ES] "se pase a ellas."
+#: Preferences%234
+msgid ""
+"Normally, opening a new tab switches to it immediately.\n"
+"With this on however, new tabs will be opened without\n"
+"switching to them."
+msgstr ""
+"Abrir nuevas pestañas en segundo plano\n"
+"\n"
+"Jist'araskisa ukjaxa, programaxa machaqa phichhu uñachayi.\n"
+"Akaxa naktayatakisa ukjaxa, machaqa phichhu jist'araskisa ukjaxa,\n"
+"jichha phichhuna qhiparasi."
+
+#  [ES] "Abrir nuevas pestañas en segundo plano"
+#: Preferences%235
+msgid "Open new tabs in background"
+msgstr "Manqhajanxa machaqa phichhunaka jist'araña"
+
+#  [ES] ""
+#  [ES] "Con esta opción activada, las nuevas pestañas se abrirán\n"
+#  [ES] "justo después de la actual. Si no, se situarán las últimas."
+#: Preferences%236
+msgid ""
+"With this on, new tabs are opened just after the\n"
+"current, active one. Otherwise they are added to\n"
+"be the last ones."
+msgstr ""
+"Abrir nuevas pestañas después de la actual\n"
+"\n"
+"Aka naktatampixa, machaqa phichhunakaxa jist'arasiniwa,\n"
+"jichha phichhukisa ukjaru. Jani ukjaxa machaqa phichhunakaxa\n"
+"qhipankaniwa."
+
+#  [ES] "Abrir nuevas pestañas después de la actual"
+#: Preferences%237
+msgid "Open new tabs after the current one"
+msgstr "Jichha phichhu ukjaruxa, machaqa phichhunaka jist'araña"
+
+#  [ES] ""
+#  [ES] "Al activar esta opción, aparece un icono en el área de la bandeja del "
+#  [ES] "sistema que se puede usar\n"
+#  [ES] "para abrir la ventana actual y realizar otras tareas."
+#: Preferences%238
+msgid ""
+"When enabled, an icon appears in the system tray area which can be used\n"
+"to open main window and perform other tasks."
+msgstr ""
+"Activar icono de bandeja del sistema\n"
+"\n"
+"Naktatakisa ukjaxa wak'a sistema ukana mä salta uñsti, ukaxa nayriri wintana\n"
+"jist'arañatakiwa apnaqasispawa, ukjmaraki yaqha lurawinaka lurasispawa."
+
+#  [ES] "Activar icono de bandeja del sistema"
+#: Preferences%239
+msgid "Enable system tray icon"
+msgstr "Wak'a sistema ukanaxa salta naktayaña"
+
+#  [ES] ""
+#  [ES] "Al activar esta opción, el programa aparecerá directamente\n"
+#  [ES] "en la bandeja del sistema, sin mostrar la ventana principal."
+#: Preferences%2310
+msgid ""
+"With this on, the application starts directly to system tray without showing\n"
+"its main window."
+msgstr ""
+"Iniciar en bandeja del sistema\n"
+"\n"
+"Aka naktataxa, aplicación ukaxa wak'a sistema ukana qallti,\n"
+"nayrir wintanapa jani uñachasa."
+
+#  [ES] "Iniciar en bandeja del sistema"
+#: Preferences%2311
+msgid "Start to system tray"
+msgstr "Wak'a sistema ukana qalltaña"
+
+#  [ES] ""
+#  [ES] "Si se habilita esta opción, al intentar cerrar la ventana principal ésta se "
+#  [ES] "oculta\n"
+#  [ES] "en lugar de cerrrarse."
+#: Preferences%2312
+msgid ""
+"With this on, an attempt to close main window would hide it instead of "
+"closing\n"
+"the application."
+msgstr ""
+"Cerrar en la bandeja del sistema.\n"
+"\n"
+"Akampi naktayataxa, nayriri wintana jist'antasinixa, wintanaxa imantasiniwa.\n"
+"Aplicación ukataxa janiwa mistkaniti."
+
+#  [ES] "Cerrar en la bandeja del sistema"
+#: Preferences%2313
+msgid "Close to system tray"
+msgstr "Wak'a sistema ukara jist'antaña"
+
+#  [ES] "Inicio"
+#: Preferences%2314
+msgid "Startup"
+msgstr "Qalltawi"
+
+#  [ES] "Ejecutar automáticamente al arrancar el sistema"
+#: Preferences%2315
+msgid "Start with system"
+msgstr "Sistemampi qalltaña"
+
+#  [ES] "Idioma de la interfaz de usuario:"
+#: Preferences%2316
+msgid "Interface language:"
+msgstr "Interfaz aru:"
+
+#  [ES] "Estilo de visualización:"
+#: Preferences%2317
+msgid "Display style:"
+msgstr "Ajanu kasta:"
+
+#  [ES] "Al hacer doble clic sobre una palabra ésta se traduce"
+#: Preferences%2318
+msgid "Double-click translates the word clicked"
+msgstr "Pä klik aru jaqukipañataki"
+
+#  [ES] ""
+#  [ES] "Elige si la ventana emergente de búsqueda está habilitada por defecto o no. "
+#  [ES] "Si se marca,\n"
+#  [ES] "el programa empezará siempre con la ventana emergente de búsqueda activada."
+#: Preferences%2319
+msgid ""
+"Chooses whether the scan popup mode is on by default or not. If checked,\n"
+"the program would always start with the scan popup active."
+msgstr ""
+"Habilitar escaneo en una ventana emergente cuando inicia.\n"
+"\n"
+"Aka naktatakisa ukjaxa thaqhañataki uñstiri wintanampi \n"
+"GoldenDict qalltapuniwa."
+
+#  [ES] ""
+#  [ES] "Normalmente, para activar una ventana emergente, tiene que\n"
+#  [ES] "mantener pulsadas las teclas elegidas mientras selecciona\n"
+#  [ES] "una palabra. Con esta opción activada, las teclas elegidas pueden también\n"
+#  [ES] "pulsarse un poco después de realizar la selección."
+#: Preferences%2320
+msgid ""
+"Normally, in order to activate a popup you have to\n"
+"maintain the chosen keys pressed while you select\n"
+"a word. With this enabled, the chosen keys may also\n"
+"be pressed shortly after the selection is done."
+msgstr ""
+"También se pueden pulsar las teclas después, dentro de N segundos.\n"
+"\n"
+"Uñstiri wintana jist'arañatakixa ukjaxa teclanaka limt'añama\n"
+"arunaka ajllkisa ukjanaka, akampi naktatakisa teclanakaxa\n"
+"lim'tasispawa arunaka ajllitakisa ukjaru."
+
+#  [ES] "Teclas de acceso rápido"
+#: Preferences%2321
+msgid "Hotkeys"
+msgstr "Jank'a teclanaka"
+
+#  [ES] ""
+#  [ES] "Use la siguiente tecla de acceso rápido para mostrar u ocultar la ventana "
+#  [ES] "principal:"
+#: Preferences%2322
+msgid "Use the following hotkey to show or hide the main window:"
+msgstr ""
+"Aka jank'a teclanakampi apnaqama, nayriri wintana uñachayañataki jani ukjaxa "
+"imantañataki:"
+
+#  [ES] ""
+#  [ES] "Use la siguiente tecla de acceso rápido para traducir una palabra desde el "
+#  [ES] "portapapeles:"
+#: Preferences%2323
+msgid "Use the following hotkey to translate a word from clipboard:"
+msgstr "Aka teclampi portapapeles ukata aru jaqukipañatakiwa:"
+
+#  [ES] ""
+#  [ES] "Las teclas de acceso rápido son globales y funcionan desde cualquier "
+#  [ES] "programa y en cualquier situación, siempre que GoldenDict se esté ejecutando "
+#  [ES] "en segundo plano."
+# ¿Kunayman?
+#: Preferences%2324
+msgid ""
+"The hotkeys are global and work from any program and within any context as "
+"long as GoldenDict is running in background."
+msgstr ""
+"Kunayman programampi jank'a teclanakaxa apnaqasi, GoldenDict ukja "
+"apnaqasiskiwa."
+
+#  [ES] "&Ventana emergente de búsqueda"
+#: Preferences%2325
+msgid "&Scan Popup"
+msgstr "&Uñstiri wintanampi ullaña"
+
+#  [ES] "Inicia automáticamente GoldenDict al arrancar el sistema operativo."
+#: Preferences%2326
+msgid "Automatically starts GoldenDict after operation system bootup."
+msgstr "GoldenDict justupakiwa qalltani."
+
+#  [ES] ""
+#  [ES] "Con esta opción, se mostrará una ventana emergente de traducción\n"
+#  [ES] "al apuntar con el ratón a cualquier palabra en la pantalla (en Windows)\n"
+#  [ES] "o al seleccionar cualquier palabra con el ratón (en Linux).\n"
+#  [ES] "Una vez activada, se puede activar o desactivar desde la ventana principal\n"
+#  [ES] "o desde el icono de la bandeja."
+#  Con esta opción habilitada, la ventana emergente aparecerá
+#  cada vez que el ratón apunta a una palabra en la pantalla (Windows) o
+#  una palabra está seleccionada con el ratón (Linux). Cuando habilitada,
+#  se puede prenderla o
+#  apagarla desde la ventana principal o el icono en la bandeja del sistema.
+#: Preferences%2327
+msgid ""
+"When enabled, a translation popup window would be shown each time\n"
+"you point your mouse on any word on the screen (Windows) or select\n"
+"any word with mouse (Linux). When enabled, you can switch it on and\n"
+"off from main window or tray icon."
+msgstr ""
+"Habilitar escaneo en una ventana emergente.\n"
+"\n"
+"Akampi naktataxa, uñstiri wintanaxa uñstaniwa, achaku jalakipawaykisa\n"
+"mä aru patxa Windows ukana, jani ukaxa Linux ukana achakumpi aru "
+"ajllitakisa.\n"
+"Naktatakisa ukjaxa qhantayasispawa jani ukjaxa jiwt’ayasispawa,\n"
+"Nayriri wintananaxa jani ukjaxa salta sistema wak’anxa.\n"
+"\n"
+"Con esta opción habilitada, la ventana emergente aparecerá \n"
+"cada vez que el ratón apunta a una palabra en la pantalla (Windows) o \n"
+"una palabra está seleccionada con el ratón (Linux). Cuando habilitada, \n"
+"se puede prenderla o apagarla desde la ventana principal o \n"
+"el icono en la bandeja del sistema."
+
+#  Funcionalidad de escaneo en ventana emergente
+#. (obsolete)
+#: Preferences%2328
+msgid "Scan popup functionality"
+msgstr "Escaneo apnaqañatakixa uñstiri wintanana"
+
+#  [ES] "Activa la funcionalidad de ventana emergente de búsqueda"
+#  Habilitar escaneo en una ventana emergente
+#: Preferences%2329
+msgid "Enable scan popup functionality"
+msgstr "Mä uñstiri wintananaxa escaneo uka naktayaña"
+
+#  [ES] "Empezar con la ventana emergente de búsqueda activada"
+#  Habilitar escaneo en una ventana emergente cuando inicia
+#: Preferences%2330
+msgid "Start with scan popup turned on"
+msgstr "Mä uñstiri wintananaxa escaneo uka naktayaña, qalltkisa ukja"
+
+#  [ES] ""
+#  [ES] "Al activar esta opción, la ventana emergente aparecerá si se pulsan todas\n"
+#  [ES] "las teclas elegidas cuando cambia la palabra seleccionada."
+#  Con esto habilitado, la ventana emergente sólo aparece si todas las teclas
+#  seleccionadas estén oprimidas cuando la selección de la palabra cambie.
+#: Preferences%2331
+msgid ""
+"With this enabled, the popup would only show up if all chosen keys are\n"
+"in the pressed state when the word selection changes."
+msgstr ""
+"Mostrar la ventana emergente sólo si todas las teclas \n"
+"seleccionadas se mantienen pulsadas.\n"
+"\n"
+"Akampi naktayataxa, taqpacha teclanaka limt'atakisa ukjakiwa \n"
+"uñstiri wintanaxa uñstaraki, ajllita aru mayjt'i ukja."
+
+#  [ES] ""
+#  [ES] "Mostrar la ventana emergente sólo si todas las teclas seleccionadas se "
+#  [ES] "mantienen pulsadas:"
+#  Sólo muestra la ventana emergente cuando todas estas teclas seleccionadas sigan oprimidas:
+#: Preferences%2332
+msgid "Only show popup when all selected keys are kept pressed:"
+msgstr ""
+"Taqpacha ajllita teclanaka limt'atakisa ukjakiwa uñstiri wintanaka uñachayi:"
+
+#  [ES] "Sólo Ctrl izquierda"
+#: Preferences%2333
+msgid "Left Ctrl only"
+msgstr "Ch'iqaki CTRL"
+
+#  [ES] "Ctrl Izquierda"
+#: Preferences%2334
+msgid "Left Ctrl"
+msgstr "Ch'iqa CTRL"
+
+#  [ES] "Sólo Mayúsculas derecha"
+#: Preferences%2335
+msgid "Right Shift only"
+msgstr "Kupiki JACH'A QILLQA"
+
+#  [ES] "Mayúsculas derecha"
+#: Preferences%2336
+msgid "Right Shift"
+msgstr "Kupi JACH'A QILLQA"
+
+#  [ES] "Tecla Alt"
+#: Preferences%2337
+msgid "Alt key"
+msgstr "ALT tecla"
+
+#  [ES] "Alt"
+#: Preferences%2338
+msgid "Alt"
+msgstr "ALT"
+
+#  [ES] "Tecla Ctrl"
+#: Preferences%2339
+msgid "Ctrl key"
+msgstr "CTRL tecla"
+
+#  [ES] "Ctrl"
+#: Preferences%2340
+msgid "Ctrl"
+msgstr "CTRL"
+
+#  [ES] "Sólo Alt izquierda"
+#: Preferences%2341
+msgid "Left Alt only"
+msgstr "Ch'iqaki ALT"
+
+#  [ES] "Alt izquierda"
+#: Preferences%2342
+msgid "Left Alt"
+msgstr "Ch'iqa ALT"
+
+#  [ES] "Tecla mayúsculas"
+#: Preferences%2343
+msgid "Shift key"
+msgstr "JACH'A QILLQA tecla"
+
+#  [ES] "Mayúsculas"
+#: Preferences%2344
+msgid "Shift"
+msgstr "JACH'A QILLQA"
+
+#  [ES] "Sólo Alt derecha"
+#: Preferences%2345
+msgid "Right Alt only"
+msgstr "Kupiki JACH'A QILLQA"
+
+#  [ES] "Alt derecha"
+#: Preferences%2346
+msgid "Right Alt"
+msgstr "ALT kupita"
+
+#  [ES] "Sólo Ctrl derecha"
+#: Preferences%2347
+msgid "Right Ctrl only"
+msgstr "Kupiki CTRL"
+
+#  [ES] "Ctrl derecha"
+#: Preferences%2348
+msgid "Right Ctrl"
+msgstr "Kupi CTRL"
+
+#  [ES] "Sólo Shift izquierda"
+#: Preferences%2349
+msgid "Left Shift only"
+msgstr "Ch'iqaki JACH'A QILLQA"
+
+#  [ES] "Shift izquierda"
+#: Preferences%2350
+msgid "Left Shift"
+msgstr "Ch'iqa JACH'A QILLQA"
+
+#  [ES] "Tecla Windows o tecla Meta"
+#: Preferences%2351
+msgid "Windows key or Meta key"
+msgstr "Windows jani ukjaxa Meta tecla"
+
+#  [ES] "Win/Meta"
+#: Preferences%2352
+msgid "Win/Meta"
+msgstr "Windows/Meta"
+
+#  [ES] "También se pueden pulsar las teclas despues, dentro de "
+#: Preferences%2353
+msgid "Keys may also be pressed afterwards, within"
+msgstr "Teclanaka ukata apnaqatawa, manqhata"
+
+#  [ES] ""
+#  [ES] "Para evitar falsos positivos, las teclas sólo se monitorizan,\n"
+#  [ES] "una vez hecha la selección, durante un número determinado\n"
+#  [ES] "de segundos, que se especifica aquí."
+#  Para evitar positivos falsos, las teclas sólo son monitoreadas después de la terminación de la selección adentro un tiempo limitado, que está especificado aquí.
+#: Preferences%2354
+msgid ""
+"To avoid false positives, the keys are only monitored\n"
+"after the selection's done for a limited amount of\n"
+"seconds, which is specified here."
+msgstr ""
+"También se pueden pulsar las teclas después,\n"
+"dentro de N segundos.\n"
+"\n"
+"Jani pantjataniñatakixa mä pachani ukjakiwa teclanaka limt'aña,\n"
+"qillqata ajllitakixisa ukja."
+
+#  [ES] "segundos"
+#: Preferences%2355
+msgid "secs"
+msgstr "ch'ipxtanaka"
+
+#  [ES] ""
+#  [ES] "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#  [ES] "REC-html40/strict.dtd\">\n"
+#  [ES] "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\""
+#  [ES] ">\n"
+#  [ES] "p, li { white-space: pre-wrap; }\n"
+#  [ES] "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+#  [ES] "weight:400; font-style:normal;\">\n"
+#  [ES] "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#  [ES] "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+#  [ES] "color:#ff0000;\">Nota: parece que está utilizando una versión del servidor X "
+#  [ES] "de X.Org para la que no funciona la extensión RECORD. Las teclas de acceso "
+#  [ES] "rápido en GoldenDict seguramente no funcionarán. Esto debe arreglarse en el "
+#  [ES] "propio servidor. Por favor, diríjase al siguiente </span><a href=\""
+#  [ES] "https://bugs.freedesktop.org/show_bug.cgi?id=20500\"><span style=\" text-"
+#  [ES] "decoration: underline; color:#0000ff;\">informe de error</span></a><span "
+#  [ES] "style=\" color:#ff0000;\"> y deje un comentario si así lo "
+#  [ES] "desea.</span></p></body></html>"
+#: Preferences%2356
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" color:"
+"#ff0000;\">Note: You appear to be running an X.Org XServer release which has "
+"the RECORD extension broken. Hotkeys in GoldenDict will probably not work. "
+"This must be fixed in the server itself. Please refer to the following </"
+"span><a href=\"https://bugs.freedesktop.org/show_bug.cgi?id=20500\"><span "
+"style=\" text-decoration: underline; color:#0000ff;\">bug entry</span></"
+"a><span style=\" color:#ff0000;\"> and leave a comment there if you like.</"
+"span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" color:"
+"#ff0000;\">Nota: Aparece que la extensión RECORD está rota en tu instalación "
+"de X.Org XServer. Las teclas de acceso rápido de GoldenDict probablemente no "
+"funcionan. Este problema puede ser arreglado en el servidor mismo. Por favor "
+"consulte al </span><a href=\"https://bugs.freedesktop.org/show_bug.cgi?"
+"id=20500\"><span style=\" text-decoration: underline; color:#0000ff;"
+"\">reportaje de bug</span></a><span style=\" color:#ff0000;\"> y se puede "
+"entregar comentarios allí.</span></p></body></html>"
+
+#  [ES] "&Аudio"
+#: Preferences%2357
+msgid "&Audio"
+msgstr "&Ist'añataki"
+
+#  [ES] "Pronunciación"
+#: Preferences%2358
+msgid "Pronunciation"
+msgstr "Arst'awi"
+
+#  [ES] "Pronunciar palabras automáticamente en la ventana principal"
+#: Preferences%2359
+msgid "Auto-pronounce words in main window"
+msgstr "Nayriri wintanana justupaki arunaka arst'awi"
+
+#  [ES] "Pronunciar palabras automáticamente en la ventana emergente de búsqueda"
+#: Preferences%2360
+msgid "Auto-pronounce words in scan popup"
+msgstr "Uñstiri wintanana justupaki arunaka arst'awi"
+
+#  [ES] "Reproducción"
+#: Preferences%2361
+msgid "Playback"
+msgstr "Arst'awi"
+
+#  [ES] ""
+#  [ES] "Utilice la API de reproducción de audio nativa de Windows.\n"
+#  [ES] "Sólo para ficheros .wav, pero funciona muy bien."
+#. (obsolete)
+#: Preferences%2362
+msgid ""
+"Use Windows native playback API. Limited to .wav files only,\n"
+"but works very well."
+msgstr ""
+"Reproducir con la API nativa de Windows\n"
+"\n"
+"Ist'añataki API de Windows apnaqama.\n"
+".wav wayaqakiwa, sumaraki luri."
+
+#  [ES] "Reproducir con la API nativa de Windows"
+#. (obsolete)
+#: Preferences%2363
+msgid "Play via Windows native API"
+msgstr "API apnaqaña nativa de Windows"
+
+#  [ES] ""
+#  [ES] "Reproducir audio con el framework Phonon. Puede ser un poco inestable,\n"
+#  [ES] "pero seguramente funcionará con la mayoría de los formatos de audio."
+#. (obsolete)
+#: Preferences%2364
+msgid ""
+"Play audio via Phonon framework. May be somewhat unstable,\n"
+"but should support most audio file formats."
+msgstr ""
+"Reproducir con Phonon\n"
+"\n"
+"Phonon ukampi ist'ayama. Inacha janiwa sumaniti,\n"
+"taqpacha ist'añataki wayaqanaka apnaqisiwa."
+
+#  [ES] "Reproducir con Phonon"
+#. (obsolete)
+#: Preferences%2365
+msgid "Play via Phonon"
+msgstr "Phononmpi arst'asi"
+
+#  [ES] "Utilizar cualquier programa externo para reproducir ficheros de audio"
+# La frase original de inglés esta mal, porque no es cualquier programa. Es el programa especificado
+#: Preferences%2366
+msgid "Use any external program to play audio files"
+msgstr ""
+"Utilizar un programa externo:\n"
+"\n"
+"Wayaqanaka arst'ayañataki, anqata programa apnaqama.\n"
+"\n"
+"Utilizar un programa externo para reproducir archivos de audio."
+
+#  [ES] "Utilizar un programa externo:"
+#: Preferences%2367
+msgid "Use external program:"
+msgstr "Anqata programa apnaqaña:"
+
+#. (obsolete)
+#: Preferences%2368
+msgid "Program to play audio files:"
+msgstr "Programa arst'ayañataki uka ist'añataki wayaqanaka:"
+
+#  [ES] "&Red"
+#: Preferences%2369
+msgid "&Network"
+msgstr "&Llika"
+
+#  [ES] ""
+#  [ES] "Activar si desea utilizar un servidor proxy\n"
+#  [ES] "para todos los accesos a la red del programa."
+#: Preferences%2370
+msgid ""
+"Enable if you wish to use a proxy server\n"
+"for all program's network requests."
+msgstr ""
+"Aka naktayaña, jumati servidor proxy apnaqaña\n"
+"munstaxa, llikana mayiwinakapataki.\n"
+"\n"
+"Activar si desea utilizar un servidor proxy\n"
+"para todos los accesos a la red del programa."
+
+#  [ES] "Utilizar un servidor proxy"
+#: Preferences%2371
+msgid "Use proxy server"
+msgstr "Servidor proxy apnaqaña"
+
+#  [ES] "Tipo:"
+#: Preferences%2372
+msgid "Type:"
+msgstr "Kasta:"
+
+#  [ES] "Host:"
+#: Preferences%2373
+msgid "Host:"
+msgstr "Servidor jawilliri:"
+
+#  [ES] "Puerto:"
+#: Preferences%2374
+msgid "Port:"
+msgstr "Puerto:"
+
+#  [ES] "Usuario:"
+#: Preferences%2375
+msgid "User:"
+msgstr "Apnaqiri:"
+
+#  [ES] "Contraseña:"
+#: Preferences%2376
+msgctxt "Preferences#76"
+msgid "Password:"
+msgstr "Jamasata aru:"
+
+#  [ES] ""
+#  [ES] "Con esta opción activada, GoldenDict bloqueará la mayoría de los anuncios de "
+#  [ES] "publicidad \n"
+#  [ES] "al desactivar el contenido (imágenes, marcos, etc.) que no procedan del "
+#  [ES] "sitio web al\n"
+#  [ES] "que está accediendo. Si algunos sitios web dejan de funcionar, intente "
+#  [ES] "desactivar esta opción."
+# ¿kanayman?
+#: Preferences%2377
+msgid ""
+"Enabling this would make GoldenDict block most advertisements\n"
+"by disallowing content (images, frames) not originating from the site\n"
+"you are browsing. If some site breaks because of this, try disabling this."
+msgstr ""
+"No permitir la descarga de contenido desde otros sitios (oculta la \n"
+"mayoría de los anuncios).\n"
+"\n"
+"Aka naktatampixa GoldenDict ukaxa kunaymana yatiyawinaka \n"
+"jarkt'aniwa utjirinaka jiwt'ayasa (jamuqa, marcos, etc.) yaqha \n"
+"web laphi jutirinaka. Janiti mayninaka web laphi lurkani ukjaxa, \n"
+"aka jiwt'ayaña yant'ama."
+
+#  [ES] ""
+#  [ES] "No permitir la descarga de contenido desde otros sitios (oculta la mayoría "
+#  [ES] "de los anuncios)"
+#: Preferences%2378
+msgid "Disallow loading content from other sites (hides most advertisements)"
+msgstr "Yaqha web laphinakata janiwa apaqañakiti (yatiyanaka imantañataki)"
+
+#  [ES] ""
+#  [ES] "Al activar esta opción, el programa comprueba periódicamente\n"
+#  [ES] "si existe una versión más reciente de GoldenDict disponible para su descarga."
+#  [ES] "\n"
+#  [ES] "Si es así, el programa informará acerca de ello y permitirá abrir una "
+#  [ES] "página\n"
+#  [ES] "para su descarga."
+#: Preferences%2379
+msgid ""
+"When this is enabled, the program periodically\n"
+"checks if a new, updated version of GoldenDict\n"
+"is available for download. If it is so, the program\n"
+"informs the user about it and prompts to open a\n"
+"download page."
+msgstr ""
+"Verificar periódicamente si haya una nueva versión del programa.\n"
+"\n"
+"Yatiñamatakixa GoldenDict ukaxa uñjapuniwa sitixa machaqa jakhu utjki."
+
+#  [ES] "Comprobar periódicamente la existencia de nuevas versiones del programa"
+#  Verificar periódicamente si haya una nueva versión del programa
+#: Preferences%2380
+msgid "Check for new program releases periodically"
+msgstr "Sapa kuti uñakipaña machaqa jakhu programa utjiti"
+
+#  [ES] "Idioma por defecto del sistema"
+#: Preferences%2381
+msgid "System default"
+msgstr "Qalltatpacha sistema ukawa ajlli"
+
+#  [ES] "Inglés"
+#. (obsolete)
+#: Preferences%2382
+msgctxt "Preferences#82"
+msgid "English"
+msgstr "Inglés"
+
+#  [ES] "Ruso"
+#. (obsolete)
+#: Preferences%2383
+msgctxt "Preferences#83"
+msgid "Russian"
+msgstr "Ruso"
+
+#  [ES] "Por defecto"
+#: Preferences%2384
+msgid "Default"
+msgstr "Qalltatpacha ajllita"
+
+#  [ES] "Lingvo"
+#: Preferences%2385
+msgid "Lingvo"
+msgstr "Lingvo"
+
+#  [ES] "Reproducir con DirectShow"
+#. (obsolete)
+#: Preferences%2386
+msgid "Play via DirectShow"
+msgstr "DirectShowmpi arst'ayaña"
+
+#  [ES] "Cambiando Idioma"
+#: Preferences%2387
+msgid "Changing Language"
+msgstr "Aru turkawi"
+
+#  [ES] "Vuelva a ejecutar el programa para hacer efectivo el cambio de idioma."
+#: Preferences%2388
+msgid "Restart the program to apply the language change."
+msgstr "Mayampi programa aqtayam suma apñaqañataki."
+
+#  [ES] ""
+#  [ES] "Seleccione esta opción si no quiere que se muestre la barra de pestañas "
+#  [ES] "cuando sólo hay abierta una pestaña."
+#: Preferences%2389
+msgid ""
+"Select this option if you don't want to see the main tab bar when only a "
+"single tab is opened."
+msgstr ""
+"Ocultar pestaña cuando sólo hay una.\n"
+"\n"
+"Aka ajlliña wak'a phichhunaka jani uñjañataki, utjkisa mä phichhuki ukja."
+
+#  [ES] "Ocultar una pesaña"
+#: Preferences%2390
+msgid "Hide single tab"
+msgstr "Mä phichhukisa ukjaxa imantaña"
+
+#  [ES] "Ctrl-Tab cambia a las pestañas usadas más recientemente"
+#: Preferences%2391
+msgid "Ctrl-Tab navigates tabs in MRU order"
+msgstr "Ctrl+Tab phichhuta phichhuta sari MRU siqichawijama"
+
+#  [ES] ""
+#  [ES] "Active esta opción para seleccionar palabras con una sola pulsación del ratón"
+#: Preferences%2392
+msgid "Turn this option on if you want to select words by single mouse click"
+msgstr ""
+"Seleccionar palabra con un solo clic.\n"
+"\n"
+"Mä klik ukampi arunaka ajlliñataki, aka naktayaña.\n"
+"Active esta opción para seleccionar palabras con un clic del ratón."
+
+#  [ES] "Seleccionar palabra con un solo clic"
+#: Preferences%2393
+msgid "Select word by single click"
+msgstr "Aru ajlliña mä klik ukampiki"
+
+#  [ES] ""
+#  [ES] "Normalmente, al pulsar la tecla ESC se pasa a la línea de traducción.\n"
+#  [ES] "Pero con esta opción seleccionada, se esconderá la ventana principal."
+#: Preferences%2394
+msgid ""
+"Normally, pressing ESC key moves focus to the translation line.\n"
+"With this on however, it will hide the main window."
+msgstr ""
+"La tecla ESC oculta la ventana principal.\n"
+"\n"
+"Aktixa naktayataxa, ESC tiklaxa nayrankiri wintana imantani.\n"
+"Janitixa naktayatanixa, ESC tiklaxa jaquqipayiri ukaruwa ixtayi."
+
+#  [ES] "La tecla ESC oculta la ventana principal"
+#: Preferences%2395
+msgid "ESC key hides main window"
+msgstr "Tecla ESC ukaxa nayrankiri wintana imanti"
+
+#  [ES] "Estilo suplementario add-on):"
+#: Preferences%2396
+msgid "Add-on style:"
+msgstr "Kasta yapt'ata:"
+
+#  [ES] ""
+#  [ES] "Enviar palabra traducida a la ventana principal en lugar de mostrarla en la "
+#  [ES] "ventana emergente"
+#: Preferences%2397
+msgid ""
+"Send translated word to main window instead of to show it in popup window"
+msgstr ""
+"Enviar palabra traducida a la ventana principal\n"
+"\n"
+"Jaqukipata aru uka nayrankiri wintanaru apayaña, uñstiri wintanaru uka lanti."
+
+#  [ES] "Enviar palabra traducida a la ventana principal"
+#: Preferences%2398
+msgid "Send translated word to main window"
+msgstr "Nayrankiri wintana ukaru aru jaquikipata apayaña"
+
+#  [ES] ""
+#  [ES] "Esta opción permite escuchar las pronunciaciones de\n"
+#  [ES] "diccionarios online que utilizan Flash u otros plugins para la web.\n"
+#  [ES] "El plugin debe estar instalado para que funcione esta opción."
+#: Preferences%2399
+msgid ""
+"Enabling this would allow to listen to sound pronunciations from\n"
+"online dictionaries that rely on Flash or other web plugins.\n"
+"Plugin must be installed for this option to work."
+msgstr ""
+"Aka naktayaña aru-pirwanaka internet ukana arst'ayirinaka ist'añatakixa.\n"
+"Aka aru-pirwanakaxa Flash jani ukjaxa plugins de web apnaqapxi.\n"
+"Aka apnaqañatakixa plugin ukawa uchantatañapa.\n"
+"\n"
+"Esta opción permite escuchar las pronunciaciones de diccionarios \n"
+"online que utilizan Flash u otros plugins para la web.\n"
+"El plugin debe estar instalado para que funcione esta opción."
+
+#  [ES] "Activar plugins para la web"
+#: Preferences%23100
+msgid "Enable web plugins"
+msgstr "Complementos de web uka naktayaña"
+
+#  [ES] "A&vanzado"
+#: Preferences%23101
+msgid "Ad&vanced"
+msgstr "&Nayrt'ata"
+
+#  [ES] "Opciones avanzadas de ventana emergente de búsqueda"
+#: Preferences%23102
+msgid "ScanPopup extra technologies"
+msgstr "Uñstiri wintanata yaqha ajlliñanaka"
+
+#  [ES] ""
+#  [ES] "Intenta utilizar la tecnología IAccessibleEx para obtener la palabra bajo el "
+#  [ES] "cursor.\n"
+#  [ES] "Esta tecnología funciona sólo con algunos programas que la soportan\n"
+#  [ES] "(Por ejemplo Internet Explorer 9).\n"
+#  [ES] "No hace falta seleccionar esta opción si no utiliza estos programas."
+#: Preferences%23103
+msgid ""
+"Try to use IAccessibleEx technology to retrieve word under cursor.\n"
+"This technology works only with some programs that support it\n"
+" (for example Internet Explorer 9).\n"
+"It is not needed to select this option if you don't use such programs."
+msgstr ""
+"Utilizar IAccessibleEx\n"
+"\n"
+"IAccessibleEx ukampi yant'ama, aru katuntañataki manqhaxa\n"
+"cursor ukampi. Akaxa janiwa taqpacha programanakampi \n"
+"lurkiti (akajama: Internet Explorer 9 ukampi)."
+
+#  [ES] "Utilizar &IAccessibleEx"
+#: Preferences%23104
+msgid "Use &IAccessibleEx"
+msgstr "&IAccessibleEx apnaqaña"
+
+#  [ES] ""
+#  [ES] "Intenta utilizar la tecnología de automatización IAccessibleEx para obtener "
+#  [ES] "la palabra bajo el cursor.\n"
+#  [ES] "Esta tecnología funciona sólo con algunos programas que la soportan.\n"
+#  [ES] "No hace falta seleccionar esta opción si no utiliza estos programas."
+#: Preferences%23105
+msgid ""
+"Try to use UI Automation technology to retrieve word under cursor.\n"
+"This technology works only with some programs that support it.\n"
+"It is not needed to select this option if you don't use such programs."
+msgstr ""
+"Utilizar UIAutomation\n"
+"\n"
+"IAccessibleEx ukampi yant'ama, aru katuntañataki manqhaxa cursor ukampi.\n"
+"Akaxa janiwa taqpacha programanakampi lurkiti."
+
+#  [ES] "Utilizar &UIAutomation"
+#: Preferences%23106
+msgid "Use &UIAutomation"
+msgstr "&UIAutomation apnaqaña"
+
+#  [ES] ""
+#  [ES] "Intenta utilizar la tecnología GoldenDict message para obtener la palabra "
+#  [ES] "bajo el cursor.\n"
+#  [ES] "Esta tecnología funciona sólo con los programas que la soportan.\n"
+#  [ES] "No necesita seleccionar esta opción si no utiliza tales programas."
+#: Preferences%23107
+msgid ""
+"Try to use special GoldenDict message to retrieve word under cursor.\n"
+"This technology works only with some programs that support it.\n"
+"It is not needed to select this option if you don't use such programs."
+msgstr ""
+"Utilizar GoldenDict message.\n"
+"\n"
+"GoldenDict yatiya ukampi yant'ama, aru katuntañataki manqhaxa cursor ukampi.\n"
+"Akaxa janiwa taqpacha programanakampi lurkiti."
+
+#  [ES] "Utilizar &GoldenDict message"
+#: Preferences%23108
+msgid "Use &GoldenDict message"
+msgstr "&GoldenDict uka yatiya apnaqaña"
+
+#  [ES] "Historial"
+#: Preferences%23109
+msgid "History"
+msgstr "Thaqhata arunaka"
+
+#  [ES] "Activar esta opción para almacenar el historial de palabras traducidas"
+#: Preferences%23110
+msgid "Turn this option on to store history of the translated words"
+msgstr ""
+"Almacenar historial.\n"
+"\n"
+"Tantana jaqukipata arunakaxa imañatakixa uka naktayaña."
+
+#  [ES] "Almacenar &historial"
+#: Preferences%23111
+msgid "Store &history"
+msgstr "&Thaqhata arunaka imaña"
+
+#  [ES] "Artículos"
+#: Preferences%23112
+msgid "Articles"
+msgstr "Qillqatanaka"
+
+#  [ES] ""
+#  [ES] "Activar esta opción para desplegar siempre las partes opcionales de los "
+#  [ES] "artículos"
+#: Preferences%23113
+msgid "Turn this option on to always expand optional parts of articles"
+msgstr ""
+"Desplegar partes opcionales.\n"
+"\n"
+"Aka naktayaña taqpacha t'aqanaka janatatañataki."
+
+#  [ES] "Desplegar &partes opcionales"
+#: Preferences%23114
+msgid "Expand optional &parts"
+msgstr "&T'aqanaka janatataña"
+
+#  [ES] "Babylon"
+#: Preferences%23115
+msgid "Babylon"
+msgstr "Babylon"
+
+#  [ES] "Especificar el máximo número de entradas a guardar en el historial."
+#: Preferences%23116
+msgid "Specify the maximum number of entries to keep in history."
+msgstr ""
+"Tamaño máximo del historial:\n"
+"\n"
+"Jakhu qillqatanakata uskuña imañataki."
+
+#  [ES] "Tamaño máximo del historial:"
+#: Preferences%23117
+msgid "Maximum history size:"
+msgstr "Thaqhata arunaka qawqhch'asa:"
+
+#  [ES] ""
+#  [ES] "Intervalo de tiempo para guardar el historial. Si se pone a 0, el historial "
+#  [ES] "se guardará sólo al terminar."
+#: Preferences%23118
+msgid ""
+"History saving interval. If set to 0 history will be saved only during exit."
+msgstr ""
+"Guardar cada N minutos.\n"
+"\n"
+"Kunapachanakasa thaqhata arunaka imt'aña. \n"
+"0 ukanixa thaqhata arunakaxa imt'asiniwa mistxani ukja."
+
+#  [ES] "Guardar cada"
+#: Preferences%23119
+msgid "Save every"
+msgstr "Imaña sapa"
+
+#  [ES] "minutos"
+#: Preferences%23120
+msgid "minutes"
+msgstr "k'atanaka"
+
+#  [ES] "Moderno"
+#: Preferences%23121
+msgid "Modern"
+msgstr "Modern"
+
+#  [ES] "Lingoes"
+#: Preferences%23122
+msgid "Lingoes"
+msgstr "Lingoes"
+
+#  [ES] "Lingoes-Blue"
+#: Preferences%23123
+msgid "Lingoes-Blue"
+msgstr "Lingoes-Larama"
+
+#  [ES] ""
+#  [ES] "Algunos sitios web detectan GoldenDict mediante las cabeceras HTTP y "
+#  [ES] "bloquean las peticiones.\n"
+#  [ES] "Active esta opción para evitar el problema."
+#: Preferences%23124
+msgid ""
+"Some sites detect GoldenDict via HTTP headers and block the requests.\n"
+"Enable this option to workaround the problem."
+msgstr ""
+"Impedir la identificación de GoldenDict a partir de las cabeceras HTTP.\n"
+"\n"
+"Yaqhipa web laphi GoldenDict uka uñt'apxi HTTP p'iqi laphi kuampi \n"
+"mayiwinakap jakt'rakiwa. Jani wali utjañapatakixa, aka naktayama."
+
+#  [ES] "Impedir la identificación de GoldenDict a partir de las cabeceras HTTP"
+#: Preferences%23125
+msgid "Do not identify GoldenDict in HTTP headers"
+msgstr "GoldenDict janiwa uskuñakiti HTTP p'iqi tuqi laphina"
+
+#  [ES] ""
+#  [ES] "Seleccionar esta opción para mostrar plegados los artículos muy grandes "
+#: Preferences%23126
+msgid "Select this option to automatic collapse big articles"
+msgstr ""
+"Colapsar artículos con más que N caracteres.\n"
+"\n"
+"Aka naktayama, jach'a qillqatanaka justupaki suk'asiñataki."
+
+#  [ES] "Mostrar plegados los artículos con más de"
+#: Preferences%23127
+msgid "Collapse articles more than"
+msgstr "Qillqatanaka suk'aña juk'ampi"
+
+#  [ES] "símbolos"
+# Utilizamos "qillqanaka" porque son caracteres, y qillqanaka es mas entendible que chimpunaka.
+#: Preferences%23128
+msgid "symbols"
+msgstr "qillqanaka"
+
+#  [ES] "Ajuste este valor para evitar menús contextuales demasiado grandes."
+#: Preferences%23129
+msgid "Adjust this value to avoid huge context menus."
+msgstr ""
+"Límite de diccionarios para el menú contextual:\n"
+"\n"
+"Aka jakhu mayjachama, jani jach'a menus utjañapataki."
+
+#  [ES] "Límite de diccionarios para el menú contextual:"
+#: Preferences%23130
+msgid "Context menu dictionaries limit:"
+msgstr "Qawqha aru-pirwanakasa menú ukana uñachayi:"
+
+#  [ES] "Los artículos con una longitud mayor que esta se mostrarán plegados"
+#: Preferences%23131
+msgid "Articles longer than this size will be collapsed"
+msgstr "Juk'ampi jach'a qillqatanakaxa suk'ataniwa"
+
+#  [ES] ""
+#: Preferences%23132
+msgid "System proxy"
+msgstr "Sistema ukata proxy"
+
+#  [ES] ""
+#: Preferences%23133
+msgid "Custom proxy"
+msgstr "Proxy jumankapuni"
+
+#  [ES] ""
+#: Preferences%23134
+msgid "Custom settings"
+msgstr "Ajlliñanaka, kunjamasa munta"
+
+#  [ES] ""
+# ¿Podemos usar "Taqi qillqan thaqhana"?
+#: Preferences%23135
+msgctxt "Preferences#135"
+msgid "Full-text search"
+msgstr "Taqpacha qillqana thaqhaña"
+
+#  [ES] ""
+#: Preferences%23136
+msgid "Allow full-text search for:"
+msgstr "Taqpacha qillqana thaqhawi uka lurayakiña, aka kasta aru-pirwanakataki:"
+
+#  [ES] ""
+#: Preferences%23137
+msgid "Don't search in dictionaries containing more than"
+msgstr "Aru-pirwanakanaxa janiwa thaqhkiti, kunati juk'ampi"
+
+#  [ES] ""
+#: Preferences%23138
+msgid "articles (0 - unlimited)"
+msgstr "utjki qillqatanaka (0 = janiwa tukuwinikiti)"
+
+#  [ES] ""
+#: Preferences%23139
+msgid "Help language"
+msgstr "Yanapañataki aru"
+
+#  [ES] ""
+#: Preferences%23140
+msgid ""
+"Turn this option on to enable extra articles search via synonym lists\n"
+"from Stardict, Babylon and GLS dictionaries"
+msgstr ""
+"Búsqueda extra con sinónimos.\n"
+"\n"
+"Aka naktayaña juk'ampi thaqhañataki tanta kikpa amuyuninakampi (sinónimos) "
+"Stardict, Babylon, GLS aru-pirwanakata.\n"
+"\n"
+"Activar esta opción para realizar búsquedas adicionales con listas de "
+"sinónimos en diccionarios de StarDict, Babylon y GLS."
+
+#  [ES] ""
+#: Preferences%23141
+msgid "Extra search via synonyms"
+msgstr "Juk'ampi thaqhañataki kikpa amuyuninakampi (sinónimos)"
+
+#  [ES] ""
+#: Preferences%23142
+msgid "Favorites"
+msgstr "Munata arunaka"
+
+#  [ES] ""
+#: Preferences%23143
+msgid ""
+"Favorites saving interval. If set to 0 Favorites will be saved only during "
+"exit."
+msgstr ""
+"Guardar cada N minutos.\n"
+"\n"
+"Qawqha pachasa munata arunaka imañataki. \n"
+"0 ukanixa, munata arunakaxa mistjan ukjawa imasini."
+
+#  [ES] ""
+#: Preferences%23144
+msgid "Turn this option on to confirm every operation of items deletion"
+msgstr ""
+"Confirmar cuando borra items.\n"
+"\n"
+"Aka naktayaña jiskht'awitaki janiru chhaqtayañataki."
+
+#  [ES] ""
+#: Preferences%23145
+msgid "Confirmation for items deletion"
+msgstr "Jiskt'awi janiru chhaqtayañataki"
+
+#  [ES] ""
+#: Preferences%23146
+msgid ""
+"Show a flag window before showing popup window, click the flag to show popup "
+"window. "
+msgstr ""
+"Mostrar el icono del escaneo cuando una palabra es seleccionada.\n"
+"\n"
+"GoldenDict ukana thaqhañatakiwa salta uñachaña.\n"
+"Uñstiri wintana uñachañatakixa salta ukana mä klik lurama. "
+
+#  [ES] ""
+#: Preferences%23147
+msgid "Show scan flag when word is selected"
+msgstr "Escaneo ukana saltapa uñachaña, mä aru ajllitakisa ukja"
+
+#  [ES] ""
+#: Preferences%23148
+msgid "Play audio files via built-in audio support"
+msgstr ""
+"Utilizar el audio interno:\n"
+"\n"
+"Sistema ist'añataki ukampi, ist'añataki wayaqanaka arst'ayaña.\n"
+"\n"
+"Reproducir archivos de audio con el audio por defecto del sistema."
+
+#  [ES] ""
+#: Preferences%23149
+msgid "Use internal player:"
+msgstr "Manqhaxa ist'awi apnaqaña:"
+
+#  [ES] ""
+#: Preferences%23150
+msgid "Choose audio back end"
+msgstr "Arst'ayiri ist'añataki ajllima"
+
+#  [ES] ""
+#: Preferences%23151
+msgid "Enter audio player command line"
+msgstr "Ist'añataki arst'ayañatakixa, comando uka qillqama"
+
+#  [ES] ""
+#: Preferences%23152
+msgid ""
+"Do not show popup when selection or clipboard in one of GoldenDict's own "
+"windows changes"
+msgstr ""
+"Ajllit qillqata mayjt'yasi GoldenDict uka wintana ukjaxa, janiwa uñstiri "
+"wintana uñachaykiti"
+
+#  [ES] ""
+#: Preferences%23153
+msgid "Ignore GoldenDict's own selection and clipboard changes"
+msgstr ""
+"GoldenDict ukana ajllita qillqataxa, ukhamaraki mayjt'ayata portapapeles, "
+"janiwa yäqañakiti"
+
+#  [ES] ""
+#: Preferences%23154
+msgid "ScanPopup unpinned window flags"
+msgstr "Escaneo wintanata chimpunaka jani lip'katata"
+
+#  [ES] ""
+#: Preferences%23155
+msgid ""
+"Experiment with non-default flags if the unpinned scan popup window misbehaves"
+msgstr ""
+"Escaneo wintanata, jani lip'katata, jani suma lurkani ukjaxa, \n"
+"chipunakampi jani qallta mayjachata yant'aña.\n"
+"\n"
+"Experimentar con banderas no predeterminadas, \n"
+"si la ventana emergente desligada no comporta bien."
+
+#  [ES] ""
+#: Preferences%23156
+msgid "<default>"
+msgstr "<nayratapacha ajllita>"
+
+#  [ES] ""
+#: Preferences%23157
+msgid "Popup"
+msgstr "Uñstiri wintana"
+
+#  [ES] ""
+#: Preferences%23158
+msgid "Tool"
+msgstr "Irnaqawi"
+
+#  [ES] ""
+#: Preferences%23159
+msgid "This hint can be combined with non-default window flags"
+msgstr ""
+"No mostrar el consejo del gerente de ventanas.\n"
+"\n"
+"Aka amuyt'awixa kisantasispawa, qallta mayjachata saltanakampi.\n"
+"\n"
+"Este consejo puede ser combinado con banderas no predeterminados\n"
+"de ventanas."
+
+#  [ES] ""
+#: Preferences%23160
+msgid "Bypass window manager hint"
+msgstr "Gerente de ventana ukana amuyupa jani uñachayaña"
+
+#  [ES] ""
+#: Preferences%23161
+msgid "Turn this option on to ignore diacritics while searching articles"
+msgstr ""
+"Ignorar marcas diacríticas en búsquedas.\n"
+"\n"
+"Aka naktayaña qillqata chimpunaka (´`¨˜¯) jani yaqaña thaqhkisa ukja."
+
+#  [ES] ""
+#: Preferences%23162
+msgid "Ignore diacritics while searching"
+msgstr "Qillqata chimpunaka (´`¨˜¯) jani yaqaña thaqhkisa ukja"
+
+#  [ES] ""
+#: Preferences%23163
+msgid ""
+"Turn this option on to ignore unreasonably long input text\n"
+"from mouse-over, selection, clipboard or command line"
+msgstr ""
+"Aka naktayaña jach'a mantiri qillqata jani yäqañataki achakuta jutki\n"
+"uka ajlliwi, portapapeles jani ukjaxa lurayañataki siqi"
+
+#  [ES] ""
+#: Preferences%23164
+msgid "Ignore input phrases longer than"
+msgstr "Janiwa apnaqaña qillqata mantiri juk'ampi jach'a ukata"
+
+#  [ES] ""
+#: Preferences%23165
+msgid "Input phrases longer than this size will be ignored"
+msgstr "Qillqatanaka akata juk'ampi jach'anixa, janiwa yäqataniti"
+
+#  [ES] ""
+#: Preferences%23166
+msgid "Maximum network cache size:"
+msgstr "Llika cachepa ukaxa kawkch'akamasa:"
+
+#  [ES] "El espacio máximo de disco ocupado por el cache de la red de GoldenDict en
+# %1
+# Si es seteado a 0, el cache de la red será desactivado."
+#: Preferences%23167
+msgid ""
+"Maximum disk space occupied by GoldenDict's network cache in\n"
+"%1\n"
+"If set to 0 the network disk cache will be disabled."
+msgstr ""
+"Taqi disco ukaxa cache de red de GoldenDict ukampiwa phuqasiski ukana\n"
+"%1\n"
+"0 ukaninixa, cache de red ukaxa jiwt'ayataniwa."
+
+#  [ES] ""
+#: Preferences%23168
+msgid " MiB"
+msgstr " MiB"
+
+#  [ES] ""
+#: Preferences%23169
+msgid ""
+"When this option is enabled, GoldenDict\n"
+"clears its network cache from disk during exit."
+msgstr ""
+"Programa ukata mistusinxa, GoldenDict\n"
+"ukaxa llikata cachepa chhaqtayi."
+
+#  [ES] ""
+#: Preferences%23170
+msgid "Clear network cache on exit"
+msgstr "Mistjani ukjaxa llika cache uka chhaqtayaña"
+
+#  [ES] ""
+#: Preferences%23171
+msgid " MB"
+msgstr " MB"
+
+#  [ES] "Audio"
+#: ProgramTypeEditor%231
+msgctxt "ProgramTypeEditor#1"
+msgid "Audio"
+msgstr "Ist'añataki"
+
+#  [ES] "Texto simple"
+#: ProgramTypeEditor%232
+msgid "Plain Text"
+msgstr "Q'ala qillqa"
+
+#  [ES] "Html"
+#: ProgramTypeEditor%233
+msgid "Html"
+msgstr "Html"
+
+#  [ES] "Coincidencia con prefijo"
+#: ProgramTypeEditor%234
+msgid "Prefix Match"
+msgstr "Saphi nayrt'irinaka (prefijos) thaqhañataki"
+
+#  [ES] "Desconocido"
+#: ProgramTypeEditor%235
+msgid "Unknown"
+msgstr "Jani uñt'ata"
+
+#  [ES] "No se proporcionó el nombre del programa."
+#: Programs::RunInstance%231
+msgid "No program name was given."
+msgstr "Programa sutipaxa janiwa churaskiti."
+
+#  [ES] "El programa ha fallado."
+#: Programs::RunInstance%232
+msgid "The program has crashed."
+msgstr "Programa ukaxa pantjiwa, janiwa unxtkiti."
+
+#  [ES] "El programa ha devuelto el código de error %1."
+#: Programs::RunInstance%233
+msgid "The program has returned exit code %1."
+msgstr "Misturi chimpu %1 programa uka kutt'ayiwa."
+
+#  [ES] "Activado"
+#: ProgramsModel%231
+msgctxt "ProgramsModel#1"
+msgid "Enabled"
+msgstr "Naktata"
+
+#  [ES] "Tipo"
+#: ProgramsModel%232
+msgid "Type"
+msgstr "Kasta"
+
+#  [ES] "Nombre"
+#: ProgramsModel%233
+msgctxt "ProgramsModel#3"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Línea de comandos"
+#: ProgramsModel%234
+msgid "Command Line"
+msgstr "Lurayañataki siqi (línea de comando)"
+
+#  [ES] "Icono"
+#: ProgramsModel%235
+msgctxt "ProgramsModel#5"
+msgid "Icon"
+msgstr "Salta"
+
+#  [ES] "Error al cargar artículo"
+#: QObject%231
+msgid "Article loading error"
+msgstr "Qillqata (artículo) uñachasinxa pantjiwa"
+
+#  [ES] "Error al decodificar artículo"
+#: QObject%232
+msgid "Article decoding error"
+msgstr "Qillqata (artículo) ullasinxa pantjiwa"
+
+#  [ES] "Fallo en avformat_alloc_context()."
+#: QObject%233
+msgid "avformat_alloc_context() failed."
+msgstr "avformat_alloc_context() pantjiwa."
+
+#  [ES] "Fallo en av_malloc()."
+#: QObject%234
+msgid "av_malloc() failed."
+msgstr "av_malloc() pantjiwa."
+
+#  [ES] "Fallo en avio_alloc_context()."
+#: QObject%235
+msgid "avio_alloc_context() failed."
+msgstr "avio_alloc_context() pantjiwa."
+
+#  [ES] "Fallo en avformat_open_input(): %1."
+#: QObject%236
+msgid "avformat_open_input() failed: %1."
+msgstr "avformat_open_input() pantjiwa: %1."
+
+#  [ES] "Fallo en avformat_find_stream_info(): %1."
+#: QObject%237
+msgid "avformat_find_stream_info() failed: %1."
+msgstr "avformat_find_stream_info() pantjiwa: %1."
+
+#  [ES] "No se encontró el flujo de audio."
+#: QObject%238
+msgid "Could not find audio stream."
+msgstr "Flujo de audio ukaxa, janiwa jikiskiti."
+
+#  [ES] "No se encontró codec [id: %1]."
+#: QObject%239
+msgid "Codec [id: %1] not found."
+msgstr "Codec [id: %1] janiwa jikiskiti."
+
+#  [ES] "Fallo en avcodec_open2(): %1."
+#: QObject%2310
+msgid "avcodec_open2() failed: %1."
+msgstr "avcodec_open2() pantjawi: %1."
+
+#  [ES] "No se encontró dispositivo de audio utilizable."
+#: QObject%2311
+msgid "Cannot find usable audio output device."
+msgstr "Misturi ist'añataki ukaxa janiwa jikiñajamakiti."
+
+#  [ES] "Formato de muestreo no soportado."
+#: QObject%2312
+msgid "Unsupported sample format."
+msgstr "Ist'añataki formato ukaxa, janiwa arst'ayaña atkiti."
+
+#  [ES] "Fallo en ao_open_live():"
+#: QObject%2313
+msgid "ao_open_live() failed: "
+msgstr "ao_open_live() pantjiwa: "
+
+#  [ES] "No hay controlador."
+#: QObject%2314
+msgid "No driver."
+msgstr "Driver janiwa utjkiti."
+
+#  [ES] "Este controlador no corresponde a un dispositivo de salida activo."
+#: QObject%2315
+msgid "This driver is not a live output device."
+msgstr "Aka driver ukaxa mistuwipax janiwa naktatakiti."
+
+#  [ES] "Una clave de opción válida tiene un valor no válido."
+#: QObject%2316
+msgid "A valid option key has an invalid value."
+msgstr "Mä chiqa ajllitaxa (opción) chanipaxa pantjatawa."
+
+#  [ES] ""
+#  [ES] "No se puede abrir el dispositivo: %1, canales: %2, velocidad: %3, bits: %4."
+#: QObject%2317
+msgid "Cannot open the device: %1, channels: %2, rate: %3, bits: %4."
+msgstr "Janiwa jist'araña atkiti: %1, canales: %2, velocidad: %3, bits: %4."
+
+#  [ES] "Error desconocido."
+#: QObject%2318
+msgid "Unknown error."
+msgstr "Pantja jani uñt'ata."
+
+#  [ES] "Fallo en avcodec_alloc_frame()."
+#: QObject%2319
+msgid "avcodec_alloc_frame() failed."
+msgstr "avcodec_alloc_frame() pantjiwa."
+
+#  [ES] ""
+#: QObject%2320
+msgid "Copyright: %1%2"
+msgstr "Qillqirini kamachi: %1%2"
+
+#  [ES] ""
+#: QObject%2321
+msgid "Version: %1%2"
+msgstr "Jakhu uñjawi: %1%2"
+
+#  [ES] ""
+#: QObject%2322
+msgid "Author: %1%2"
+msgstr "Qillqiri: %1%2"
+
+#  [ES] ""
+#: QObject%2323
+msgid "E-mail: %1%2"
+msgstr "E-chaski: %1%2"
+
+#  [ES] ""
+#: QObject%2324
+msgid "Title: %1%2"
+msgstr "Qillqa suti: %1%2"
+
+#  [ES] ""
+#: QObject%2325
+msgid "Website: %1%2"
+msgstr "Web laphi: %1%2"
+
+#  [ES] ""
+#: QObject%2326
+msgid "Date: %1%2"
+msgstr "Uru jakhu: %1%2"
+
+#  [ES] ""
+#: QObject%2327
+msgid "avcodec_alloc_context3() failed."
+msgstr "avcodec_alloc_context3() pantjiwa."
+
+#  [ES] "Búsqueda/filtro en diccionario (Ctrl+F)"
+#: QuickFilterLine%231
+msgid "Dictionary search/filter (Ctrl+F)"
+msgstr "Aru-pirwana thaqhawi / susuña"
+
+#  [ES] "Búsqueda Rápida"
+#: QuickFilterLine%232
+msgid "Quick Search"
+msgstr "Jank'aki thaqhawi"
+
+#  [ES] "Eliminar Búsqueda"
+#: QuickFilterLine%233
+msgid "Clear Search"
+msgstr "Thaqhawi chhaqtayaña"
+
+#  [ES] "ERROR: %1"
+#: ResourceToSaveHandler%231
+msgctxt "ResourceToSaveHandler#1"
+msgid "ERROR: %1"
+msgstr "PANTJATA: %1"
+
+#  [ES] "Error al guardar recurso:"
+#: ResourceToSaveHandler%232
+msgid "Resource saving error: "
+msgstr "Yatiyawi jalsu imasisinxa pantjasiwa: "
+
+#  [ES] "No se ha podido descargar recurso referenciado."
+#: ResourceToSaveHandler%233
+msgctxt "ResourceToSaveHandler#3"
+msgid "The referenced resource failed to download."
+msgstr "Internet ukata apaqasinxa pantjiwa."
+
+#  [ES] ""
+#: ResourceToSaveHandler%234
+msgctxt "ResourceToSaveHandler#4"
+msgid "WARNING: %1"
+msgstr "UKATARAKI: %1"
+
+#  [ES] "Hepburn Romaji para Hiragana"
+#: Romaji%231
+msgid "Hepburn Romaji for Hiragana"
+msgstr "Romanización hepburn de Hiragana"
+
+#  [ES] "Hepburn Romaji para Katakana"
+#: Romaji%232
+msgid "Hepburn Romaji for Katakana"
+msgstr "Romanización hepburn de Katakana"
+
+#  [ES] "Transliteración del ruso"
+#: RussianTranslit%231
+msgid "Russian Transliteration"
+msgstr "Rusu aruta qillqawi"
+
+#  [ES] ""
+#: ScanFlag%231
+msgid "MainWindow"
+msgstr "Nayrankiri wintana"
+
+#. (obsolete)
+#: ScanPopup%231
+msgid "%1 results differing in diacritic marks"
+msgstr "%1 mayjtata arunaka jisk'a qillqa chimpumpi (´`¨˜¯)"
+
+#. (obsolete)
+#: ScanPopup%232
+msgid "%1 result(s) beginning with the search word"
+msgstr "Aru thaqhatampixa %1wa qallti"
+
+#  [ES] "Diálogo"
+#: ScanPopup%233
+msgid "Dialog"
+msgstr "Tantachawi aru"
+
+#  [ES] "palabra"
+#. (obsolete)
+#: ScanPopup%234
+msgid "word"
+msgstr "aru"
+
+#  [ES] "Listar Coincidencias (Alt+M)"
+#. (obsolete)
+#: ScanPopup%235
+msgid "List Matches (Alt+M)"
+msgstr "Jikita arunaka uñachayaña (Alt+M)"
+
+#  [ES] "Alt+M"
+#. (obsolete)
+#: ScanPopup%236
+msgid "Alt+M"
+msgstr "Alt+M"
+
+#  [ES] "Pronunciar palabra (Alt+S)"
+#: ScanPopup%237
+msgctxt "ScanPopup#7"
+msgid "Pronounce Word (Alt+S)"
+msgstr "Aru arst'aña (Alt+S)"
+
+#  [ES] "Alt+S"
+#: ScanPopup%238
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#  [ES] "Muestra u oculta la barra de diccionarios"
+#: ScanPopup%239
+msgid "Shows or hides the dictionary bar"
+msgstr "Aru-pirwa uñachayama jani ukjaxa imantama"
+
+#  [ES] ""
+#  [ES] "Utilice esta opción para fijar la ventana de manera que permanezca inmóvil "
+#  [ES] "en la pantalla,\n"
+#  [ES] "se pueda redimensionar o se pueda manipular de otras maneras."
+#: ScanPopup%2310
+msgid ""
+"Use this to pin down the window so it would stay on screen,\n"
+"could be resized or managed in other ways."
+msgstr ""
+"Utilice esto para fijar la ventana en la pantalla,\n"
+"redimensionarla o gerenciarla en otra manera."
+
+#. (obsolete)
+#: ScanPopup%2311
+msgid "List matches"
+msgstr "Jikhthaptanakata tanta"
+
+#  [ES] "..."
+#: ScanPopup%2312
+msgctxt "ScanPopup#12"
+msgid "..."
+msgstr "..."
+
+#. (obsolete)
+#: ScanPopup%2313
+msgctxt "ScanPopup#13"
+msgid "Pronounce word"
+msgstr "Aru arsuña"
+
+#  [ES] "Atrás"
+#: ScanPopup%2314
+msgctxt "ScanPopup#14"
+msgid "Back"
+msgstr ""
+"Nayriri\n"
+"\n"
+"Anterior"
+
+#  [ES] "Adelante"
+#: ScanPopup%2315
+msgctxt "ScanPopup#15"
+msgid "Forward"
+msgstr ""
+"Jutiri\n"
+"\n"
+"Posterior"
+
+#  [ES] "Enviar palabra a la ventana principal (Alt+W)"
+#: ScanPopup%2316
+msgid "Send word to main window (Alt+W)"
+msgstr "Nayrankiri wintanaru aru apayaña (Alt+W)"
+
+#  [ES] "Alt+W"
+#: ScanPopup%2317
+msgid "Alt+W"
+msgstr "Alt+W"
+
+#  [ES] "%1 - %2"
+#: ScanPopup%2318
+msgctxt "ScanPopup#18"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#  [ES] ""
+#: ScanPopup%2319
+msgid "Add word to Favorites (Ctrl+E)"
+msgstr "Munata arunakaru yapaña (Ctrl+E)"
+
+#  [ES] ""
+#: ScanPopup%2320
+msgid "Always stay on top of all other windows"
+msgstr "Aka wintanaxa yaqhipataxa nayrankiripuniwa"
+
+#  [ES] "Ruta"
+#: SoundDirsModel%231
+msgctxt "SoundDirsModel#1"
+msgid "Path"
+msgstr "Thakhi"
+
+#  [ES] "Nombre"
+#: SoundDirsModel%232
+msgctxt "SoundDirsModel#2"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Icono"
+#: SoundDirsModel%233
+msgctxt "SoundDirsModel#3"
+msgid "Icon"
+msgstr "Salta"
+
+#  [ES] "(no disponible en la versión portátil)"
+#: Sources%231
+msgid "(not available in portable version)"
+msgstr "(móvil ukana janiwa lurkiti)"
+
+#  [ES] "Elija un directorio"
+#: Sources%232
+msgid "Choose a directory"
+msgstr "Mä q'ipi ajllima"
+
+#  [ES] "Confirmar la eliminación"
+#: Sources%233
+msgctxt "Sources#3"
+msgid "Confirm removal"
+msgstr "Chhaqtayapunitati"
+
+#  [ES] "Eliminar el directorio <b>%1</b> de la lista?"
+#: Sources%234
+msgid "Remove directory <b>%1</b> from the list?"
+msgstr ""
+"¿<b>%1</b> q'ipi uka tantata chhaqtayaña muntati?<br><br>\n"
+"¿Quiere eliminar el directorio <b>%1</b> de la lista?"
+
+#  [ES] "Eliminar el sitio <b>%1</b> de la lista?"
+#  <b>%1</b> de la lista?
+#: Sources%235
+msgid "Remove site <b>%1</b> from the list?"
+msgstr ""
+"¿<b>%1</b> utjawi tantata chhaqtayaña muntati?<br><br>\n"
+"¿Quiere eliminar el sitio <b>%1</b> de la lista?"
+
+#. (obsolete)
+#: Sources%236
+msgid "Sources"
+msgstr "Yatiyawi jalsunaka"
+
+#  [ES] "Ficheros"
+#: Sources%237
+msgid "Files"
+msgstr "Wayaqanaka"
+
+#  [ES] "Rutas para buscar los ficheros de diccionarios:"
+#: Sources%238
+msgid "Paths to search for the dictionary files:"
+msgstr "Aru-pirwa thaqhañataki thakhinaka:"
+
+#  [ES] "Añad&ir..."
+#: Sources%239
+msgid "&Add..."
+msgstr "&Yapaña..."
+
+#  [ES] "&Eliminar"
+#: Sources%2310
+msgctxt "Sources#10"
+msgid "&Remove"
+msgstr "&Chhaqtayaña"
+
+#  [ES] "Ree&scanear ahora"
+#: Sources%2311
+msgid "Re&scan now"
+msgstr "Jichha &ullaña"
+
+#  [ES] "Directorios de Sonido"
+#: Sources%2312
+msgid "Sound Dirs"
+msgstr "Ist'añataki q'ipinaka"
+
+#  [ES] ""
+#  [ES] "Añada rutas aquí para crear diccionarios a partir de un conjunto de ficheros "
+#  [ES] "de sonido:"
+#: Sources%2313
+msgid "Make dictionaries from bunches of audiofiles by adding paths here:"
+msgstr ""
+"Ist'añataki wayaqanakampi aru-pirwanaka uñstayañataki, thakhinaka yapama:"
+
+#  [ES] "Morfología"
+# t'aqa arunak yatxatawi
+#: Sources%2314
+msgid "Morphology"
+msgstr "Arunakata t'aqa"
+
+#  [ES] "Ruta a un directorio con diccionarios de Hunspell/Myspell:"
+#: Sources%2315
+msgid "Path to a directory with Hunspell/Myspell dictionaries:"
+msgstr "Q'ipita thakhi Hunspell jani ukjaxa Myspell aru-pirwanakampi:"
+
+#  [ES] "Ca&mbiar..."
+#: Sources%2316
+msgid "&Change..."
+msgstr "&Apakipaña..."
+
+#  [ES] "Diccionarios de morfología disponibles:"
+#: Sources%2317
+msgid "Available morphology dictionaries:"
+msgstr "Arunakata-t'aqa pirwa (diccionarios morfológicos) apnaqañataki:"
+
+#  [ES] ""
+#  [ES] "Cada diccionario de morfología aparece como\n"
+#  [ES] "un diccionario auxiliar independiente que\n"
+#  [ES] "proporciona raíces para búsquedas y posibles \n"
+#  [ES] "correcciones para palabras mal escritas.\n"
+#  [ES] "Añada diccionarios apropiados al final\n"
+#  [ES] "de los grupos apropiados para utilizarlos."
+#: Sources%2318
+msgid ""
+"Each morphology dictionary appears as a\n"
+"separate auxiliary dictionary which\n"
+"provides stem words for searches and\n"
+"spelling suggestions for mistyped words.\n"
+"Add appropriate dictionaries to the bottoms\n"
+"of the appropriate groups to use them."
+msgstr ""
+"Sapa arunakata-t'aqa-pirwa uñjasi mä yanapa\n"
+"aru-pirwajama. Thaqhañataki saphi arunakata churi,\n"
+"jani ukjaxa jani wali qillqatanakataki amuyt'aya.\n"
+"Aka arunakata-t'aqa-pirwanaka qutunakaru\n"
+"yapama apnaqañataki.\n"
+"\n"
+"Cada diccionario de morfología aparece como\n"
+"un diccionario auxiliar independiente que\n"
+"proporciona raíces para búsquedas y posibles\n"
+"correcciones para palabras mal escritas.\n"
+"Añada diccionarios apropiados al final\n"
+"de los grupos apropiados para utilizarlos."
+
+#  [ES] "Sitios Web"
+#: Sources%2319
+msgid "Websites"
+msgstr "Web laphinaka"
+
+#  [ES] ""
+#  [ES] "Cualquier sitio web. Se reemplazará la cadena %GDWORD% con la palabra "
+#  [ES] "buscada:"
+#: Sources%2320
+msgid "Any websites. A string %GDWORD% will be replaced with the query word:"
+msgstr ""
+"Web laphi kawkirsa. Mä qillqata %GDWORD% aru thaqhata ukampiwa turkasini:"
+
+#  [ES] "También puede utilizar %GD1251% para CP1251, %GDISO1% para ISO 8859-1."
+#  Alternativamente, use %GD1251% en lugar de CP1251, %GDISO1% en lugar de ISO 8859-1.
+#. (obsolete)
+#: Sources%2321
+msgid "Alternatively, use %GD1251% for CP1251, %GDISO1% for ISO 8859-1."
+msgstr ""
+"Jani ukjaxa apnaqama %GD1251% aka lanti CP1251, %GDISO1% aka lanti ISO-8859-1."
+
+#  [ES] "Forvo"
+#: Sources%2322
+msgid "Forvo"
+msgstr "Forvo"
+
+#  [ES] ""
+#  [ES] "Pronunciación de palabras de <a href=\"http://www.forvo.com/\">forvo.com</a>"
+#  [ES] ". Este sitio permite a la gente grabar y compartir pronunciaciones de "
+#  [ES] "palabras. Puede escucharlas desde GoldenDict."
+#: Sources%2323
+msgid ""
+"Live pronunciations from <a href=\"http://www.forvo.com/\">forvo.com</a>. The "
+"site allows people to record and share word pronunciations. You can listen to "
+"them from GoldenDict."
+msgstr ""
+"<a href=\"http://www.forvo.com/\">forvo.com</a> ukampi arunaka arst'awi. "
+"Akampixa imasmawa ukhamaraki arunaka jaljasmawa. GoldenDict ukana Forvo "
+"ukampi ist'asmawa."
+
+#  [ES] "Activar pronunciaciones desde Forvo"
+#: Sources%2324
+msgid "Enable pronunciations from Forvo"
+msgstr "Forvompi arst'ayasiña"
+
+#  [ES] "clave de la API:"
+#: Sources%2325
+msgid "API Key:"
+msgstr "API chimpu (clave):"
+
+#  [ES] ""
+#  [ES] "Para utilizar Forvo se necesita una clave de la API. Deje vacío este campo\n"
+#  [ES] "para usar la clave por defecto, que puede no estar disponible en el futuro,\n"
+#  [ES] "o regístrese en el sitio para obtener su propia clave."
+#: Sources%2326
+msgid ""
+"Use of Forvo currently requires an API key. Leave this field\n"
+"blank to use the default key, which may become unavailable\n"
+"in the future, or register on the site to get your own key."
+msgstr ""
+"Forvo apnaqañatakixa API chimpumpi mantani. Programa ukata chimpu \n"
+"apnaqañataki, ch'usaki jaytama. Inacha aka chimpu jutiri pachana janiwa "
+"lurkaniti.\n"
+"Jani ukjaxa API chimpuniñataqixa Forvo laphi ukaru qillqayasima."
+
+#  [ES] ""
+#  [ES] "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#  [ES] "REC-html40/strict.dtd\">(new line)\n"
+#  [ES] "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\""
+#  [ES] ">(new line)\n"
+#  [ES] "p, li { white-space: pre-wrap; }(new line)\n"
+#  [ES] "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+#  [ES] "weight:400; font-style:normal;\">(new line)\n"
+#  [ES] "<table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+#  [ES] "margin-left:4px; margin-right:4px;\">(new line)\n"
+#  [ES] "<tr>(new line)\n"
+#  [ES] "<td style=\"border: none;\">(new line)\n"
+#  [ES] "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#  [ES] "right:0px; -qt-block-indent:0; text-indent:0px;\">Obtenga su propia clave <a "
+#  [ES] "href=\"http://api.forvo.com/key/\"><span style=\" text-decoration: underline;"
+#  [ES] " color:#0057ae;\">aquí</span></a>, o deje vacío para usar la clave por "
+#  [ES] "defecto.</p></td></tr></table></body></html>"
+#. (obsolete)
+#: Sources%2327
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+"margin-left:4px; margin-right:4px;\">\n"
+"<tr>\n"
+"<td style=\"border: none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Get your own key <a href="
+"\"http://api.forvo.com/key/\"><span style=\" text-decoration: underline; "
+"color:#0057ae;\">here</span></a>, or leave blank to use the default one.</p></"
+"td></tr></table></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+"margin-left:4px; margin-right:4px;\">\n"
+"<tr>\n"
+"<td style=\"border: none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Obtenga tu propria clave <a "
+"href=\"http://api.forvo.com/key/\"><span style=\" text-decoration: underline; "
+"color:#0057ae;\">aquí</span></a>, o deje en blanco para utilizar la clave por "
+"defecto.</p></td></tr></table></body></html>"
+
+#  [ES] "Códigos de idioma (separados por comas):"
+#: Sources%2328
+msgid "Language codes (comma-separated):"
+msgstr "Aru chimpunaka (comas ukampi jaljtata):"
+
+#  [ES] "Lista de códigos de lenguaje que desea. Ejemplo: \"en, ru\"."
+#: Sources%2329
+msgid "List of language codes you would like to have. Example: \"en, ru\"."
+msgstr "Arunaka jumataki apnaqañamataki. akhama: \"en, ru, es\"."
+
+#  [ES] ""
+#  [ES] "La lista completa de códigos de lenguaje está disponible <a href=\""
+#  [ES] "http://www.forvo.com/languages-codes/\">aquí</a>."
+#: Sources%2330
+msgid ""
+"Full list of language codes is available <a href=\"http://www.forvo.com/"
+"languages-codes/\">here</a>."
+msgstr ""
+"Aru chimpunaka tanta <a href=\"http://www.forvo.com/languages-codes/"
+"\">akankiwa</a>."
+
+#  [ES] "Transliteración"
+#: Sources%2331
+msgid "Transliteration"
+msgstr "Yaqha qillqata qillqa"
+
+#  [ES] "Transliteración del ruso"
+#: Sources%2332
+msgid "Russian transliteration"
+msgstr "Rusa aruta qillqata"
+
+#  [ES] "Transliteración del griego"
+#: Sources%2333
+msgid "Greek transliteration"
+msgstr "Griega aruta qillqata"
+
+#  [ES] "Transliteración del alemán"
+#: Sources%2334
+msgid "German transliteration"
+msgstr "Alemana aruta qillqata"
+
+#  [ES] "Permite utilizar el alfabeto latino para escribir en el idioma japonés"
+#: Sources%2335
+msgid "Enables to use the Latin alphabet to write the Japanese language"
+msgstr "Romano aru uskuma japonesa aruta qillqañataki"
+
+#  [ES] "Romaji Japonés"
+#: Sources%2336
+msgid "Japanese Romaji"
+msgstr "Japonés Roma arunimpi"
+
+#  [ES] "Sistemas:"
+#: Sources%2337
+msgid "Systems:"
+msgstr "Kunjamasa qillqaña:"
+
+#  [ES] ""
+#  [ES] "El método más utilizado para la transcripción del japonés,\n"
+#  [ES] "basado en la fonología del inglés"
+#: Sources%2338
+msgid ""
+"The most widely used method of transcription of Japanese,\n"
+"based on English phonology"
+msgstr ""
+"Japonés aru qillqañataki,\n"
+"ingles arusutampiwa lurata"
+
+#  [ES] "Hepburn"
+#: Sources%2339
+msgid "Hepburn"
+msgstr "Hepburn"
+
+#. (obsolete)
+#: Sources%2340
+msgid ""
+"The most regular system, having a one-to-one relation to the\n"
+"kana writing systems. Standardized as ISO 3602\n"
+"Not implemented yet in GoldenDict."
+msgstr ""
+"El sistema más utilizado, con una relación uno-a-uno con sistemas de "
+"escritura kana.\n"
+"Su estándar es ISO-3602.\n"
+"Todavia no implementado en GoldenDict."
+
+#  [ES] "Nihon-shiki"
+#: Sources%2341
+msgid "Nihon-shiki"
+msgstr "Nihon-shiki"
+
+#. (obsolete)
+#: Sources%2342
+msgid ""
+"Based on Nihon-shiki system, but modified for modern standard Japanese.\n"
+"Standardized as ISO 3602\n"
+"Not implemented yet in GoldenDict."
+msgstr ""
+"Basado en el sistema Nihon-shiki, pero modificado para el japonés moderno "
+"estándar.\n"
+"Estandarizado como ISO 3602\n"
+"Todavía no implementado en GoldenDict."
+
+#  [ES] "Kunrei-shiki"
+#: Sources%2343
+msgid "Kunrei-shiki"
+msgstr "Kunrei-shiki"
+
+#  [ES] "Silabarios:"
+#: Sources%2344
+msgid "Syllabaries:"
+msgstr "Arsull-pirwa (silabario):"
+
+#  [ES] "Silabario japonés Hiragana"
+#: Sources%2345
+msgid "Hiragana Japanese syllabary"
+msgstr "Silabario de Japonés Hiragana"
+
+#  [ES] "Hiragana"
+#: Sources%2346
+msgid "Hiragana"
+msgstr "Hiragana"
+
+#  [ES] "Silabario japonés Katakana"
+#: Sources%2347
+msgid "Katakana Japanese syllabary"
+msgstr "Silabario de Japonés Katakana"
+
+#  [ES] "Katakana"
+#: Sources%2348
+msgid "Katakana"
+msgstr "Katakana"
+
+#. (obsolete)
+#: Sources%2349
+msgid ""
+"Each morphology dictionary appears as a separate auxiliary dictionary which "
+"provides stem words for searches and spelling suggestions for mistyped words. "
+"Add appropriate dictionaries to the bottoms of the appropriate groups to use "
+"them."
+msgstr ""
+"Sapa arunakata-t'aqa-pirwa uñjasi mä yanapa aru-pirwajama. Thaqhañataki saphi "
+"arunakata churi, jani ukjaxa jani wali qillqatanakataki amuyt'aya. Aka "
+"arunakata-t'aqa-pirwanaka qutunakaru yapama apnaqañataki."
+
+#  [ES] "Wikipedia"
+#: Sources%2350
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+#  [ES] "Sitios de Wikipedia (MediaWiki):"
+#: Sources%2351
+msgid "Wikipedia (MediaWiki) sites:"
+msgstr "Wikipedia (MediaWiki) web laphinaka:"
+
+#  [ES] "Programas"
+#: Sources%2352
+msgid "Programs"
+msgstr "Programanaka"
+
+#  [ES] ""
+#  [ES] "El sistema más regular, con una relación de uno a uno con el\n"
+#  [ES] "sistema de escritura kana. Estandarizado como ISO 3602\n"
+#  [ES] "\n"
+#  [ES] "Todavía no implementado en GoldenDict."
+#: Sources%2353
+msgid ""
+"The most regular system, having a one-to-one relation to the\n"
+"kana writing systems. Standardized as ISO 3602\n"
+"\n"
+"Not implemented yet in GoldenDict."
+msgstr ""
+"El sistema más utilizado, con una relación uno-a-uno con sistemas de "
+"escritura kana.\n"
+"Su estándar es ISO-3602.\n"
+"Todavia no implementado en GoldenDict."
+
+#  [ES] ""
+#  [ES] "Basado en el sistema Nihon-shiki, pero modificado para el japonés estándar "
+#  [ES] "moderno.\n"
+#  [ES] "Estandarizado como ISO 3602\n"
+#  [ES] "\n"
+#  [ES] "Todavía no implementado en GoldenDict."
+#: Sources%2354
+msgid ""
+"Based on Nihon-shiki system, but modified for modern standard Japanese.\n"
+"Standardized as ISO 3602\n"
+"\n"
+"Not implemented yet in GoldenDict."
+msgstr ""
+"Basado en el sistema Nihon-shiki, pero modificado para el japonés moderno "
+"estándar.\n"
+"Estandarizado como ISO 3602\n"
+"Todavía no implementado en GoldenDict."
+
+#  [ES] "Eliminar el programa <b>%1</b> de la lista?"
+#: Sources%2355
+msgid "Remove program <b>%1</b> from the list?"
+msgstr ""
+"¿<b>%1</b> programa tantata apaqaña muntati?<br><br>\n"
+"¿Quiere eliminar el programa <b>%1</b> de la lista?"
+
+#  [ES] "Transliteración del bielorruso"
+#: Sources%2356
+msgid "Belarusian transliteration"
+msgstr "Beloruso aruta qillqata"
+
+#  [ES] ""
+#  [ES] "Obtenga su propia clave <a href=\"http://api.forvo.com/key/\">aquí</a>, or "
+#  [ES] "déjela en blanco para usar la clave por defecto."
+#: Sources%2357
+msgid ""
+"Get your own key <a href=\"http://api.forvo.com/key/\">here</a>, or leave "
+"blank to use the default one."
+msgstr ""
+"Imantata chimpuma jikxatama <a href=\"http://api.forvo.com/key/\">akana</a>, "
+"jani ukaxa ch'usaki jaytama, programa ukata chimpu apnaqañataki."
+
+#  [ES] ""
+#  [ES] "También puede usar %GD1251% para CP1251, %GDISO1%...%GDISO16% para ISO 8859-"
+#  [ES] "1...ISO 8859-16,\n"
+#  [ES] "%GDBIG5% para Big-5, %GDBIG5HKSCS% para Big5-HKSCS, %GDGBK% para GBK y "
+#  [ES] "GB18030, y %GDSHIFTJIS% para Shift-JIS."
+#: Sources%2358
+msgid ""
+"Alternatively, use %GD1251% for CP1251, %GDISO1%...%GDISO16% for ISO 8859-1..."
+"ISO 8859-16 respectively,\n"
+"%GDBIG5% for Big-5, %GDBIG5HKSCS% for Big5-HKSCS, %GDGBK% for GBK and "
+"GB18030, %GDSHIFTJIS% for Shift-JIS."
+msgstr ""
+"Jani ukjaxa apnaqam %GD1251% aka lanti CP1251, %GDISO1%...%GDISO16% aka lanti "
+"ISO-8859-1...ISO-8859-16, %GDBIG5% aka lanti Big-5,\n"
+"%GDBIG5HKSCS% aka lanti Big5-HKSCS, %GDGBK% aka lanti GBK ukhamaraki GB18030, "
+"%GDSHIFTJIS% aka lanti Shift-JIS.\n"
+"\n"
+"También puede usar %GD1251% para CP1251, %GDISO1%...%GDISO16% para ISO "
+"8859-1...ISO 8859-16, %GDBIG5% para Big-5,\n"
+"%GDBIG5HKSCS% para Big5-HKSCS, %GDGBK% para GBK y GB18030, y %GDSHIFTJIS% "
+"para Shift-JIS."
+
+#  [ES] "Síntesis de Voz"
+#: Sources%2359
+msgid "Text to Speech"
+msgstr "Qillqata aru arsuri"
+
+#  [ES] ""
+#  [ES] "Se puede especificar cualquier programa externo. Se sustituirá el texto "
+#  [ES] "%GDWORD% por la palabra a buscar. Si este texto no está presente, se enviará "
+#  [ES] "la palabra a la entrada estándar."
+#: Sources%2360
+msgid ""
+"Any external programs. A string %GDWORD% will be replaced with the query "
+"word. If such string is not presented, the word will be fed into standard "
+"input."
+msgstr ""
+"Yaqha programa kawkirsa. Mä qillqata %GDWORD% aru thaqhata ukampiwa "
+"turkasini. Jani aka qillqata utjkanixa, aru thaqhani."
+
+#  [ES] ""
+#: Sources%2361
+msgid "DICT servers"
+msgstr "DICT servidores"
+
+#  [ES] ""
+#: Sources%2362
+msgid "DICT servers:"
+msgstr "DICT servidores:"
+
+#  [ES] "Ninguno"
+#: StylesComboBox%231
+msgctxt "StylesComboBox#1"
+msgid "None"
+msgstr "Ni maya"
+
+#  [ES] "Motores de voz seleccionados:"
+#: TextToSpeechSource%231
+msgid "Selected voice engines:"
+msgstr "Arsuyirinaka ajllita:"
+
+#  [ES] "&Añadir"
+#: TextToSpeechSource%232
+msgid "&Add"
+msgstr "&Yapaña"
+
+#  [ES] "&Eliminar"
+#: TextToSpeechSource%233
+msgctxt "TextToSpeechSource#3"
+msgid "&Remove"
+msgstr "&Chhaqtayaña"
+
+#  [ES] "Previsualización"
+#: TextToSpeechSource%234
+msgid "Preview"
+msgstr "Nayraqata uñjañataki"
+
+#  [ES] "Motores de voz disponibles:"
+#: TextToSpeechSource%235
+msgid "Available voice engines:"
+msgstr "Arsuyirinaka apnaqañataki:"
+
+#  [ES] "Texto a previsualizar:"
+#: TextToSpeechSource%236
+msgid "Text to be previewed:"
+msgstr "Nayraqata qillqa uñjañataki:"
+
+#  [ES] "Introduzca aquí el texto a previsualizar."
+#: TextToSpeechSource%237
+msgid "Type text to be previewed here."
+msgstr "Nayraqata uñjañataki uka akana qillqaña."
+
+#  [ES] "&Previsualización"
+#: TextToSpeechSource%238
+msgid "&Preview"
+msgstr "&Nayraqata uñjañataki"
+
+#  [ES] "No hay ninguna voz de síntesis (TTS) disponible"
+#: TextToSpeechSource%239
+msgid "No TTS voice available"
+msgstr "Janiwa TTS ist'ayirixa utjkiti"
+
+#  [ES] "Confirmar la eliminación"
+#: TextToSpeechSource%2310
+msgctxt "TextToSpeechSource#10"
+msgid "Confirm removal"
+msgstr "Chhaqtayapunitati"
+
+#  [ES] "Eliminar el motor de síntesis de voz <b>%1</b> de la lista?"
+#: TextToSpeechSource%2311
+msgid "Remove voice engine <b>%1</b> from the list?"
+msgstr ""
+"¿<b>%1</b> arst'ayiri aka tantataxa chhaqtayaña muntati?<br><br>\n"
+"¿Quiere eliminar el motor de síntesis de voz <b>%1</b> de la lista?"
+
+#  [ES] ""
+#  [ES] "No se ha encontrado ninguna voz de síntesis (TTS).<br>Por favor, verifique "
+#  [ES] "que hay al menos un motor de síntesis de voz (TTS) instalado en su ordenador."
+#: TextToSpeechSource%2312
+msgid ""
+"Cannot find available TTS voice.<br>Please make sure that at least one TTS "
+"engine installed on your computer already."
+msgstr ""
+"TTS arst'ayirix janiwa jikiñjamakiti.<br>Computadoramanaxa TTS arst'ayirixa "
+"utjapuniñapawa."
+
+#  [ES] "Preferencias"
+#: TextToSpeechSource%2313
+msgctxt "TextToSpeechSource#13"
+msgid "Preferences"
+msgstr "Ajlliñanaka"
+
+#  [ES] "Volumen:"
+#: TextToSpeechSource%2314
+msgid "Volume:"
+msgstr "Qawqha arsuña:"
+
+#  [ES] "Velocidad:"
+#: TextToSpeechSource%2315
+msgid "Rate:"
+msgstr "Qawqha jalaña:"
+
+#  [ES] "Introduzca una palabra o un texto para buscar en los diccionarios"
+#: TranslateBox%231
+msgid "Type a word or phrase to search dictionaries"
+msgstr "Aru-pirwanakana thaqhañatakixa mä aru qillqaña"
+
+#  [ES] "Mostrar coincidencias"
+#: TranslateBox%232
+msgid "Drop-down"
+msgstr "Janatatasispawa"
+
+#  [ES] "Activado"
+#: VoiceEnginesModel%231
+msgctxt "VoiceEnginesModel#1"
+msgid "Enabled"
+msgstr "Naktata"
+
+#  [ES] "Nombre"
+#: VoiceEnginesModel%232
+msgctxt "VoiceEnginesModel#2"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Id"
+#: VoiceEnginesModel%233
+msgid "Id"
+msgstr "Chimpu uñt'añataki"
+
+#  [ES] "Icono"
+#: VoiceEnginesModel%234
+msgctxt "VoiceEnginesModel#4"
+msgid "Icon"
+msgstr "Salta"
+
+#  [ES] "Activado"
+#: WebSitesModel%231
+msgctxt "WebSitesModel#1"
+msgid "Enabled"
+msgstr "Naktata"
+
+#  [ES] "Nombre"
+#: WebSitesModel%232
+msgctxt "WebSitesModel#2"
+msgid "Name"
+msgstr "Suti"
+
+#  [ES] "Dirección"
+#: WebSitesModel%233
+msgctxt "WebSitesModel#3"
+msgid "Address"
+msgstr "Web utjäwi"
+
+#  [ES] "Icono"
+#: WebSitesModel%234
+msgctxt "WebSitesModel#4"
+msgid "Icon"
+msgstr "Salta"
+
+#  [ES] ""
+#: WebSitesModel%235
+msgid "Insert article as link inside <iframe> tag"
+msgstr ""
+"<iframe> manqhanxa chinuñajama qillqata unchataña.\n"
+"\n"
+"Insertar artículo como un enlace adentro de un <iframe>."
+
+#  [ES] ""
+#: WebSitesModel%236
+msgid "As link"
+msgstr "Chinuñajama"
+
+#  [ES] "No se ha podido consultar algunos diccionarios."
+#: WordFinder%231
+msgid "Failed to query some dictionaries."
+msgstr "Phantjiwa aru pirwa thaqhawi."
+
+#  [ES] "AVISO: %1"
+#: WordList%231
+msgctxt "WordList#1"
+msgid "WARNING: %1"
+msgstr "UKATARAKI: %1"

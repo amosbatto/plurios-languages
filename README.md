@@ -87,12 +87,12 @@ If using a Debian-based distro with the Cinnamon interface, download the
 
 `sudo dpkg -i plurios-languages_0.1-0_all.deb`
 
-Then, run the `plurios` script to install the language files for either Aymara ("ay")
-or Spanish ("es"):
+Then, run the `plurios` script to install the language files for Aymara ("ay"), 
+official Aymara without elision ("ay-oficial") or Spanish ("es"):
 
 `sudo plurios -l ay`
 
-or:
+`sudo plurios -l ay-oficial`
 
 `sudo plurios -l es`
 
@@ -123,10 +123,13 @@ For help using the `plurios` script, use the `-h` option:
 
 ## Constructing the `plurios-languages` package
 
-To build the `plurios-languages` package, download the `plurios-languages_0.1-0_all` 
+To build the `plurios-languages` package, download the `plurios-languages` 
 directory. Then, issue the following command:
 
-`dpkg-deb --build --root-owner-group plurios-languages_0.1-0_all`
+`dpkg-deb --build --root-owner-group plurios-languages plurios-languages_0.2-0_all.deb`
+
+Where `0.2` is the program's version number, `-0` is the revision number of the package
+and `all` is the architecture (`amd64`, `i386`, `arm64` or `all` for all architectures).
 
 If needing to add additional language files to the package, then they needed to
 be added in the location:  

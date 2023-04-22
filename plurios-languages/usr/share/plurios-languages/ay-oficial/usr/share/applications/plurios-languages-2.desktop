@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Cambiar a castellano
+Name[es]=Castellano aru ukan uñachayaña
+Name[es_ES]=Castellano aru ukan uñachayaña
+Comment=Cambie la interfaz de PluriOS a aymara
+Comment[es]=Castellano arun PluriOS uka interfaz uñachayam
+Exec=sudo /usr/bin/plurios -l es
+Icon=preferences-desktop-locale
+Terminal=true
+Type=Application
+Categories=GNOME;GTK;Settings;DesktopSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel;X-GNOME-PersonalSettings;PluriOS
+NotShowIn=KDE;
+X-GNOME-Settings-Panel=language
+X-Unity-Settings-Panel=language
+Keywords=Language;Interface;Region;Format;

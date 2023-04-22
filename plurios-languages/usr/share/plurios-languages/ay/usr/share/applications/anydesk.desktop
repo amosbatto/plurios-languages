@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=AnyDesk
+GenericName=AnyDesk
+X-GNOME-FullName=AnyDesk
+Exec=/usr/bin/anydesk %u
+Icon=anydesk
+Terminal=false
+TryExec=anydesk
+Categories=Network;GTK;
+MimeType=x-scheme-handler/anydesk;
+Name[de_DE]=AnyDesk
+Comment=Access remote desktops
+Comment[es]=Jaya iskrituryunakar mantam
+Comment[ay]=Jaya iskrituryunakar mantam

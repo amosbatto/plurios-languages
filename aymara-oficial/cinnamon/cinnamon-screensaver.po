@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-screensaver\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-09 12:24+0000\n"
+"PO-Revision-Date: 2022-10-30 19:01-0400\n"
+"Last-Translator: Amos Batto <amosbatto@yahoo.com>\n"
+"Language-Team: Aymara <aym@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Launchpad-Export-Date: 2021-02-24 13:32+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ay\n"
+
+#  [es] "Indica al salvapantallas que termine correctamente"
+#: src/cinnamon-screensaver-command.py:37
+msgid "Causes the screensaver to exit gracefully"
+msgstr "Qhispiyiri pantalllanakaxa waliki tukuyañapawa"
+
+#  [es] "Consulta el estado del salvapantallas"
+#: src/cinnamon-screensaver-command.py:39
+msgid "Query the state of the screensaver"
+msgstr "Jiskht'awi, qhispiyiri pantallanakaxa kunjamaskisa"
+
+#  [es] "Consulta cuánto tiempo ha estado activo el salvapantallas"
+#: src/cinnamon-screensaver-command.py:41
+msgid "Query the length of time the screensaver has been active"
+msgstr "Jiskht'awi, qawqha pachasa qhispiyiri pantallaxa naktayataxa"
+
+#  [es] ""
+#  [es] "Indica al proceso del salvapantallas que bloquee la pantalla inmediatamente"
+#: src/cinnamon-screensaver-command.py:43
+msgid "Tells the running screensaver process to lock the screen immediately"
+msgstr "Qhispiyiri pantallanakaxa jank'aki pantallaxa jark'antañapawa"
+
+#  [es] "Activa el salvapantallas (oscurece la pantalla)"
+#: src/cinnamon-screensaver-command.py:45
+msgid "Turn the screensaver on (blank the screen)"
+msgstr "Qhispiyiri pantallanaka naktayaña (pantalla ch'amakt'ayaña)"
+
+#  [es] "Desactiva el salvapantallas si está activo (restablece la pantalla)"
+#: src/cinnamon-screensaver-command.py:47
+msgid "If the screensaver is active then deactivate it (un-blank the screen)"
+msgstr "Luraskisa ukaxa qhispiyiri pantallanaka jiwt'ayama (nayriri pantallaru kuttayaña)"
+
+#  [es] "Versión de esta aplicación"
+#: src/cinnamon-screensaver-command.py:49
+msgid "Version of this application"
+msgstr "Aka aplikasiyunata jakhu uñjawi"
+
+#  [es] "Mensaje que se muestra al bloquear la pantalla"
+#: src/cinnamon-screensaver-command.py:51
+msgid "Message to be displayed in lock screen"
+msgstr "Pantalla jark'antasaxa aka pantalla uñachayi"
+
+#  [es] "El salvapantallas está activo\n"
+#: src/cinnamon-screensaver-command.py:80
+msgid "The screensaver is active\n"
+msgstr "Qhispiyiri pantallanakaxa naktatawa\n"
+
+#  [es] "El salvapantallas está inactivo\n"
+#: src/cinnamon-screensaver-command.py:82
+msgid "The screensaver is inactive\n"
+msgstr "Qhispiyiri pantallanakaxa jiwt'atawa\n"
+
+#  [es] "El salvapantallas no está activo  en este momento.\n"
+#: src/cinnamon-screensaver-command.py:86
+msgid "The screensaver is not currently active.\n"
+msgstr "Jichhaxa qhispiyiri pantallanakaxa jiwt'atawa.\n"
+
+#  [es] msgstr[0] "El salvapantallas ha estado activo durante %d segundo.\n"
+#  [es] msgstr[1] "El salvapantallas ha estado activo durante %d segundos.\n"
+#: src/cinnamon-screensaver-command.py:88
+#, python-format
+msgid "The screensaver has been active for %d second.\n"
+msgid_plural "The screensaver has been active for %d seconds.\n"
+msgstr[0] "Qhispiyiri pantallanakaxa %d ch’ipxta naktata\n"
+msgstr[1] "Qhispiyiri pantallanakaxa %d ch’ipxtanakawa naktata\n"
+
+#  [es] "Escriba la contraseña..."
+#: src/passwordEntry.py:23 src/unlock.py:203
+msgid "Please enter your password..."
+msgstr "Jamasata aru qillqama..."
+
+#  [es] "Desbloquear"
+#: src/unlock.py:90
+msgid "Unlock"
+msgstr "Jist'arayaña"
+
+#  [es] "Cambiar de usuario"
+#: src/unlock.py:98
+msgid "Switch User"
+msgstr "Yaqha apnaqiri uskuña"
+
+#  [es] "Contraseña incorrecta"
+#: src/unlock.py:181
+msgid "Incorrect password"
+msgstr "Jamasata aru ukaxa janiwa walikiti"
+
+#  [es] "Comprobando..."
+#: src/unlock.py:195
+msgid "Checking..."
+msgstr "Uñakipaskiwa..."
+
+#  [es] "La tecla Bloq Mayús está activada."
+#: src/unlock.py:241
+msgid "You have the Caps Lock key on."
+msgstr "Bloq Mayús tiklaxa naktatawa."

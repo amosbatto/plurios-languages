@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=Video tutoriales Plataforma Min. Educación
+Name[es]=Yatichäw Kamanin yatichañatak videonaka
+Name[ay]=Yatichäw Kamanin yatichañatak videonaka
+Comment=Video tutoriales para uso de recursos de la plataforma Min. Educación
+Comment[es]=Yatichañatak videonak, Yatichäw Kamanin web chiqawja apnaqañataki
+Comment[ay]=Yatichañatak videonak, Yatichäw Kamanin web chiqawja apnaqañataki
+GenericName=Web Browser
+GenericName[es]=Navegador web
+Exec=firefox %u http://educa.minedu.gob.bo/tutoriales
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=video-x-generic-symbolic
+Categories=PluriOS;GNOME;GTK;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
+Actions=new-window;new-private-window;
+

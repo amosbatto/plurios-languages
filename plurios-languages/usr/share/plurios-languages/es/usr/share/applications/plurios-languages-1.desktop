@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Cambiar a aymara (con elisión)
+Name[es]=Cambiar a aymara (con elisión)
+Name[es_ES]=Cambiar a aymara (con elisión)
+Comment=Cambie la interfaz de PluriOS a aymara (con elisión)
+Comment[es]=Cambie la interfaz de PluriOS a aymara (con elisión)
+Comment[es_ES]=Cambie la interfaz de PluriOS a aymara (con elisión)
+Exec=sudo /usr/bin/plurios -l ay
+Icon=preferences-desktop-locale
+Terminal=true
+Type=Application
+Categories=GNOME;GTK;Settings;DesktopSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel;X-GNOME-PersonalSettings;PluriOS
+NotShowIn=KDE;
+X-GNOME-Settings-Panel=language
+X-Unity-Settings-Panel=language
+Keywords=Language;Interface;Region;Format;
