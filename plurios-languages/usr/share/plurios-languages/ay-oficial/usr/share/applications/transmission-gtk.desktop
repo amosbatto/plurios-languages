@@ -66,8 +66,8 @@ X-GNOME-FullName[vi]=Trình khách BitTorrent Transmission
 X-GNOME-FullName[zh_CN]=Transmission BitTorrent 客户端
 X-GNOME-FullName[zh_TW]=Transmission BitTorrent 用戶端
 Comment=Download and share files over BitTorrent
-Comment[es]=BitTorrent ukat apaqam ukhamaraki wayaqanak lakiram
-Comment[ay]=BitTorrent ukat apaqam ukhamaraki wayaqanak lakiram
+Comment[es]=BitTorrent ukata apaqama ukhamaraki wayaqanaka lakirama
+Comment[ay]=BitTorrent ukata apaqama ukhamaraki wayaqanaka lakirama
 Exec=transmission-gtk %U
 Icon=transmission
 Terminal=false
@@ -82,12 +82,12 @@ Actions=Pause;Minimize;
 
 [Desktop Action Pause]
 Name=Start Transmission with All Torrents Paused
-Name[ay]=Web ukat sayayat apaqatanakampi Transmission qalltaña
-Name[es]=Web ukat sayayat apaqatanakampi Transmission qalltaña
+Name[ay]=Web ukata sayayata apaqatanakampi Transmission qalltaña
+Name[es]=Web ukata sayayata apaqatanakampi Transmission qalltaña
 Exec=transmission-gtk --paused
 
 [Desktop Action Minimize]
 Name=Start Transmission Minimized
-Name[es]=Jisk'ar tukuyat Transmission qalltaña
-Name[ay]=Jisk'ar tukuyat Transmission qalltaña
+Name[es]=Jisk'aru tukuyata Transmission qalltaña
+Name[ay]=Jisk'aru tukuyata Transmission qalltaña
 Exec=transmission-gtk --minimized

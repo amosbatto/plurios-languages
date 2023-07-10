@@ -8,8 +8,8 @@ Name[qu]=AbiWord runasimipi
 GenericName=Procesador de textos en quechua
 GenericName[es]=Procesador de textos en quechua
 Comment=Procesador de textos AbiWord en quechua
-Comment[es]=AbiWord qhichwa aruna qillqatanak askichiri
-Comment[ay]=AbiWord qhichwa aruna qillqatanak askichiri
+Comment[es]=AbiWord qhichwa aruna qillqatanaka askichiri
+Comment[ay]=AbiWord qhichwa aruna qillqatanaka askichiri
 Comment[qu]=AbiWord runasimipi qillqasqakunata ukjinayachiq
 Exec=bash -c "LANG=quh_BO abiword"
 Icon=abiword

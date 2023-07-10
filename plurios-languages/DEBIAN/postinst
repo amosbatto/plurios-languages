@@ -1,0 +1,8 @@
+echo ""
+echo "Despues de instalar este paquete, ejecuta el comando "plurios" en un terminal para cambiar la lengua del sistema."
+echo "Cambiar a español: sudo plurios -l es"
+echo "Cambiar a aymara (con elisión): sudo plurios -l ay"
+echo "Cambiar a aymara oficial: sudo plurios -l ay-oficial"
+echo "Más información: plurios -h"
+echo "Después de ejecutar plurios, es recomendado refrescar la pantalla (oprima ALT + F2 y entrega el comando \"r\") o hacer logout y login otra vez."
+echo ""

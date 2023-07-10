@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-09 12:24+0000\n"
-"PO-Revision-Date: 2023-03-02 19:14-0400\n"
+"PO-Revision-Date: 2023-07-09 21:52-0400\n"
 "Last-Translator: Amos Batto <amosbatto@yahoo.com>\n"
 "Language-Team: Aymara <aym@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -195,7 +195,7 @@ msgstr "Chhaqhtayaña"
 #  [ES] "Propiedades"
 #: files/usr/share/cinnamon/cinnamon-menu-editor/cinnamon-menu-editor.ui.h:11
 msgid "Properties"
-msgstr "Uñjawinaka"
+msgstr "Utjirinaka"
 
 #  [ES] "Editar el archivo de escritorio"
 #: files/usr/share/cinnamon/cinnamon-menu-editor/cinnamon-menu-editor.ui.h:12
@@ -300,7 +300,7 @@ msgid ""
 "This applet does not support panels of that type. This can cause visual "
 "glitches in the panel."
 msgstr ""
-"Aka jisk'a-aplikasiyunaxa janiwa aka kasta wak'anakampixa lurkiti. Janiw suma "
+"Aka jisk'a-aplikasiyunaxa janiwa aka kasta wak'anakampixa lurkiti. Janiwa suma "
 "uñstkiti.\n"
 "\n"
 "Esta miniaplicación no es compatible con paneles de ese tipo. Puede causar "
@@ -315,7 +315,7 @@ msgid ""
 "to move it to a different panel?"
 msgstr ""
 "Sitixa apnaqaña munaskaktaxa, wak'ata chhaqtayañawa, jani ukjaxa yaqha wak'aru "
-"yant'am unxtayaña. Uk muntati?\n"
+"yant'am unxtayaña. Uka muntati?\n"
 "\n"
 "Si quieres continuar usándola, hay que eliminarla del panel o tratar de "
 "moverla a un panel diferente. ¿Quieres hacer esto?"
@@ -425,7 +425,7 @@ msgstr "Controladores irpiri qalltaña"
 #  [ES] "Hubo problemas al iniciar Cinnamon"
 #: js/ui/main.js:539
 msgid "Problems during Cinnamon startup"
-msgstr "Cinnamon qallti ukjaxa pantjawinakaw utji"
+msgstr "Cinnamon qallti ukjaxa pantjawinakawa utji"
 
 #  [ES] ""
 #  [ES] "Cinnamon se ha iniciado correctamente, pero una o más miniaplicaciones, "
@@ -438,7 +438,7 @@ msgid ""
 "\n"
 msgstr ""
 "Cinnamon ukaxa wali sumapuni qallti, ukampisa jisk'a-aplikasiyunanaka, "
-"escritorio ukata jisk'a-aplikasiyunanakaxa jani ukaxa janatatirinakax janiwa "
+"escritorio ukata jisk'a-aplikasiyunanakaxa jani ukaxa janatatirinakaxa janiwa "
 "qalltaña atipkiti.\n"
 "\n"
 "\n"
@@ -597,7 +597,7 @@ msgid ""
 "Are you sure you want to restore all settings to default?\n"
 "\n"
 msgstr ""
-"Mayjachawi ukax kunjamakans ukhama kuttayapunti munta?\n"
+"Mayjachawi ukaxa kunjamakansa ukhama kuttayapunti munta?\n"
 "¿Seguro que quiere restaurar la configuración predeterminada?\n"
 "\n"
 
@@ -646,7 +646,7 @@ msgstr "Jani siksumti, yatiyawinaka chhaqhtayasmawa."
 #: js/ui/placesManager.js:207
 #, javascript-format
 msgid "Unable to stop the drive %s (%s)"
-msgstr "Unidad %s (%s) janiw suyt'kaspati"
+msgstr "Unidad %s (%s) janiwa suyt'kaspati"
 
 #  [ES] "%s (%s) se puede desconectar de forma segura."
 #: js/ui/placesManager.js:223
@@ -697,7 +697,7 @@ msgstr "Chikasiña ukaru..."
 #  [ES] "Escriba una orden:"
 #: js/ui/runDialog.js:167
 msgid "Please enter a command:"
-msgstr "Mä lurayaña qillqam:"
+msgstr "Mä lurayaña qillqama:"
 
 #  [ES] "Mantenga pulsada la tecla Súper para entrar en el modo de anclaje"
 #: js/ui/windowManager.js:978
@@ -1302,7 +1302,7 @@ msgstr "Chikasiwi ukawa pantji"
 #  [ES] "Ha fallado la activación de la conexión de red"
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:1929
 msgid "Activation of network connection failed"
-msgstr "Llika chikasiwitxa, naktayawiw pantji"
+msgstr "Llika chikasiwitxa, naktayawiwa pantji"
 
 #  [ES] "La red está desactivada"
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:2196
@@ -1358,7 +1358,7 @@ msgstr "Jiru ch'ankhampi llika ukaruwa chikasiski"
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:2276
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:2281
 msgid "Connected to the cellular network"
-msgstr "Llika celular ukaruw chikasiski"
+msgstr "Llika celular ukaruwa chikasiski"
 
 #  [ES] "Conectado a la VPN"
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:2285
@@ -1421,12 +1421,12 @@ msgstr[1] "%d k'atanak pasata"
 #  [ES] "Clic para activar/desactivar el teclado en pantalla"
 #: files/usr/share/cinnamon/applets/on-screen-keyboard@cinnamon.org/applet.js:21
 msgid "Click to toggle the on-screen keyboard"
-msgstr "Limt'am naktayañataki/jiwt'ayañataki tiklaru pantalla ukana"
+msgstr "Limt'ama naktayañataki/jiwt'ayañataki tiklaru pantalla ukana"
 
 #  [ES] "Clic para activar el teclado en pantalla"
 #: files/usr/share/cinnamon/applets/on-screen-keyboard@cinnamon.org/applet.js:24
 msgid "Click to enable the on-screen keyboard"
-msgstr "Limt'am naktayañataki tiklaru pantalla ukana"
+msgstr "Limt'ama naktayañataki tiklaru pantalla ukana"
 
 #  [ES] "Iniciar"
 #: files/usr/share/cinnamon/applets/panel-launchers@cinnamon.org/applet.js:44
@@ -1736,8 +1736,8 @@ msgstr "JANK'A TIKLA APNAQTAWA!!!"
 #: files/usr/share/cinnamon/applets/show-desktop@cinnamon.org/applet.js:32
 msgid "Click to show the desktop or middle-click to show the desklets"
 msgstr ""
-"Iskrituryu (escritorio) uñachayañatakixa klik luram jani ukaxa chika taypi "
-"wutunampi klik luram iskrituryuna (escritorio) jisk'a-aplikasyunanaka "
+"Iskrituryu (escritorio) uñachayañatakixa klik lurama, jani ukaxa chika taypi "
+"wutunampi klik lurama iskrituryuna (escritorio) jisk'a-aplikasyunanaka "
 "uñachayañataki"
 
 #  [ES] "Mostrar las miniaplicaciones del escritorio"
@@ -2135,8 +2135,10 @@ msgid ""
 "The executable is not valid. It cannot be empty and spaces in the path must be "
 "escaped with backslash (\\)."
 msgstr ""
-"Aka prugramax janiwa walikiti. Janiwa ch'usakikaspati uskusiñapawa, ukhamaraki "
-"mä \"\\\" uskuñama janiru ch'usawjanakana uskusa."
+"Aka prugramaxa janiwa walikiti. Janiwa ch'usakikaspati uskusiñapawa, "
+"ukhamaraki mä \"\\\" uskuñama janiru ch'usawjanakana uskusa.\n"
+"El ejecutable no es válido. No puede estar vacío, y los espacios deben ser "
+"escapados con una contrabarra ( \\ )."
 
 #  [ES] ""
 #  [ES] "No se puede crear el lanzador en esta ubicación. ¿Quiere crearlo en el "
@@ -2417,7 +2419,7 @@ msgstr "Jani saña"
 #: files/usr/share/cinnamon/cinnamon-settings-users/cinnamon-settings-users.py:88
 msgid "The group name cannot contain upper-case or space characters"
 msgstr ""
-"Tamana sutipax janiwa chusawjanikaspati ukhamaraki janiwa jach'a "
+"Tamana sutipaxa janiwa chusawjanikaspati ukhamaraki janiwa jach'a "
 "qillqanakanikaspati"
 
 #  [ES] "Cambiar la contraseña"
@@ -2532,7 +2534,7 @@ msgid ""
 "    - numerals (0-9)\n"
 "    - '.', '-', and '_' characters"
 msgstr ""
-"Apnaqirina sutipax akanispawa:\n"
+"Apnaqirina sutipaxa akanispawa:\n"
 "    - jisk'a qillqanaka (a-z)\n"
 "    - jakhunaka (0-9)\n"
 "    - '.', '-', ukata '_' chimpunaka"
@@ -2572,7 +2574,7 @@ msgstr "Tamanaka"
 #  [ES] "Haga clic para cambiar la imagen"
 #: files/usr/share/cinnamon/cinnamon-settings-users/cinnamon-settings-users.py:517
 msgid "Click to change the picture"
-msgstr "Klik luram jamuqa mayjaptayañataki"
+msgstr "Klik lurama jamuqa mayjaptayañataki"
 
 #  [ES] "Buscar más imágenes…"
 #: files/usr/share/cinnamon/cinnamon-settings-users/cinnamon-settings-users.py:522
@@ -2583,12 +2585,12 @@ msgstr "Juk'ampi jamuqanaka thaqhaña..."
 #  [ES] "Haga clic para cambiar el nombre"
 #: files/usr/share/cinnamon/cinnamon-settings-users/cinnamon-settings-users.py:558
 msgid "Click to change the name"
-msgstr "Klik luram suti mayjaptayañataki"
+msgstr "Klik lurama suti mayjaptayañataki"
 
 #  [ES] "Haga clic para cambiar la contraseña"
 #: files/usr/share/cinnamon/cinnamon-settings-users/cinnamon-settings-users.py:565
 msgid "Click to change the password"
-msgstr "Klik luram jamasata aru mayjaptayañataki"
+msgstr "Klik lurama jamasata aru mayjaptayañataki"
 
 #  [ES] "Haga clic para cambiar los grupos"
 #: files/usr/share/cinnamon/cinnamon-settings-users/cinnamon-settings-users.py:575
@@ -2741,7 +2743,7 @@ msgstr "JSON wayaqanaka"
 #  [ES] "Seleccione un archivo JSON para importar"
 #: files/usr/share/cinnamon/cinnamon-settings/xlet-settings.py:541
 msgid "Select a JSON file to import"
-msgstr "Mä wayaqa JSON ajllim apayaniñataki"
+msgstr "Mä wayaqa JSON ajllima apayaniñataki"
 
 #  [ES] "Cancelar tarea"
 #: files/usr/share/cinnamon/applets/printers@cinnamon.org/cancel-print-dialog.py:31
@@ -2752,7 +2754,7 @@ msgstr "Janiwa saña lurawi"
 #  [ES] "¿Realmente quiere cancelar esta tarea?"
 #: files/usr/share/cinnamon/applets/printers@cinnamon.org/cancel-print-dialog.py:32
 msgid "Do you really want to cancel this job?"
-msgstr "Aka lurawixa janiw saña munapuntati?"
+msgstr "Aka lurawixa janiwa saña munapuntati?"
 
 #  [ES] "Continuar imprimiendo"
 #: files/usr/share/cinnamon/applets/printers@cinnamon.org/cancel-print-dialog.py:34
@@ -2916,7 +2918,7 @@ msgstr "Sistema ukata jisk'a-aplikasiyunawa. Janiwa chhaqhtayañjamakiti."
 #: files/usr/share/cinnamon/cinnamon-settings/bin/ExtensionCore.py:257
 msgid "This is a system desklet. It cannot be removed."
 msgstr ""
-"Iskrituryu sistem ukat mä jisk'a-aplikasiyunawa. Janiw chhaqhtayañjamakiti."
+"Iskrituryu sistem ukata mä jisk'a-aplikasiyunawa. Janiwa chhaqhtayañjamakiti."
 
 #  [ES] "Es una extensión del sistema. No se puede eliminar."
 #: files/usr/share/cinnamon/cinnamon-settings/bin/ExtensionCore.py:259
@@ -2990,7 +2992,7 @@ msgstr "Akxata"
 #: files/usr/share/cinnamon/cinnamon-settings/bin/ExtensionCore.py:541
 #, python-format
 msgid "Extension %s is not compatible with your version of Cinnamon."
-msgstr "Jithitatayawi (extensión) %s aka Cinnamon jakhumpixa janiw lurkiti."
+msgstr "Jithitatayawi (extensión) %s aka Cinnamon jakhumpixa janiwa lurkiti."
 
 #  [ES] ""
 #  [ES] "Hay múltiples instancias activas. ¿Seguro que quiere eliminarlas todas?"
@@ -2998,7 +3000,7 @@ msgstr "Jithitatayawi (extensión) %s aka Cinnamon jakhumpixa janiw lurkiti."
 msgid ""
 "There are multiple instances enabled. Are you sure you want to remove all of "
 "them?"
-msgstr "Walja kutinakaw akaxa naktayata. Taqpacha chhaqhtayaña munapuntati?"
+msgstr "Walja kutinakawa akaxa naktayata. Taqpacha chhaqhtayaña munapuntati?"
 
 #  [ES] "¿Seguro que quiere eliminar completamente %s?"
 #: files/usr/share/cinnamon/cinnamon-settings/bin/ExtensionCore.py:561
@@ -3137,7 +3139,7 @@ msgstr "Machaqa jank'aki tikla mayjachañatakixa klik luram."
 #  [ES] "Pulse Escape o haga clic de nuevo para cancelar la operación."
 #: files/usr/share/cinnamon/cinnamon-settings/bin/KeybindingWidgets.py:146
 msgid "Press Escape or click again to cancel the operation."
-msgstr "Jani lurañatakixa, ESC uka limt'am jani ukaxa mayampi klik luram."
+msgstr "Jani lurañatakixa, ESC uka limt'ama jani ukaxa mayampi klik lurama."
 
 #  [ES] ""
 #  [ES] "Pulse la tecla de retroceso para borrar la combinación de teclas existente"
@@ -3251,7 +3253,7 @@ msgstr "Uchantasa %s"
 msgid ""
 "An error occurred during the installation of %s. Please report this incident "
 "to its developer."
-msgstr "Uchantasaxa mä pantjawiw utji %s. Uñstayiriru yatiyam."
+msgstr "Uchantasaxa mä pantjawiwa utji %s. Uñstayiriru yatiyama."
 
 #  [ES] "Desinstalando %s"
 #: files/usr/share/cinnamon/cinnamon-settings/bin/Spices.py:692
@@ -3647,7 +3649,7 @@ msgstr "K'achatata tiklanaka"
 #  [ES] "acepta"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:262
 msgid "Put a delay between when a key is pressed and when it is accepted"
-msgstr "Mä wutuna limt'awi iyaw sañatakixa, mä qhipht'awi uskuña"
+msgstr "Mä wutuna limt'awi iyawa sañatakixa, mä qhipht'awi uskuña"
 
 #  [ES] "Alertar cuando se pulse una tecla"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:269
@@ -3657,7 +3659,7 @@ msgstr "Mä tikla limt'asinixa, uk yatiyañawa"
 #  [ES] "Alertar cuando se acepte una tecla"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:276
 msgid "Alert when a key is accepted"
-msgstr "Mä tikla iyaw satanixa, uka yatiyañawa"
+msgstr "Mä tikla iyawa satanixa, uka yatiyañawa"
 
 #  [ES] "Alertar cuando se rechace una tecla"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:283
@@ -3670,7 +3672,7 @@ msgstr "Mä tikla jark'atanixa, uka yatiyañawa"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:316
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:395
 msgid "Acceptance delay"
-msgstr "Iyaw sataru ukarux qawqhapachasa qhipht'ani"
+msgstr "Iyawa sataru ukaruxa qawqhapachasa qhipht'ani"
 
 #  [ES] "Corto"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_accessibility.py:293
@@ -4253,7 +4255,7 @@ msgstr "_Kasta:"
 #  [ES] "Seleccione cómo se deben manejar otros soportes"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_default.py:434
 msgid "Select how other media should be handled"
-msgstr "Yaqhipa mantawinakax kunjamasa apnaqasiñapa uka ajllim"
+msgstr "Yaqhipa mantawinakaxa kunjamasa apnaqasiñapa uka ajllima"
 
 #  [ES] "_Acción:"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_default.py:507
@@ -4838,9 +4840,9 @@ msgid ""
 "manager and run at maximum speed. Unselect it if you're experiencing screen-"
 "tearing in full screen mode."
 msgstr ""
-"Aka ajllim, phuqhata pantallana aplikasiyunanaka jani compositor uka "
+"Aka ajllima, phuqhata pantallana aplikasiyunanaka jani compositor uka "
 "apnaqapxañapataki ukhamaraki jank'aki apnaqasispa. Phuqhata pantallana "
-"pantjawi utjanixa jiwtayjam."
+"pantjawi utjanixa jiwtayjama."
 
 #  [ES] "Otras opciones"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_general.py:36
@@ -5013,7 +5015,7 @@ msgstr "Sistemana yatiyawi apkataña"
 #  [ES] "No se incluye información personal"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_info.py:191
 msgid "No personal information included"
-msgstr "Jaqinkiri yatiyawix janiw apthapitakiti"
+msgstr "Jaqinkiri yatiyawixa janiwa apthapitakiti"
 
 #  [ES] "Solución de problemas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_keyboard.py:32
@@ -6208,7 +6210,7 @@ msgid ""
 msgstr ""
 "google, facebook, twitter, yahoo, llika, web, en línea, online, chat, "
 "parlasiña, calendario, pacha-mara-jakhu, correo, email, e-chaski, contacto, "
-"owncloud, kerberos, imap, smtp, pocket, readitlater, jaqinkir yatiyawi, cuenta"
+"owncloud, kerberos, imap, smtp, pocket, readitlater, jaqinkiri yatiyawi, cuenta"
 
 #  [ES] "Cuentas en línea"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_online_accounts.py:13
@@ -6305,12 +6307,12 @@ msgstr "Imantañatakixa qawqhapachasa qhipht'ani"
 #  [ES] "Aspecto del panel"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_panel.py:68
 msgid "Panel appearance"
-msgstr "Wak'a ukax kunjamasa"
+msgstr "Wak'a ukaxa kunjamasa"
 
 #  [ES] "Permitir que el tema establezca el tamaño de la letra"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_panel.py:111
 msgid "Allow theme to determine font size"
-msgstr "Taqpach uñnaqa ukax qillqa ukch'a uchantani"
+msgstr "Taqpacha uñnaqa ukaxa qillqa ukch'a uchantani"
 
 #  [ES] "Tamaño de la letra"
 #. clock@cinnamon.org->settings-schema.json->font-size->description
@@ -6321,12 +6323,12 @@ msgstr "Qillqa ukch'a"
 #  [ES] "Escalar exactamente al tamaño del panel"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_panel.py:125
 msgid "Scale to panel size exactly"
-msgstr "Wak'an ukch'akam jach'aptayaña"
+msgstr "Wak'ana ukch'akama jach'aptayaña"
 
 #  [ES] "Escalar de forma óptima al tamaño del panel"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_panel.py:126
 msgid "Scale to panel size optimally"
-msgstr "Wak'a wali ukch'ar jach'aptayaña"
+msgstr "Wak'a wali ukch'aru jach'aptayaña"
 
 #  [ES] "Tamaño de los iconos en color"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_panel.py:134
@@ -6906,7 +6908,7 @@ msgstr "Suyt'ayasaxa, kumputaruru llawintaña"
 msgid ""
 "Enable this option to require a password when the computer wakes up from "
 "suspend"
-msgstr "Aka naktayam jamasata aru mayiñataki, ukaxa suyt'ayawi tukuyasa"
+msgstr "Aka naktayama jamasata aru mayiñataki, ukaxa suyt'ayawi tukuyasa"
 
 #  [ES] "Bloquear el equipo al iniciar el salvapantallas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_screensaver.py:87
@@ -7009,7 +7011,7 @@ msgstr "Qillqa kasta"
 #  [ES] "Solicitar un mensaje personalizado al bloquear la pantalla desde el menú"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_screensaver.py:137
 msgid "Ask for a custom message when locking the screen from the menu"
-msgstr "Minu ukata pantalla llawintasaxa, jaqinkirita yatiyaw mayiña"
+msgstr "Minu ukata pantalla llawintasaxa, jaqinkirita yatiyawi mayiña"
 
 #  [ES] ""
 #  [ES] "Esta opción le permite escribir un mensaje cada vez que bloquee la pantalla "
@@ -7812,12 +7814,12 @@ msgstr "Ch'iwichayaña ukhamaraki ch'iwi apaqaña"
 #  [ES] "Ajustar la opacidad"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:62
 msgid "Adjust opacity"
-msgstr "Ch'amakt'ayaw mayjachaña"
+msgstr "Ch'amakt'ayawi mayjachaña"
 
 #  [ES] "Acción del desplazamiento del ratón en la barra de título"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:64
 msgid "Action on title bar with mouse scroll"
-msgstr "Pata sutin wak'a ukan achakun unuqiwinx lurawi"
+msgstr "Pata sutina wak'a ukana achakuna unuqiwinxa lurawi"
 
 #  [ES] "Opacidad mínima"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:67
@@ -7855,12 +7857,12 @@ msgstr "Klik"
 #  [ES] "Descuidado"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:80
 msgid "Sloppy"
-msgstr "Janiw phuqhatakiti"
+msgstr "Janiwa phuqhatakiti"
 
 #  [ES] "Modo de enfoque de las ventanas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:81
 msgid "Window focus mode"
-msgstr "Kunjams wintananakax chiqacht'asini"
+msgstr "Kunjamsa wintananakaxa chiqacht'asini"
 
 #  [ES] ""
 #  [ES] "El modo de enfoque indica cómo se activan las ventanas. Tiene tres valores "
@@ -7877,29 +7879,29 @@ msgid ""
 "and \"mouse\" means windows are focused when the mouse enters the window and "
 "unfocused when the mouse leaves the window."
 msgstr ""
-"Kunjams chiqacht'asini ukaxa, kunjams wintananakx naktayasini uk yatiyi. kimsa "
-"ajlliñanak utji: \"klik\" sañ muniwa wintananakan klik lurañawa ukax "
-"chiqacht'ayañatakiwa, \"jani phuqhatakiti\" sañ muniwa wintananakax "
-"chiqacht'aninakaniwa ukaxa achakux wintanar mantkis ukja. Ukata \"achaku\" sañ "
-"muniwa, wintananakax chiqacht'aninakaniwa ukaxa achaku wintananakar mantkis "
-"ukja, ukhamaraki chiqacht'ayir chhaqhtayi ukaxa achaku wintananakat mistkis "
-"ukja."
+"Kunjamsa chiqacht'asini ukaxa, kunjamsa wintananakxa naktayasini uka yatiyi. "
+"Kimsa ajlliñanak utji: \"klik\" saña muniwa wintananakana klik lurañawa ukaxa "
+"chiqacht'ayañatakiwa, \"jani phuqhatakiti\" saña muniwa wintananakaxa "
+"chiqacht'aninakaniwa ukaxa achakuxa wintanaru mantkisa ukja. Ukata \"achaku\" "
+"saña muniwa, wintananakaxa chiqacht'aninakaniwa ukaxa achaku wintananakaru "
+"mantkisa ukja, ukhamaraki chiqacht'ayir chhaqhtayi ukaxa achaku wintananakata "
+"mistkisa ukja."
 
 #  [ES] "Traer al primer plano las ventanas con el foco automáticamente"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:85
 msgid "Automatically raise focused windows"
-msgstr "Chiqacht'ayat wintananaka nayraqatar justupak apayaniña"
+msgstr "Chiqacht'ayata wintananaka nayraqataru justupaki apayaniña"
 
 #  [ES] "Traer las ventanas que requieran atención al área de trabajo actual"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:91
 msgid "Bring windows which require attention to the current workspace"
 msgstr ""
-"Munat wintananak apnaqaskani ukax, jichha kawkhanti irnaqasi ukar apayaniña"
+"Munata wintananak apnaqaskani ukax, jichha kawkhanti irnaqasi ukaru apayaniña"
 
 #  [ES] "Evitar que las ventanas que requieran atención obtengan el foco"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:94
 msgid "Prevent windows which require attention from stealing focus"
-msgstr "Janiw iyawskiti munat wintananak apnaqaskani ukanaka chiqacht'ayaña"
+msgstr "Janiwa iyawskiti munata wintananaka apnaqaskani ukanaka chiqacht'ayaña"
 
 #  [ES] "Inteligente"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:97
@@ -7929,19 +7931,19 @@ msgid ""
 "mode, and 'strict' results in windows started from a terminal not being given "
 "focus."
 msgstr ""
-"Akaxa kunjams uñstayat wintananakax chiqacht'ayata. Pä ajlliñanakaw utji: "
-"\"ch'ikhi\" kunjams apnaqirix aliqak chiqacht'ayi ukhamaraki \"chiqa\"ukaxa "
-"terminal ukat qalltir wintananak jani chiqacht'asipxañapataki."
+"Akaxa kunjamsa uñstayata wintananakaxa chiqacht'ayata. Pä ajlliñanakawa utji: "
+"\"ch'ikhi\" kunjamsa apnaqirixa aliqaki chiqacht'ayi ukhamaraki \"chiqa\" "
+"ukaxa terminal ukata qalltir wintananaka jani chiqacht'asipxañapataki."
 
 #  [ES] "Acoplar las ventanas de diálogo a la ventana principal"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:102
 msgid "Attach dialog windows to the parent window"
-msgstr "Aruskipaw wintananakampi, nayrankiri wintanaru mayachaña"
+msgstr "Aruskipawi wintananakampi, nayrankiri wintanaru mayachaña"
 
 #  [ES] "Mover y redimensionar ventanas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:105
 msgid "Moving and Resizing Windows"
-msgstr "Unxtayaña ukhamaraki ukch'ar/akch'ar wintananak tukuyaña"
+msgstr "Unxtayaña ukhamaraki ukch'aru/akch'aru wintananaka tukuyaña"
 
 #  [ES] "Cursor"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:109
@@ -7961,13 +7963,14 @@ msgstr "Taypi"
 #  [ES] "Ubicación de las ventanas recién abiertas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:110
 msgid "Location of newly opened windows"
-msgstr "Jichha jist'arat wintananak kawkhankisa"
+msgstr "Jichha jist'arata wintananaka kawkhankisa"
 
 #  [ES] "Tecla especial para mover y redimensionar ventanas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:114
 msgid "Special key to move and resize windows"
 msgstr ""
-"Tiklanak unxtayañataki ukhamaraki ukch'ar/akch'ar wintananak mayjaptayañataki"
+"Tiklanaka unxtayañataki ukhamaraki ukch'aru/akch'aru wintananaka "
+"mayjaptayañataki"
 
 #  [ES] ""
 #  [ES] "Al pulsar la tecla especial, se pueden arrastrar las ventanas con el botón "
@@ -7984,14 +7987,14 @@ msgstr ""
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:118
 msgid "Window drag/resize threshold"
 msgstr ""
-"Qawqha pixelnak ukanaka qatatiñataki ukhamaraki ukch'ar akch'ar wintananak "
+"Qawqha pixelnaka ukanaka qatatiñataki ukhamaraki ukch'aru akch'aru wintananaka "
 "mayjaptayañataki"
 
 #  [ES] ""
 #  [ES] "Resistencia del borde con otras ventanas y con los límites del monitor"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:121
 msgid "Edge resistance with other windows and monitor boundaries"
-msgstr "Thiyapa ukax janiw pachpa yaqha wintananakan chiqankaspati"
+msgstr "Thiyapa ukaxa janiwa pachpa yaqha wintananakana chiqankaspati"
 
 #  [ES] ""
 #  [ES] "Hace que los bordes de las ventanas se peguen cuando se muevan o cambien de "
@@ -8001,8 +8004,9 @@ msgid ""
 "Make window borders stick when moved or resized near other windows or monitor "
 "edges."
 msgstr ""
-"Wintananakan thiyanakap chikasispa ukja unxtasipxi ukhamaraki ukch'ar akch'ar "
-"mayjt'ayasipxi yaqha wintananakan jak'ankki jan ukjax monitor thiyanakapana."
+"Wintananakana thiyanakapa chikasispa ukja unxtasipxi ukhamaraki ukch'aru "
+"akch'aru mayjt'ayasipxi yaqha wintananakana jak'ankki jani ukjaxa monitor "
+"thiyanakapana."
 
 #  [ES] "Alt-Tab"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:128
@@ -8028,12 +8032,12 @@ msgstr "Saltanakampi jisk'alalanakampi"
 #  [ES] "Iconos y vistas previas de las ventanas"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:136
 msgid "Icons and window preview"
-msgstr "Saltanaka ukhamaraki wintananak nayraqat uñjañataki"
+msgstr "Saltanaka ukhamaraki wintananaka nayraqata uñjañataki"
 
 #  [ES] "Vistas previas de las ventana (sin iconos)"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:137
 msgid "Window preview (no icons)"
-msgstr "Wintananak nayraqat uñjañataki (jan saltanakampi)"
+msgstr "Wintananaka nayraqata uñjañataki (jani saltanakampi)"
 
 #  [ES] "Carrusel (3D)"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:138
@@ -8048,7 +8052,7 @@ msgstr "Pacha siqi (3D)"
 #  [ES] "Estilo del selector Alt-Tab"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:141
 msgid "Alt-Tab switcher style"
-msgstr "Alt-Tab ajllir kasta"
+msgstr "Alt-Tab ajlliri kasta"
 
 #  [ES] ""
 #  [ES] "Mostrar el selector Alt-Tab en el monitor principal en lugar de en el "
@@ -8057,17 +8061,18 @@ msgstr "Alt-Tab ajllir kasta"
 msgid ""
 "Display the alt-tab switcher on the primary monitor instead of the active one"
 msgstr ""
-"Alt-tab ajllir uñachayaña nayrankir munitura ukana, monitor apnaqasiskis lanti"
+"Alt-tab ajlliri uñachayaña nayrankiri munitura ukana, monitor apnaqasiskisa "
+"lanti"
 
 #  [ES] "Mover las ventanas minimizadas al final del selector Alt-Tab"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:147
 msgid "Move minimized windows to the end of the alt-tab switcher"
-msgstr "Jisk'aptayat wintananak ajllir Alt-Tab tukuykis ukjar unxtayaña"
+msgstr "Jisk'aptayata wintananaka ajlliri Alt-Tab tukuykisa ukjaru unxtayaña"
 
 #  [ES] "Retraso para mostrar el selector Alt-Tab"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_windows.py:150
 msgid "Delay before displaying the alt-tab switcher"
-msgstr "Qawqha pachas ajllir Alt-Tab uñachayañataki"
+msgstr "Qawqha pachasa ajlliri Alt-Tab uñachayañataki"
 
 #  [ES] "Mostrar las ventanas de todas las áreas de trabajo"
 #. grouped-window-list@cinnamon.org->settings-schema.json->show-all-
@@ -8107,8 +8112,8 @@ msgstr "Kawkhanakanti irnaqasi ukjanakan muytayaña"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_workspaces.py:35
 msgid "Only use workspaces on primary monitor (requires Cinnamon restart)"
 msgstr ""
-"Nayrankir munitura (monitor) ukana, kawkhanakanti irnaqasi ukaki apnaqaña "
-"(Cinnamon mayamp qalltañ munasi)"
+"Nayrankiri munitura (monitor) ukana, kawkhanakanti irnaqasi ukaki apnaqaña "
+"(Cinnamon mayampi qalltaña munasi)"
 
 #  [ES] "Mostrar la vista de exposición como una cuadrícula"
 #: files/usr/share/cinnamon/cinnamon-settings/modules/cs_workspaces.py:38
@@ -8131,13 +8136,13 @@ msgid ""
 "Invert the left and right arrow key directions used to shift workspaces during "
 "a window drag"
 msgstr ""
-"Ch'iqa mich'i tikla ukhamaraki kupi mich'i tikla muytayaña, mä wintan "
-"qatatisa, yaqha kawkhanti irnaqasi ukar sarañataki"
+"Ch'iqa mich'i tikla ukhamaraki kupi mich'i tikla muytayaña, mä wintana "
+"qatatisa, yaqha kawkhanti irnaqasi ukaru sarañataki"
 
 #  [ES] "Cinnamon se acaba de bloquear"
 #: files/usr/bin/cinnamon-launcher:39
 msgid "Cinnamon just crashed"
-msgstr "Cinnamon ukax sayt'iwa"
+msgstr "Cinnamon ukaxa sayt'iwa"
 
 #  [ES] ""
 #  [ES] "Desactivar las miniaplicaciones, miniaplicaciones del escritorio y "
@@ -8146,7 +8151,7 @@ msgstr "Cinnamon ukax sayt'iwa"
 msgid "Disable downloaded applets, desklets and extensions"
 msgstr ""
 "Jisk'a-aplikasiyunanakampi, iskrituryu jisk'a-aplikasiyunanakampi ukhamaraki "
-"apaqat jithitatayawinakampi jiwt'ayaña"
+"apaqata jithitatayawinakampi jiwt'ayaña"
 
 #  [ES] "Se está ejecutando el modo de recuperación de errores."
 #: files/usr/bin/cinnamon-launcher:44
@@ -8162,8 +8167,8 @@ msgid ""
 "If you suspect the source of the crash is a local extension, applet or "
 "desklet, you can disable downloaded add-ons using the checkbox below."
 msgstr ""
-"Sitix sayt'awi ukax, jithitatayawi layku apasiwayki, apaqatanak jiwt'ayasmawa, "
-"pusi k'uchu jutir chiqatap yatiñataki apnaqasa."
+"Sitixa sayt'awi ukaxa, jithitatayawi layku apasiwayki, apaqatanaka "
+"jiwt'ayasmawa, pusi k'uchu jutiri chiqatapa yatiñataki apnaqasa."
 
 #  [ES] "¿Quiere reiniciar Cinnamon?"
 #: files/usr/bin/cinnamon-launcher:46
@@ -8191,7 +8196,7 @@ msgstr "Jichhaptayata %s"
 #  [ES] "Menú principal de Cinnamon"
 #. menu@cinnamon.org->metadata.json->description
 msgid "Main Cinnamon menu"
-msgstr "Cinnamon nayrankir minu (menú)"
+msgstr "Cinnamon nayrankiri minu (menú)"
 
 #  [ES] "Distribución y contenido"
 #. menu@cinnamon.org->settings-schema.json->menu-layout->title
@@ -9272,8 +9277,8 @@ msgstr ""
 "Aka wutunanakampi anatasima ukataxa wak'a ukana jisk'a-aplikasiyuna kunasa "
 "luri uka uñjama.\n"
 "\n"
-"Aka qillqa uñt'a sutinxa janiw mayjaptaykasmati. Amuyt'anak jan ukjax kunjams "
-"apnaqayaña uk uñachayañataki, mä uñt'a suti apnaqasmawa, akjama."
+"Aka qillqa uñt'a sutinxa janiwa mayjaptaykasmati. Amuyt'anaka jani ukjaxa "
+"kunjamsa apnaqayaña uka uñachayañataki, mä uñt'a suti apnaqasmawa, akjama."
 
 #  [ES] "Icono que se usa en el panel"
 #. settings-example@cinnamon.org->settings-schema.json->icon-name->description
@@ -9317,7 +9322,7 @@ msgid ""
 "Increase or decrease this spinner value to make the applet wider or narrower "
 "in the panel"
 msgstr ""
-"Aka jakhu jach'aptayama jan ukjax jisk'aptayam, juk'ampi anchu jani ukjaxa "
+"Aka jakhu jach'aptayama jani ukjaxa jisk'aptayama, juk'ampi anchu jani ukjaxa "
 "juk'ampi juch'usa wak'ana jisk'a-aplikasiyuna tukuyañataki"
 
 #  [ES] "Elija una opción"

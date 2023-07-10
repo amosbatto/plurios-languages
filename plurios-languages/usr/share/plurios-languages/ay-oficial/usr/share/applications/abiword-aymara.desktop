@@ -2,14 +2,14 @@
 Type=Application
 X-Desktop-File-Install-Version=0.9
 Name=AbiWord Aymara
-Name[es]=AbiWord aymar aruna
-Name[ay]=AbiWord aymar aruna
+Name[es]=AbiWord aymara aruna
+Name[ay]=AbiWord aymara aruna
 Name[qu]=AbiWord aymara simipi
 GenericName=Procesador de textos Aymara
 GenericName[es]=Procesador de textos Aymara
 Comment=Procesador de textos Abiword en aymara
-Comment[es]=AbiWord aymar aruna qillqatanak askichiri
-Comment[ay]=AbiWord aymar aruna qillqatanak askichiri
+Comment[es]=AbiWord aymara aruna qillqatanaka askichiri
+Comment[ay]=AbiWord aymara aruna qillqatanaka askichiri
 Comment[qu]=AbiWord aymara simipi qillqasqakuna p'anqachaq
 Exec=bash -c "LANG=ayc_BO abiword"
 Icon=abiword

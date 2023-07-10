@@ -1,11 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Video tutoriales Plataforma Min. Educación
-Name[es]=Yatichäw Kamanin yatichañatak videonaka
-Name[ay]=Yatichäw Kamanin yatichañatak videonaka
+Name[es]=Yatichäwi Kamanina yatichañataki videonaka
+Name[ay]=Yatichäwi Kamanina yatichañataki videonaka
 Comment=Video tutoriales para uso de recursos de la plataforma Min. Educación
-Comment[es]=Yatichañatak videonak, Yatichäw Kamanin web chiqawja apnaqañataki
-Comment[ay]=Yatichañatak videonak, Yatichäw Kamanin web chiqawja apnaqañataki
+Comment[es]=Yatichañataki videonaka, Yatichäwi Kamanina web chiqawja apnaqañataki
+Comment[ay]=Yatichañataki videonaka, Yatichäwi Kamanina web chiqawja apnaqañataki
 GenericName=Web Browser
 GenericName[es]=Navegador web
 Exec=firefox %u http://educa.minedu.gob.bo/tutoriales

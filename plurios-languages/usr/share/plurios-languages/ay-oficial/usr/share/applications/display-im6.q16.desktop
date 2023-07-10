@@ -2,8 +2,8 @@
 Version=1.0
 Name=ImageMagick
 Comment=Display and edit image files
-Comment[es]=Wayaq jamuqanak uñjam ukhamarak askicham
-Comment[ay]=Wayaq jamuqanak uñjam ukhamarak askicham
+Comment[es]=Wayaqa jamuqanaka uñjama ukhamaraki askichama
+Comment[ay]=Wayaqa jamuqanaka uñjama ukhamaraki askichama
 Comment[fr]=Affiche et édite des fichiers images
 Comment[pt]=Exiba e edite arquivos de imagem
 Exec=/usr/bin/display-im6.q16 -nostdin %F

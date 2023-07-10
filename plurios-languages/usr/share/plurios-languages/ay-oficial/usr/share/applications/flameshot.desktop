@@ -12,7 +12,7 @@ GenericName[ru]=Создание скриншотов
 GenericName[sr]=Снимач екрана
 GenericName[uk]=Інструмент скриншотів
 Comment=Powerful yet simple to use screenshot software.
-Comment[es]=Pantall katthapiñaxa wali kusawa ukhamas jasakirakiw apnaqañatakixa
+Comment[es]=Pantalla katthapiñaxa wali kusawa ukhamasa jasakirakiwa apnaqañatakixa
 Comment[zh_CN]=强大又易用的屏幕截图软件
 Comment[pl]=Proste w użyciu narzędzie do zrzutów ekranu
 Comment[fr]=Logiciel de capture d'écran puissant et simple d'utilisation.
@@ -41,6 +41,7 @@ Name[ja]=設定
 Name[ru]=Настройки
 Name[sr]=Подешавања
 Name[uk]=Налаштувати
+Name[es]=Mayjachaña
 Exec=flameshot config
 
 [Desktop Action Capture]
@@ -52,4 +53,5 @@ Name[ja]=スクリーンショットを撮る
 Name[ru]=Сделать скриншот
 Name[sr]=Сними екран
 Name[uk]=Зробити знімок
+Name[es]=Toma una captura de pantalla
 Exec=flameshot gui --delay 500

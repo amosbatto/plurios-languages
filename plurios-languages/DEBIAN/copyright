@@ -2,12 +2,11 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: plurios-languages
 Upstream-Contact: Amos Batto <amosbatto@yahoo.com>
 Source: https://github.com/amosbatto/plurios-languages
- 
 Files: /usr/bin/plurios
 Copyright: 2022 Amos Batto <amosbatto@yahoo.com>
-License: GPL-3.0+
+License: GPL-3+
 
-License: GPL-3.0+
+License: GPL-3+
  GNU GENERAL PUBLIC LICENSE
  .
  Version 3, 29 June 2007

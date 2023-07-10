@@ -1,12 +1,11 @@
 [Desktop Entry]
-Name=Cambiar a aymara (sin elisión)
-Name[es]=Aymar (sin elisión) aru ukan uñachayaña
-Name[es]=Cambiar a aymara (sin elisión)
-Comment=Cambie la interfaz de PluriOS a aymara
+Name=Cambiar a aymara (oficial)
+Name[es]=Aymar (oficial) aru ukan uñachayaña
+Name[es]=Cambiar a aymara (oficial)
+Comment=Cambie la interfaz de PluriOS a aymara oficial (sin elisión)
 Comment[es]=Cambie la interfaz de PluriOS a aymara oficial (sin elisión)
-Exec=sudo /usr/bin/plurios -l ay-oficial
+Exec=pkexec /usr/bin/plurios -l ay-oficial
 Icon=preferences-desktop-locale
-Terminal=true
 Type=Application
 Categories=GNOME;GTK;Settings;DesktopSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel;X-GNOME-PersonalSettings;PluriOS
 NotShowIn=KDE;

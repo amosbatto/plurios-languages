@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Brave Web Browser
-Name[ay]=Brave llikapuran tuyuri
-Name[es]=Brave llikapuran tuyuri
+Name[ay]=Brave llikapurana tuyuri
+Name[es]=Brave llikapurana tuyuri
 # Only KDE 4 seems to use GenericName, so we reuse the KDE strings.
 # From Ubuntu's language-pack-kde-XX-base packages, version 9.04-20090413.
 GenericName=Web Browser
@@ -59,7 +59,7 @@ GenericName[vi]=Bộ duyệt Web
 # Gnome and KDE 3 uses Comment.
 Comment=Access the Internet
 Comment[ar]=الدخول إلى الإنترنت
-Comment[ay]=Llikapuran web laphinak uñjam
+Comment[ay]=Llikapurana web laphinaka uñjama
 Comment[bg]=Достъп до интернет
 Comment[bn]=ইন্টারনেটটি অ্যাক্সেস করুন
 Comment[ca]=Accedeix a Internet
@@ -68,7 +68,7 @@ Comment[da]=Få adgang til internettet
 Comment[de]=Internetzugriff
 Comment[el]=Πρόσβαση στο Διαδίκτυο
 Comment[en_GB]=Access the Internet
-Comment[es]=Llikapuran web laphinak uñjam
+Comment[es]=Llikapurana web laphinaka uñjama
 Comment[et]=Pääs Internetti
 Comment[fi]=Käytä internetiä
 Comment[fil]=I-access ang Internet
@@ -121,7 +121,7 @@ Actions=new-window;new-private-window;
 Name=New Window
 Name[am]=አዲስ መስኮት
 Name[ar]=نافذة جديدة
-Name[ay]=Machaq wintana
+Name[ay]=Machaqa wintana
 Name[bg]=Нов прозорец
 Name[bn]=নতুন উইন্ডো
 Name[ca]=Finestra nova
@@ -130,7 +130,7 @@ Name[da]=Nyt vindue
 Name[de]=Neues Fenster
 Name[el]=Νέο Παράθυρο
 Name[en_GB]=New Window
-Name[es]=Machaq wintana
+Name[es]=Machaqa wintana
 Name[et]=Uus aken
 Name[fa]=پنجره جدید
 Name[fi]=Uusi ikkuna
@@ -183,7 +183,7 @@ Name[da]=Nyt inkognitovindue
 Name[de]=Neues Inkognito-Fenster
 Name[el]=Νέο παράθυρο για ανώνυμη περιήγηση
 Name[en_GB]=New Incognito window
-Name[es]=Jan uñt'at machaq wintana
+Name[es]=Jani uñt'ata machaqa wintana
 Name[et]=Uus inkognito aken
 Name[fa]=پنجره جدید حالت ناشناس
 Name[fi]=Uusi incognito-ikkuna
