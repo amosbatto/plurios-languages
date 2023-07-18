@@ -1,3 +1,4 @@
+/usr/bin/setCinnamonMenuLabel
 echo ""
 echo "Despues de instalar este paquete, ejecuta el comando "plurios" en un terminal para cambiar la lengua del sistema."
 echo "Cambiar a español: sudo plurios -l es"
